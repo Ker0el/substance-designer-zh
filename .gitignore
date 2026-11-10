@@ -1,0 +1,30 @@
+# 本地依赖与参考/备份（不发布）
+_ThirdParty/
+_backup/
+_ref/
+
+# 构建产物
+cpp/build/
+dist/
+*.dll
+*.exp
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 运行时/调试产物
+*.log
+*.dmp
+tests/smoke_*.png
+debug_autotest.flag
+
+# 编辑器
+.vs/
+.vscode/
+.idea/

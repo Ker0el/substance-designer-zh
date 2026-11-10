@@ -1,0 +1,243 @@
+remaining upper 1319
+Draw top and bottom
+Correct ratio from original image resolution
+Out of Bounds Apha
+Need to depend on tiling
+Uniform high quality blur grayscale version
+XYZ
+Inverse Transform to crop inside the image
+Sample mask 4 neighbours
+Beta
+Creates a bigger texture from a small patch
+Loop body
+Go to next pixel
+Startup pixel count
+Last attempt to stitch close end points
+Is end of path
+Negative integers workaround
+Controls the contrast of the noise pattern
+Add moss in the lower parts of the texture
+TODO
+RG: Tangents
+B: unsued
+A: unsused
+Set the width of the first Layer
+Set the width of the second Layer
+Set the amount of impacts
+Set the size of the impacts
+Set the lenght of the cracks due to impacts
+V2
+V1
+Read me
+M4
+Out
+Vertex0
+Vertex1
+Vertex2
+Vertex3
+Rotation (close your eyes)
+Levels of the Diffuse output
+Sharpen the Diffuse output
+Ambient occlusion strength
+Intensity of the AO on the Diffuse output
+AO spreading
+Bitmap to material light
+Sharpens the Diffuse map
+Invert generated relief
+Relief equalizer
+Pinch intensity
+Normal sharpen
+Sharpens the Normal and Height maps
+Softens the Normal and Height maps
+Specular diffuse influence
+Specular saturation
+Changes the saturation of the Specular map
+Specular sharpen
+Sharpens the Specular map
+Specular map levels in
+Specular map levels out
+Metallic specular influence
+Glossiness levels in
+Glossiness map levels in
+Glossiness levels out
+Glossiness map levels out
+Metallic glossiness influence
+Roughness levels in
+Roughness levels out
+Metallic Roughness influence
+Shadows spreading distance
+Distance of the light which generate shadows
+Levels of the Shadows
+Bitmap diffuse
+Blackbody
+Blend (Deprecated)
+Blend filter with several blending modes
+Exclusion (Deprecated)
+Hard light (Deprecated)
+Soft light (Deprecated)
+Color dodge
+CPU friendly version
+Color burn
+Linear burn
+Screen (Deprecated)
+Overlay (Deprecated)
+Min (Deprecated)
+Max (Deprecated)
+Multiply (Deprecated)
+Subtract (Deprecated)
+Add (Deprecated)
+Copy (Deprecated)
+Multiswitch color
+Multiswitch grayscale
+Switch grayscale
+Switch color
+Blur HQ color
+Uniform high quality blur
+Blur HQ grayscale
+BnW spots 1 (Legacy)
+Black & white spots 1
+BnW spots 2 (Legacy)
+Black & white spots 2
+BnW spots 3 (Legacy)
+Black & white spots 3
+Brick 1 (Legacy)
+Brick 2 (Legacy)
+Brick 3 (Legacy)
+Luminance variation seed
+Brick generator (Legacy)
+Cartesian to polar color
+Polar to cartesian color
+Cartesian to polar grayscale
+Polar to cartesian grayscale
+Cells 1 (Legacy)
+Cells 2 (Legacy)
+Cells 3 (Legacy)
+Cells 4 (Legacy)
+Channel mixer
+Red channel
+Green channel
+Blue channel
+Monochrome
+Checker 1 (Legacy)
+Checker 2 (Legacy)
+Chrominance extract
+Clamp grayscale
+Clamp color
+Apply to alpha
+Clone
+Creates two clones of the entry image
+Clone patch color
+Clone patch grayscale
+Multiclone patch color
+Multiclone patch grayscale
+Material clone patch
+Areas normal
+Areas height
+Transform to center color
+Transform to center grayscale
+Transform from center
+Out of bounds Float2
+Clouds 1 (Legacy)
+Clouds 2 (Legacy)
+Clouds 3 (Legacy)
+Color equalizer
+Multicolor equalizer
+Color match
+Source color mode
+Target color mode
+ACEScg to sRGB
+Linear sRGB to sRGB color
+Linear sRGB to sRGB grayscale
+Color temperature adjustment
+Magenta-green
+Color space
+Mask softness
+Keying type
+Flatten alpha
+Selection fade
+Distance weights
+Float value
+Float2 value
+Float3 value
+Float4 value
+Integer value
+Integer2 value
+Integer3 value
+Integer4 value
+Boolean value
+Creased (Legacy)
+Crop color
+Crop grayscale
+Multicrop color
+Multicrop grayscale
+Material crop
+Out of bounds
+Boundaries
+Rotate 2D
+Cross section
+Cross section coordinate
+Section axis
+Helper scale
+Helper position
+Drawing style
+Line style
+Segment size
+Crystal 1 (Legacy)
+Crystal 2 (Legacy)
+Convexity
+Concavity
+Curvature sobel
+Sobel Filter
+Details to baked maps
+Baked AO
+Baked curvature
+Curvature intensity
+Curvature softness
+Combined AO
+Combined curvature
+Diffusion color
+Use alpha as mask
+Diffusion grayscale
+Diffusion UV
+Sort 4 floats
+Directional noise (Legacy)
+Dirt 1 (Legacy)
+Dirt 2 (Legacy)
+Dirt 3 (Legacy)
+Dirt 4 (Legacy)
+Dirt 5 (Legacy)
+Dirt 6 (Legacy)
+Dirt gradient (Legacy)
+Edge detect
+Edge roundness
+Emboss with gloss
+Extend shape grayscale
+Start luminance offset
+End luminance offset
+Lum. offset ignores black pixels
+Extend shape color
+Age creases
+Facing normal
+Fibers 1 (Legacy)
+Fibers 2 (Legacy)
+Flood fill mapper grayscale
+Luminance range
+Luminance range random
+Luminance offset
+Luminance offset random
+Luminance offset map multiplier
+Flood fill mapper color
+Alpha adjustment
+Flood fill to index
+Special shape info
+Show flood fill data table
+Shape index
+Shape data table
+Offset 1 pixel
+Choose next
+Sample both current pixel and its next
+Iterate to search min and max of BBox
+Show advanced options
+Bbox
+Special shape infos
+Flood fill to color

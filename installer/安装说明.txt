@@ -1,0 +1,28 @@
+﻿星空汉化 · Substance 3D Designer 中文插件 v0.1.2
+
+功能
+  · 菜单、按钮、参数、资源架、下拉框、tooltip 中文化
+  · 资源架支持中文和英文搜索
+  · F1 中英文一键切换
+  · 菜单「星空汉化」内含 B 站主页和设置
+
+安装
+  1. 先完全退出 Substance 3D Designer。
+  2. 点击下一步。安装程序已经填好 Designer 的用户插件目录：
+     %USERPROFILE%\Documents\Adobe\Adobe Substance 3D Designer\python\sduserplugins\xingkong_zh
+     不需要选择 Designer 的安装目录，也不需要扫描。
+     如果 Documents 被 OneDrive 重定向，安装程序会自动使用实际路径。
+  3. 启动 Designer → 工具 → 插件管理器（Plugin Manager），启用 xingkong_zh。
+  4. 菜单栏出现「星空汉化」即安装成功。
+
+说明
+  · 只安装到当前用户目录，不需要管理员权限。
+  · 不修改 Designer 本体、工程文件和 Adobe 官方中文。
+
+卸载
+  设置 → 应用 → 已安装的应用 → 卸载「星空汉化 · SD 中文插件」。
+  只删除本插件自己的文件，不影响 Designer 本体。
+
+完全免费，禁止售卖。
+星空
+B 站主页：https://space.bilibili.com/177308205

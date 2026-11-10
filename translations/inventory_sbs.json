@@ -1,0 +1,17330 @@
+[
+ [
+  "Material",
+  806
+ ],
+ [
+  "Channels",
+  502
+ ],
+ [
+  "Output",
+  343
+ ],
+ [
+  "Generator",
+  302
+ ],
+ [
+  "Height",
+  287
+ ],
+ [
+  "Basic parameters",
+  273
+ ],
+ [
+  "Filter",
+  249
+ ],
+ [
+  "Size",
+  204
+ ],
+ [
+  "Normal",
+  201
+ ],
+ [
+  "Advanced parameters",
+  189
+ ],
+ [
+  "Position",
+  182
+ ],
+ [
+  "Diffuse",
+  182
+ ],
+ [
+  "Specular",
+  172
+ ],
+ [
+  "Roughness",
+  167
+ ],
+ [
+  "Pattern",
+  161
+ ],
+ [
+  "Non-square expansion",
+  161
+ ],
+ [
+  "Preview",
+  157
+ ],
+ [
+  "Spline",
+  155
+ ],
+ [
+  "Metallic",
+  149
+ ],
+ [
+  "Rotation",
+  148
+ ],
+ [
+  "Glossiness",
+  138
+ ],
+ [
+  "Scale",
+  129
+ ],
+ [
+  "Mask",
+  129
+ ],
+ [
+  "Contrast",
+  127
+ ],
+ [
+  "Input",
+  116
+ ],
+ [
+  "Ambient occlusion",
+  112
+ ],
+ [
+  "Scan",
+  98
+ ],
+ [
+  "Mesh data",
+  98
+ ],
+ [
+  "Base color",
+  97
+ ],
+ [
+  "Opacity",
+  96
+ ],
+ [
+  "Shape",
+  91
+ ],
+ [
+  "Effect",
+  90
+ ],
+ [
+  "Advanced",
+  87
+ ],
+ [
+  "Disorder",
+  86
+ ],
+ [
+  "Curvature",
+  75
+ ],
+ [
+  "Material Filter",
+  74
+ ],
+ [
+  "Blending",
+  73
+ ],
+ [
+  "Invert",
+  72
+ ],
+ [
+  "Base Color",
+  65
+ ],
+ [
+  "Background color",
+  64
+ ],
+ [
+  "Blending mode",
+  61
+ ],
+ [
+  "Ambient Occlusion",
+  60
+ ],
+ [
+  "Edge",
+  54
+ ],
+ [
+  "Spline coords",
+  52
+ ],
+ [
+  "Spline data",
+  52
+ ],
+ [
+  "Material2",
+  48
+ ],
+ [
+  "Material1",
+  48
+ ],
+ [
+  "Spline amount",
+  48
+ ],
+ [
+  "SDF function",
+  47
+ ],
+ [
+  "Normal format",
+  46
+ ],
+ [
+  "Offset",
+  45
+ ],
+ [
+  "Mesh Adaptive",
+  43
+ ],
+ [
+  "Balance",
+  43
+ ],
+ [
+  "Splines & Paths",
+  43
+ ],
+ [
+  "Thickness",
+  42
+ ],
+ [
+  "Background",
+  42
+ ],
+ [
+  "Luminosity",
+  42
+ ],
+ [
+  "Angle",
+  40
+ ],
+ [
+  "The output image.",
+  39
+ ],
+ [
+  "Camera",
+  39
+ ],
+ [
+  "Disorder speed",
+  39
+ ],
+ [
+  "Emissive",
+  38
+ ],
+ [
+  "World space normal",
+  37
+ ],
+ [
+  "Mode",
+  36
+ ],
+ [
+  "Specular level",
+  36
+ ],
+ [
+  "Saturation",
+  35
+ ],
+ [
+  "Radius",
+  32
+ ],
+ [
+  "Helpers",
+  31
+ ],
+ [
+  "AO",
+  30
+ ],
+ [
+  "Brush pattern",
+  30
+ ],
+ [
+  "Normal Intensity",
+  30
+ ],
+ [
+  "Normal Format",
+  30
+ ],
+ [
+  "Height Range",
+  30
+ ],
+ [
+  "Height Position",
+  30
+ ],
+ [
+  "AO Spreading",
+  30
+ ],
+ [
+  "Paths",
+  29
+ ],
+ [
+  "Palette",
+  29
+ ],
+ [
+  "Hue Shift",
+  29
+ ],
+ [
+  "Smoothness",
+  28
+ ],
+ [
+  "Rotation random",
+  28
+ ],
+ [
+  "Intensity",
+  28
+ ],
+ [
+  "Level",
+  28
+ ],
+ [
+  "Flood fill",
+  27
+ ],
+ [
+  "Mask (Optional)",
+  27
+ ],
+ [
+  "Disorder anisotropy",
+  27
+ ],
+ [
+  "Disorder anisotropy angle",
+  27
+ ],
+ [
+  "Tile offset",
+  27
+ ],
+ [
+  "Controls the position of the portion of infinite plane used to render the noise.",
+  27
+ ],
+ [
+  "Points coordinates",
+  27
+ ],
+ [
+  "spline",
+  27
+ ],
+ [
+  "Render settings",
+  26
+ ],
+ [
+  "Input selection",
+  26
+ ],
+ [
+  "3D intersection functions",
+  24
+ ],
+ [
+  "Value 1",
+  24
+ ],
+ [
+  "Value 2",
+  24
+ ],
+ [
+  "Grayscale",
+  23
+ ],
+ [
+  "Fuzziness",
+  23
+ ],
+ [
+  "Padding",
+  22
+ ],
+ [
+  "Global opacity",
+  21
+ ],
+ [
+  "Alpha blending",
+  21
+ ],
+ [
+  "Position coordinates",
+  21
+ ],
+ [
+  "3D SDF primitives",
+  20
+ ],
+ [
+  "Transformations",
+  20
+ ],
+ [
+  "Angle random",
+  20
+ ],
+ [
+  "Show direction helper",
+  20
+ ],
+ [
+  "Pattern specific",
+  20
+ ],
+ [
+  "Points properties",
+  20
+ ],
+ [
+  "X amount",
+  19
+ ],
+ [
+  "Y amount",
+  19
+ ],
+ [
+  "Scale random",
+  19
+ ],
+ [
+  "Amount",
+  19
+ ],
+ [
+  "Thickness (px)",
+  19
+ ],
+ [
+  "shape_splatter_data",
+  19
+ ],
+ [
+  "Center position",
+  18
+ ],
+ [
+  "Threshold",
+  18
+ ],
+ [
+  "Values",
+  18
+ ],
+ [
+  "HDRi tools",
+  18
+ ],
+ [
+  "Segments amount",
+  18
+ ],
+ [
+  "Duplicates",
+  18
+ ],
+ [
+  "3D SDF operators",
+  17
+ ],
+ [
+  "Normal intensity",
+  17
+ ],
+ [
+  "3D View",
+  17
+ ],
+ [
+  "Dirtiness",
+  17
+ ],
+ [
+  "Pattern input number",
+  17
+ ],
+ [
+  "Show thickness envelope",
+  17
+ ],
+ [
+  "Set diffuse map luminosity.",
+  17
+ ],
+ [
+  "Set the diffuse map contrast",
+  17
+ ],
+ [
+  "Set diffuse map hue offset.",
+  17
+ ],
+ [
+  "Set diffuse map saturation.",
+  17
+ ],
+ [
+  "Set the normal map strength intensity. 0 = Null 1 = Maximum Intensity",
+  17
+ ],
+ [
+  "Start",
+  16
+ ],
+ [
+  "End",
+  16
+ ],
+ [
+  "Ray origin",
+  16
+ ],
+ [
+  "Ray direction",
+  16
+ ],
+ [
+  "Masking",
+  16
+ ],
+ [
+  "Input 2",
+  16
+ ],
+ [
+  "RGB",
+  16
+ ],
+ [
+  "Value 3",
+  16
+ ],
+ [
+  "Value 4",
+  16
+ ],
+ [
+  "Specular range",
+  16
+ ],
+ [
+  "Non-square correction",
+  16
+ ],
+ [
+  "Blend mode",
+  15
+ ],
+ [
+  "Adjusts the balance between dark and bright values.",
+  15
+ ],
+ [
+  "Adjusts the contrast of the image.",
+  15
+ ],
+ [
+  "Height range",
+  15
+ ],
+ [
+  "Positioning",
+  14
+ ],
+ [
+  "Input 1",
+  14
+ ],
+ [
+  "Height scale",
+  14
+ ],
+ [
+  "Filtering mode",
+  14
+ ],
+ [
+  "UV",
+  14
+ ],
+ [
+  "Material transformation",
+  14
+ ],
+ [
+  "3D textures",
+  13
+ ],
+ [
+  "Position random",
+  13
+ ],
+ [
+  "Color random",
+  13
+ ],
+ [
+  "Input 3",
+  13
+ ],
+ [
+  "Input 4",
+  13
+ ],
+ [
+  "Input 5",
+  13
+ ],
+ [
+  "Input 6",
+  13
+ ],
+ [
+  "Input 7",
+  13
+ ],
+ [
+  "Input 8",
+  13
+ ],
+ [
+  "Global offset",
+  13
+ ],
+ [
+  "Warp intensity",
+  13
+ ],
+ [
+  "Age",
+  13
+ ],
+ [
+  "Pattern input 1",
+  13
+ ],
+ [
+  "Pattern input 2",
+  13
+ ],
+ [
+  "Pattern input 3",
+  13
+ ],
+ [
+  "Pattern input 4",
+  13
+ ],
+ [
+  "Pattern input 5",
+  13
+ ],
+ [
+  "Pattern input 6",
+  13
+ ],
+ [
+  "Pattern input",
+  13
+ ],
+ [
+  "UV scale",
+  13
+ ],
+ [
+  "SDF",
+  12
+ ],
+ [
+  "Rotate 45 degrees",
+  12
+ ],
+ [
+  "Color variation",
+  12
+ ],
+ [
+  "Ambient occlusion intensity",
+  12
+ ],
+ [
+  "Dust",
+  12
+ ],
+ [
+  "Function",
+  12
+ ],
+ [
+  "Material 2",
+  12
+ ],
+ [
+  "Scatter",
+  12
+ ],
+ [
+  "Material16",
+  12
+ ],
+ [
+  "Material15",
+  12
+ ],
+ [
+  "Material14",
+  12
+ ],
+ [
+  "Material13",
+  12
+ ],
+ [
+  "Material12",
+  12
+ ],
+ [
+  "Material11",
+  12
+ ],
+ [
+  "Material10",
+  12
+ ],
+ [
+  "Material9",
+  12
+ ],
+ [
+  "Material8",
+  12
+ ],
+ [
+  "Material7",
+  12
+ ],
+ [
+  "Material6",
+  12
+ ],
+ [
+  "Material5",
+  12
+ ],
+ [
+  "Material4",
+  12
+ ],
+ [
+  "Material3",
+  12
+ ],
+ [
+  "Pattern size",
+  12
+ ],
+ [
+  "Split",
+  12
+ ],
+ [
+  "Background input",
+  12
+ ],
+ [
+  "The input SDF shape.",
+  11
+ ],
+ [
+  "Anisotropy angle",
+  11
+ ],
+ [
+  "Mask random",
+  11
+ ],
+ [
+  "Blur",
+  11
+ ],
+ [
+  "Height intensity",
+  11
+ ],
+ [
+  "Segment amount",
+  11
+ ],
+ [
+  "Normal world space",
+  11
+ ],
+ [
+  "Enable",
+  11
+ ],
+ [
+  "Flip direction",
+  11
+ ],
+ [
+  "Point list",
+  11
+ ],
+ [
+  "Spline render",
+  11
+ ],
+ [
+  "Template",
+  11
+ ],
+ [
+  "3D SDF transform",
+  10
+ ],
+ [
+  "Distance",
+  10
+ ],
+ [
+  "Offset random",
+  10
+ ],
+ [
+  "Anisotropy level",
+  10
+ ],
+ [
+  "Diffuse intensity",
+  10
+ ],
+ [
+  "Specular intensity",
+  10
+ ],
+ [
+  "Grunge",
+  10
+ ],
+ [
+  "Symmetry random",
+  10
+ ],
+ [
+  "Size random",
+  10
+ ],
+ [
+  "Triplanar",
+  10
+ ],
+ [
+  "Spline 1",
+  10
+ ],
+ [
+  "Spline 2",
+  10
+ ],
+ [
+  "Concrete Color",
+  10
+ ],
+ [
+  "3D functions materials",
+  9
+ ],
+ [
+  "ID",
+  9
+ ],
+ [
+  "Default material",
+  9
+ ],
+ [
+  "Scale map multiplier",
+  9
+ ],
+ [
+  "Vector map multiplier",
+  9
+ ],
+ [
+  "Height offset",
+  9
+ ],
+ [
+  "Vector map",
+  9
+ ],
+ [
+  "Global",
+  9
+ ],
+ [
+  "Color input",
+  9
+ ],
+ [
+  "Sets the type of normal map input(s) and output(s).",
+  9
+ ],
+ [
+  "Activate a blending mask input.",
+  9
+ ],
+ [
+  "Sets the diffuse map blend intensity.",
+  9
+ ],
+ [
+  "Sets the normal map blend intensity.",
+  9
+ ],
+ [
+  "Sets the specular map blend intensity.",
+  9
+ ],
+ [
+  "Glossiness intensity",
+  9
+ ],
+ [
+  "Sets the glossiness map blend intensity.",
+  9
+ ],
+ [
+  "Roughness intensity",
+  9
+ ],
+ [
+  "Sets the roughness map blend intensity.",
+  9
+ ],
+ [
+  "Sets the height map blend intensity.",
+  9
+ ],
+ [
+  "Edges wearing",
+  9
+ ],
+ [
+  "Sharp edges scratches scale",
+  9
+ ],
+ [
+  "Sharp edges scratches warp intensity",
+  9
+ ],
+ [
+  "Size mode",
+  9
+ ],
+ [
+  "Luminance random",
+  9
+ ],
+ [
+  "Pattern size width",
+  9
+ ],
+ [
+  "Pattern size height",
+  9
+ ],
+ [
+  "Material 1",
+  9
+ ],
+ [
+  "Material 3",
+  9
+ ],
+ [
+  "Material 4",
+  9
+ ],
+ [
+  "Random mask",
+  9
+ ],
+ [
+  "Shape aspect - Transform",
+  9
+ ],
+ [
+  "User-defined maps",
+  9
+ ],
+ [
+  "Material adjustments",
+  9
+ ],
+ [
+  "UVs",
+  9
+ ],
+ [
+  "Depth of field",
+  9
+ ],
+ [
+  "Group",
+  9
+ ],
+ [
+  "Premultiply output",
+  9
+ ],
+ [
+  "Splatter data",
+  9
+ ],
+ [
+  "Color adjustments",
+  9
+ ],
+ [
+  "Sphere",
+  8
+ ],
+ [
+  "Pivot position",
+  8
+ ],
+ [
+  "Min level",
+  8
+ ],
+ [
+  "Max level",
+  8
+ ],
+ [
+  "Camera position",
+  8
+ ],
+ [
+  "Light position",
+  8
+ ],
+ [
+  "Light intensity",
+  8
+ ],
+ [
+  "Light angle",
+  8
+ ],
+ [
+  "Rotation map multiplier",
+  8
+ ],
+ [
+  "Bevel",
+  8
+ ],
+ [
+  "Hue",
+  8
+ ],
+ [
+  "Middle size",
+  8
+ ],
+ [
+  "Grid resolution",
+  8
+ ],
+ [
+  "Base color intensity",
+  8
+ ],
+ [
+  "Here, input a glossiness map.",
+  8
+ ],
+ [
+  "Here, input a roughness map.",
+  8
+ ],
+ [
+  "Here, input a metallic map.",
+  8
+ ],
+ [
+  "Here, input a height map.",
+  8
+ ],
+ [
+  "Here, input an ambient occlusion map.",
+  8
+ ],
+ [
+  "Sets the ambient occlusion map blend intensity.",
+  8
+ ],
+ [
+  "Select the input to use.\nRange: [0;1]",
+  8
+ ],
+ [
+  "Select the input to use.\nRange: [0;3]",
+  8
+ ],
+ [
+  "Select the input to use.\nRange: [0;7]",
+  8
+ ],
+ [
+  "Value 5",
+  8
+ ],
+ [
+  "Value 6",
+  8
+ ],
+ [
+  "Value 7",
+  8
+ ],
+ [
+  "Value 8",
+  8
+ ],
+ [
+  "Cracks",
+  8
+ ],
+ [
+  "Scratches",
+  8
+ ],
+ [
+  "Matrix",
+  8
+ ],
+ [
+  "Pattern input distribution",
+  8
+ ],
+ [
+  "Symmetry random mode",
+  8
+ ],
+ [
+  "Spread",
+  8
+ ],
+ [
+  "Invert mask",
+  8
+ ],
+ [
+  "Reverse rendering order",
+  8
+ ],
+ [
+  "Pattern specific random",
+  8
+ ],
+ [
+  "Interstice",
+  8
+ ],
+ [
+  "Random",
+  8
+ ],
+ [
+  "Vector map displacement",
+  8
+ ],
+ [
+  "Clear coat",
+  8
+ ],
+ [
+  "Color palette",
+  8
+ ],
+ [
+  "Splatter data 1",
+  8
+ ],
+ [
+  "Blending contrast",
+  8
+ ],
+ [
+  "Spline generators",
+  8
+ ],
+ [
+  "line",
+  8
+ ],
+ [
+  "SDF 1",
+  7
+ ],
+ [
+  "SDF 2",
+  7
+ ],
+ [
+  "Position offset",
+  7
+ ],
+ [
+  "Inverts the output image.",
+  7
+ ],
+ [
+  "Distortion intensity",
+  7
+ ],
+ [
+  "Distortion scale multiplier",
+  7
+ ],
+ [
+  "Enable tiling",
+  7
+ ],
+ [
+  "3D pseudo volume texture",
+  7
+ ],
+ [
+  "Background mode",
+  7
+ ],
+ [
+  "Exposure (EV)",
+  7
+ ],
+ [
+  "Auto scale",
+  7
+ ],
+ [
+  "Relief",
+  7
+ ],
+ [
+  "Age threshold",
+  7
+ ],
+ [
+  "Sharpen intensity",
+  7
+ ],
+ [
+  "Sampling",
+  7
+ ],
+ [
+  "Size variation",
+  7
+ ],
+ [
+  "Rotation variation",
+  7
+ ],
+ [
+  "Color ID",
+  7
+ ],
+ [
+  "Random color seed mode",
+  7
+ ],
+ [
+  "Random color seed",
+  7
+ ],
+ [
+  "Tiling",
+  7
+ ],
+ [
+  "Mask map threshold",
+  7
+ ],
+ [
+  "Post effects",
+  7
+ ],
+ [
+  "Width",
+  7
+ ],
+ [
+  "Splatter data 2",
+  7
+ ],
+ [
+  "Uniform distribution",
+  7
+ ],
+ [
+  "Spline operators",
+  7
+ ],
+ [
+  "Pivot position (local)",
+  6
+ ],
+ [
+  "Axis",
+  6
+ ],
+ [
+  "SDF scene",
+  6
+ ],
+ [
+  "Point 1",
+  6
+ ],
+ [
+  "Point 2",
+  6
+ ],
+ [
+  "Mask input",
+  6
+ ],
+ [
+  "Grid size",
+  6
+ ],
+ [
+  "Environment",
+  6
+ ],
+ [
+  "Albedo",
+  6
+ ],
+ [
+  "Style",
+  6
+ ],
+ [
+  "Pattern rotation",
+  6
+ ],
+ [
+  "Pattern rotation random",
+  6
+ ],
+ [
+  "Atlas",
+  6
+ ],
+ [
+  "Is normal",
+  6
+ ],
+ [
+  "Maximum distance",
+  6
+ ],
+ [
+  "Temperature",
+  6
+ ],
+ [
+  "Input 9",
+  6
+ ],
+ [
+  "Input 10",
+  6
+ ],
+ [
+  "Input 11",
+  6
+ ],
+ [
+  "Input 12",
+  6
+ ],
+ [
+  "Input 13",
+  6
+ ],
+ [
+  "Input 14",
+  6
+ ],
+ [
+  "Slope",
+  6
+ ],
+ [
+  "Offset random seed",
+  6
+ ],
+ [
+  "Tile",
+  6
+ ],
+ [
+  "Target color",
+  6
+ ],
+ [
+  "Color normal",
+  6
+ ],
+ [
+  "Here, input a specular map.",
+  6
+ ],
+ [
+  "Input size",
+  6
+ ],
+ [
+  "Transform",
+  6
+ ],
+ [
+  "Here, input a diffuse map.",
+  6
+ ],
+ [
+  "Here, input a normal map.",
+  6
+ ],
+ [
+  "Scale map",
+  6
+ ],
+ [
+  "Rotation map",
+  6
+ ],
+ [
+  "Range",
+  6
+ ],
+ [
+  "Baked maps",
+  6
+ ],
+ [
+  "Tangent space normal",
+  6
+ ],
+ [
+  "Image input",
+  6
+ ],
+ [
+  "Material 5",
+  6
+ ],
+ [
+  "Material 6",
+  6
+ ],
+ [
+  "Material 7",
+  6
+ ],
+ [
+  "Material 8",
+  6
+ ],
+ [
+  "Grunge amount",
+  6
+ ],
+ [
+  "Use custom grunge",
+  6
+ ],
+ [
+  "Grunge input",
+  6
+ ],
+ [
+  "Pattern amount",
+  6
+ ],
+ [
+  "Roughness - Glossiness",
+  6
+ ],
+ [
+  "Sphere UV projection",
+  6
+ ],
+ [
+  "Material Adjustements",
+  6
+ ],
+ [
+  "Samples",
+  6
+ ],
+ [
+  "Spread angle",
+  6
+ ],
+ [
+  "Input is premultiplied",
+  6
+ ],
+ [
+  "Height map",
+  6
+ ],
+ [
+  "Spline height multiplier",
+  6
+ ],
+ [
+  "Parent size",
+  6
+ ],
+ [
+  "custom spline",
+  6
+ ],
+ [
+  "Projection",
+  6
+ ],
+ [
+  "Texture tiling",
+  6
+ ],
+ [
+  "Rotation X",
+  6
+ ],
+ [
+  "Rotation Y",
+  6
+ ],
+ [
+  "Rotation Z",
+  6
+ ],
+ [
+  "Offset X",
+  6
+ ],
+ [
+  "Offset Y",
+  6
+ ],
+ [
+  "Offset Z",
+  6
+ ],
+ [
+  "Rounding",
+  5
+ ],
+ [
+  "Infinite plane",
+  5
+ ],
+ [
+  "The first SDF shape.",
+  5
+ ],
+ [
+  "The second SDF shape.",
+  5
+ ],
+ [
+  "The input SDF scene.",
+  5
+ ],
+ [
+  "3D Functions",
+  5
+ ],
+ [
+  "Metalness",
+  5
+ ],
+ [
+  "Camera distance",
+  5
+ ],
+ [
+  "Camera FOV",
+  5
+ ],
+ [
+  "Environment rotation",
+  5
+ ],
+ [
+  "Camera mode",
+  5
+ ],
+ [
+  "Minkowski number",
+  5
+ ],
+ [
+  "Interstice width",
+  5
+ ],
+ [
+  "Anisotropic noise",
+  5
+ ],
+ [
+  "Distance mode",
+  5
+ ],
+ [
+  "Main",
+  5
+ ],
+ [
+  "Input 15",
+  5
+ ],
+ [
+  "Input 16",
+  5
+ ],
+ [
+  "Pattern type",
+  5
+ ],
+ [
+  "Show patch areas",
+  5
+ ],
+ [
+  "Source matrix",
+  5
+ ],
+ [
+  "Source offset",
+  5
+ ],
+ [
+  "Target matrix",
+  5
+ ],
+ [
+  "Target offset",
+  5
+ ],
+ [
+  "Input count",
+  5
+ ],
+ [
+  "Output 1",
+  5
+ ],
+ [
+  "Output 2",
+  5
+ ],
+ [
+  "Output 3",
+  5
+ ],
+ [
+  "Output 4",
+  5
+ ],
+ [
+  "Output 5",
+  5
+ ],
+ [
+  "Output 6",
+  5
+ ],
+ [
+  "Output 7",
+  5
+ ],
+ [
+  "Output 8",
+  5
+ ],
+ [
+  "Use mask",
+  5
+ ],
+ [
+  "sRGB input",
+  5
+ ],
+ [
+  "sRGB output",
+  5
+ ],
+ [
+  "Show crop area",
+  5
+ ],
+ [
+  "Area",
+  5
+ ],
+ [
+  "Source",
+  5
+ ],
+ [
+  "Iterations",
+  5
+ ],
+ [
+  "Normal high poly",
+  5
+ ],
+ [
+  "Edges details",
+  5
+ ],
+ [
+  "Prelighting",
+  5
+ ],
+ [
+  "Substance normal intensity",
+  5
+ ],
+ [
+  "Substance AO intensity",
+  5
+ ],
+ [
+  "Sets the base color map blend intensity.",
+  5
+ ],
+ [
+  "Pattern input 7",
+  5
+ ],
+ [
+  "Pattern input 8",
+  5
+ ],
+ [
+  "HSL random",
+  5
+ ],
+ [
+  "White noise",
+  5
+ ],
+ [
+  "Vertical offset",
+  5
+ ],
+ [
+  "Flip the normal Green Channel",
+  5
+ ],
+ [
+  "Selection mode",
+  5
+ ],
+ [
+  "Cracks scale",
+  5
+ ],
+ [
+  "Rust",
+  5
+ ],
+ [
+  "Variation",
+  5
+ ],
+ [
+  "Override variation mask",
+  5
+ ],
+ [
+  "Variation mask",
+  5
+ ],
+ [
+  "Pattern scale",
+  5
+ ],
+ [
+  "Color source",
+  5
+ ],
+ [
+  "Pattern image input",
+  5
+ ],
+ [
+  "Spline scale",
+  5
+ ],
+ [
+  "Spline scale random",
+  5
+ ],
+ [
+  "Luminance by scale",
+  5
+ ],
+ [
+  "Slant",
+  5
+ ],
+ [
+  "UV offset",
+  5
+ ],
+ [
+  "Maximum",
+  5
+ ],
+ [
+  "Palette color amount",
+  5
+ ],
+ [
+  "Shape splatter v1",
+  5
+ ],
+ [
+  "Shape splatter v2",
+  5
+ ],
+ [
+  "Random offset",
+  5
+ ],
+ [
+  "Start height",
+  5
+ ],
+ [
+  "End height",
+  5
+ ],
+ [
+  "Start thickness",
+  5
+ ],
+ [
+  "End thickness",
+  5
+ ],
+ [
+  "Draw spline index",
+  5
+ ],
+ [
+  "Draw spline range",
+  5
+ ],
+ [
+  "Thickness mode",
+  5
+ ],
+ [
+  "Sampling mode",
+  5
+ ],
+ [
+  "RGB multiplier",
+  5
+ ],
+ [
+  "Color map",
+  5
+ ],
+ [
+  "alpha multiplier",
+  5
+ ],
+ [
+  "spline_1",
+  5
+ ],
+ [
+  "spline_2",
+  5
+ ],
+ [
+  "Metal Color",
+  5
+ ],
+ [
+  "Symmetry",
+  4
+ ],
+ [
+  "Rotate",
+  4
+ ],
+ [
+  "Transform matrix",
+  4
+ ],
+ [
+  "Lacunarity",
+  4
+ ],
+ [
+  "Enable ground plane",
+  4
+ ],
+ [
+  "Ground plane size",
+  4
+ ],
+ [
+  "Dithering",
+  4
+ ],
+ [
+  "Direction map",
+  4
+ ],
+ [
+  "Pattern distribution mode",
+  4
+ ],
+ [
+  "Input normal format",
+  4
+ ],
+ [
+  "Output normal format",
+  4
+ ],
+ [
+  "Edge smoothness",
+  4
+ ],
+ [
+  "Luminance variation",
+  4
+ ],
+ [
+  "Random position",
+  4
+ ],
+ [
+  "Fixed rotation",
+  4
+ ],
+ [
+  "Fixed rotation random",
+  4
+ ],
+ [
+  "Areas",
+  4
+ ],
+ [
+  "Use threshold per channel",
+  4
+ ],
+ [
+  "Threshold normal",
+  4
+ ],
+ [
+  "Threshold height",
+  4
+ ],
+ [
+  "Source color",
+  4
+ ],
+ [
+  "Distance color space",
+  4
+ ],
+ [
+  "Line color",
+  4
+ ],
+ [
+  "Is normal map",
+  4
+ ],
+ [
+  "Exposure",
+  4
+ ],
+ [
+  "Normal_High_Poly",
+  4
+ ],
+ [
+  "Normal_Wold_Space",
+  4
+ ],
+ [
+  "Used",
+  4
+ ],
+ [
+  "Here, input a base color map.",
+  4
+ ],
+ [
+  "Here, input a mesh baked ambient occlusion map.",
+  4
+ ],
+ [
+  "Tiling mode",
+  4
+ ],
+ [
+  "HSL adjustment",
+  4
+ ],
+ [
+  "Fractal sum base",
+  4
+ ],
+ [
+  "Returns the average value of A and B.",
+  4
+ ],
+ [
+  "Gaussian spots 2",
+  4
+ ],
+ [
+  "Adjusts the intensity of the global sharpening effect.",
+  4
+ ],
+ [
+  "Gamma approximation. Deprecated.",
+  4
+ ],
+ [
+  "Color ID mask",
+  4
+ ],
+ [
+  "Color picker",
+  4
+ ],
+ [
+  "#2 Diffuse",
+  4
+ ],
+ [
+  "#2 Base color",
+  4
+ ],
+ [
+  "#2 Normal",
+  4
+ ],
+ [
+  "#2 Specular",
+  4
+ ],
+ [
+  "#2 Emissive",
+  4
+ ],
+ [
+  "#2 Glossiness",
+  4
+ ],
+ [
+  "#2 Roughness",
+  4
+ ],
+ [
+  "#2 Metallic",
+  4
+ ],
+ [
+  "#2 Specular level",
+  4
+ ],
+ [
+  "#2 Height",
+  4
+ ],
+ [
+  "#2 Ambient occlusion",
+  4
+ ],
+ [
+  "#2 Opacity",
+  4
+ ],
+ [
+  "#1 Diffuse",
+  4
+ ],
+ [
+  "#1 Base color",
+  4
+ ],
+ [
+  "#1 Normal",
+  4
+ ],
+ [
+  "#1 Specular",
+  4
+ ],
+ [
+  "#1 Emissive",
+  4
+ ],
+ [
+  "#1 Glossiness",
+  4
+ ],
+ [
+  "#1 Roughness",
+  4
+ ],
+ [
+  "#1 Metallic",
+  4
+ ],
+ [
+  "#1 Specular level",
+  4
+ ],
+ [
+  "#1 Height",
+  4
+ ],
+ [
+  "#1 Ambient occlusion",
+  4
+ ],
+ [
+  "#1 Opacity",
+  4
+ ],
+ [
+  "Occlusion",
+  4
+ ],
+ [
+  "Criterion",
+  4
+ ],
+ [
+  "Gaussian",
+  4
+ ],
+ [
+  "Hue shift SVG mask",
+  4
+ ],
+ [
+  "Hue Shift SVG Mask",
+  4
+ ],
+ [
+  "Lines number",
+  4
+ ],
+ [
+  "Water level",
+  4
+ ],
+ [
+  "Use triplanar",
+  4
+ ],
+ [
+  "Triplanar blending contrast",
+  4
+ ],
+ [
+  "Noisiness",
+  4
+ ],
+ [
+  "Noise scale",
+  4
+ ],
+ [
+  "Noise type",
+  4
+ ],
+ [
+  "Moss color",
+  4
+ ],
+ [
+  "Warp angle",
+  4
+ ],
+ [
+  "Pattern size random",
+  4
+ ],
+ [
+  "Rounded curve",
+  4
+ ],
+ [
+  "Distance scale",
+  4
+ ],
+ [
+  "Edge thickness",
+  4
+ ],
+ [
+  "The discrete random seed which should be used for the color selection per cell.",
+  4
+ ],
+ [
+  "Enables compensation of squash and stretch with non-square ratios.",
+  4
+ ],
+ [
+  "Blur map",
+  4
+ ],
+ [
+  "Intensity map",
+  4
+ ],
+ [
+  "Up vector",
+  4
+ ],
+ [
+  "Shape matrix",
+  4
+ ],
+ [
+  "Shape color mode",
+  4
+ ],
+ [
+  "Enable background input",
+  4
+ ],
+ [
+  "Background image input",
+  4
+ ],
+ [
+  "Background gamma",
+  4
+ ],
+ [
+  "Corner threshold",
+  4
+ ],
+ [
+  "Pattern variation",
+  4
+ ],
+ [
+  "Image input filtering",
+  4
+ ],
+ [
+  "Radius random",
+  4
+ ],
+ [
+  "Invert pattern number",
+  4
+ ],
+ [
+  "Invert ring number",
+  4
+ ],
+ [
+  "Center orientation",
+  4
+ ],
+ [
+  "Splatter circular",
+  4
+ ],
+ [
+  "Amount of patterns on the X axis.",
+  4
+ ],
+ [
+  "Amount of patterns on the Y axis.",
+  4
+ ],
+ [
+  "Quincunx flip",
+  4
+ ],
+ [
+  "Size (Absolute)",
+  4
+ ],
+ [
+  "Size (Pixel)",
+  4
+ ],
+ [
+  "Luminance by number",
+  4
+ ],
+ [
+  "Checker mask",
+  4
+ ],
+ [
+  "Horizontal mask",
+  4
+ ],
+ [
+  "Vertical mask",
+  4
+ ],
+ [
+  "Multiplier",
+  4
+ ],
+ [
+  "Random X",
+  4
+ ],
+ [
+  "Random Y",
+  4
+ ],
+ [
+  "Rotation constraint",
+  4
+ ],
+ [
+  "Random constraints",
+  4
+ ],
+ [
+  "Color parametrisation",
+  4
+ ],
+ [
+  "Color parametrisation intensity",
+  4
+ ],
+ [
+  "Color parameterization affect",
+  4
+ ],
+ [
+  "Random position multiplier",
+  4
+ ],
+ [
+  "Mask map",
+  4
+ ],
+ [
+  "Scale vector map multiplier",
+  4
+ ],
+ [
+  "Offset type",
+  4
+ ],
+ [
+  "Displacement map intensity",
+  4
+ ],
+ [
+  "Displacement angle",
+  4
+ ],
+ [
+  "Mask map invert",
+  4
+ ],
+ [
+  "Mask map sampling technique",
+  4
+ ],
+ [
+  "Scale map input",
+  4
+ ],
+ [
+  "Displacement map input",
+  4
+ ],
+ [
+  "Rotation map input",
+  4
+ ],
+ [
+  "Vector map input",
+  4
+ ],
+ [
+  "Color map input",
+  4
+ ],
+ [
+  "Mask map input",
+  4
+ ],
+ [
+  "Color parameterization mode",
+  4
+ ],
+ [
+  "Color parameterization multiplier",
+  4
+ ],
+ [
+  "Height input multiplier",
+  4
+ ],
+ [
+  "Height random",
+  4
+ ],
+ [
+  "UV tiling",
+  4
+ ],
+ [
+  "Aperture diffraction",
+  4
+ ],
+ [
+  "Texture",
+  4
+ ],
+ [
+  "Subsurface scattering",
+  4
+ ],
+ [
+  "Sort order",
+  4
+ ],
+ [
+  "Use physical size",
+  4
+ ],
+ [
+  "Physical size",
+  4
+ ],
+ [
+  "Distribution",
+  4
+ ],
+ [
+  "Moss",
+  4
+ ],
+ [
+  "Color input opacity",
+  4
+ ],
+ [
+  "Splatter UVW",
+  4
+ ],
+ [
+  "Append input spline",
+  4
+ ],
+ [
+  "Random luminance",
+  4
+ ],
+ [
+  "Random segments",
+  4
+ ],
+ [
+  "Scale map input multiplier",
+  4
+ ],
+ [
+  "Local offset",
+  4
+ ],
+ [
+  "Offset on spline",
+  4
+ ],
+ [
+  "Random offset on spline",
+  4
+ ],
+ [
+  "Thickness multiplier",
+  4
+ ],
+ [
+  "Paint Color",
+  4
+ ],
+ [
+  "Creases Frequency",
+  4
+ ],
+ [
+  "Creases Axis",
+  4
+ ],
+ [
+  "Tiles Amount",
+  4
+ ],
+ [
+  "Define the pivot position on each axis in the [-0.5, 0.5] range.",
+  3
+ ],
+ [
+  "P2",
+  3
+ ],
+ [
+  "Frame thickness",
+  3
+ ],
+ [
+  "Baseline",
+  3
+ ],
+ [
+  "Adjusts the contrast of the 3D Perlin noise.",
+  3
+ ],
+ [
+  "Position map",
+  3
+ ],
+ [
+  "Target position",
+  3
+ ],
+ [
+  "Output resolution",
+  3
+ ],
+ [
+  "Adjusts the size of the ground plane.",
+  3
+ ],
+ [
+  "Absorption",
+  3
+ ],
+ [
+  "Density",
+  3
+ ],
+ [
+  "Ambient color",
+  3
+ ],
+ [
+  "Bounces",
+  3
+ ],
+ [
+  "Tonemapper",
+  3
+ ],
+ [
+  "Helpers opacity",
+  3
+ ],
+ [
+  "Colorize out of frame",
+  3
+ ],
+ [
+  "Grid",
+  3
+ ],
+ [
+  "SDF isolines",
+  3
+ ],
+ [
+  "SDF isolines frequency",
+  3
+ ],
+ [
+  "SDF isolines position",
+  3
+ ],
+ [
+  "in pixel",
+  3
+ ],
+ [
+  "W is either localL or localV",
+  3
+ ],
+ [
+  "Vector format",
+  3
+ ],
+ [
+  "Y amount by resolution",
+  3
+ ],
+ [
+  "Smoothness interpolation",
+  3
+ ],
+ [
+  "Ignore shape smaller than",
+  3
+ ],
+ [
+  "Height offset random",
+  3
+ ],
+ [
+  "Height offset map multiplier",
+  3
+ ],
+ [
+  "Height scale random",
+  3
+ ],
+ [
+  "Height scale map multiplier",
+  3
+ ],
+ [
+  "Conform to background",
+  3
+ ],
+ [
+  "Skew from BG slope",
+  3
+ ],
+ [
+  "Shape scale",
+  3
+ ],
+ [
+  "Shape rotation",
+  3
+ ],
+ [
+  "Shape count",
+  3
+ ],
+ [
+  "Grid view",
+  3
+ ],
+ [
+  "Grid opacity",
+  3
+ ],
+ [
+  "Grid selection opacity",
+  3
+ ],
+ [
+  "Auto crop",
+  3
+ ],
+ [
+  "Auto crop mode",
+  3
+ ],
+ [
+  "Shape selection",
+  3
+ ],
+ [
+  "Auto rotation",
+  3
+ ],
+ [
+  "Min max",
+  3
+ ],
+ [
+  "Auto levels",
+  3
+ ],
+ [
+  "Corner type",
+  3
+ ],
+ [
+  "Nb X",
+  3
+ ],
+ [
+  "Nb Y",
+  3
+ ],
+ [
+  "Cells 1",
+  3
+ ],
+ [
+  "Cells 2",
+  3
+ ],
+ [
+  "Cells 3",
+  3
+ ],
+ [
+  "Cells 4",
+  3
+ ],
+ [
+  "Clouds 1",
+  3
+ ],
+ [
+  "Clouds 2",
+  3
+ ],
+ [
+  "Clouds 3",
+  3
+ ],
+ [
+  "Custom color variation",
+  3
+ ],
+ [
+  "Chroma",
+  3
+ ],
+ [
+  "Luma",
+  3
+ ],
+ [
+  "Hue range",
+  3
+ ],
+ [
+  "Chroma range",
+  3
+ ],
+ [
+  "Luma range",
+  3
+ ],
+ [
+  "Linear sRGB input",
+  3
+ ],
+ [
+  "Linear sRGB output",
+  3
+ ],
+ [
+  "Here, Input a tangent space normal map.",
+  3
+ ],
+ [
+  "Here, input a displacement map or a \"Normal to Height\" filter output.",
+  3
+ ],
+ [
+  "Here, Input a Curvature Map.",
+  3
+ ],
+ [
+  "Show helper",
+  3
+ ],
+ [
+  "Invert gradient",
+  3
+ ],
+ [
+  "AO intensity",
+  3
+ ],
+ [
+  "Dirt 1",
+  3
+ ],
+ [
+  "Dirt 2",
+  3
+ ],
+ [
+  "Dirt 3",
+  3
+ ],
+ [
+  "Dirt 4",
+  3
+ ],
+ [
+  "Dirt 5",
+  3
+ ],
+ [
+  "Dirt gradient",
+  3
+ ],
+ [
+  "Edge width",
+  3
+ ],
+ [
+  "Shadow color",
+  3
+ ],
+ [
+  "Here, Input a mesh baked world space normal map.",
+  3
+ ],
+ [
+  "Flood fill Bbox",
+  3
+ ],
+ [
+  "Flood fill to gradient",
+  3
+ ],
+ [
+  "Angle variation",
+  3
+ ],
+ [
+  "Multiply by bounding box size",
+  3
+ ],
+ [
+  "Luminance adjustment",
+  3
+ ],
+ [
+  "Fractal sum 2",
+  3
+ ],
+ [
+  "Fractal sum 3",
+  3
+ ],
+ [
+  "Fractal sum 4",
+  3
+ ],
+ [
+  "Switch Integer3 2 inputs",
+  3
+ ],
+ [
+  "The Float2 value used as a seed to compute the pseudo-random output.",
+  3
+ ],
+ [
+  "Gaussian spots 1",
+  3
+ ],
+ [
+  "Glow color",
+  3
+ ],
+ [
+  "Quality",
+  3
+ ],
+ [
+  "Non-square",
+  3
+ ],
+ [
+  "Input a normal map here.",
+  3
+ ],
+ [
+  "Histogram resolution",
+  3
+ ],
+ [
+  "Cracks warp intensity",
+  3
+ ],
+ [
+  "Greyscale mask",
+  3
+ ],
+ [
+  "Affect alpha",
+  3
+ ],
+ [
+  "Input map",
+  3
+ ],
+ [
+  "Input map to colorize",
+  3
+ ],
+ [
+  "Material 1 color",
+  3
+ ],
+ [
+  "Material 2 color",
+  3
+ ],
+ [
+  "Color replacement intensity",
+  3
+ ],
+ [
+  "Set how much original textures colors will be replaced.",
+  3
+ ],
+ [
+  "Material 1 diffuse black",
+  3
+ ],
+ [
+  "Material 1 specular black",
+  3
+ ],
+ [
+  "Material 1 height black",
+  3
+ ],
+ [
+  "Set the zoom, rotation and position of the material 1.",
+  3
+ ],
+ [
+  "Set the material 1 height map min and max value.",
+  3
+ ],
+ [
+  "Set the material 1 specular map min and max value.",
+  3
+ ],
+ [
+  "Set the zoom, rotation and position of the material 2.",
+  3
+ ],
+ [
+  "Set the material 2 height map min and max value.",
+  3
+ ],
+ [
+  "Set the material 2 specular map min and max value.",
+  3
+ ],
+ [
+  "Composited diffuse",
+  3
+ ],
+ [
+  "Composited specular",
+  3
+ ],
+ [
+  "Composited height",
+  3
+ ],
+ [
+  "Position (Grayscale)",
+  3
+ ],
+ [
+  "Position (RGB)",
+  3
+ ],
+ [
+  "UV masks",
+  3
+ ],
+ [
+  "World space direction",
+  3
+ ],
+ [
+  "Messy fibers 1",
+  3
+ ],
+ [
+  "Messy fibers 2",
+  3
+ ],
+ [
+  "Messy fibers 3",
+  3
+ ],
+ [
+  "Scratches 2",
+  3
+ ],
+ [
+  "Noise",
+  3
+ ],
+ [
+  "Convex",
+  3
+ ],
+ [
+  "Concave",
+  3
+ ],
+ [
+  "Wear level",
+  3
+ ],
+ [
+  "Wear contrast",
+  3
+ ],
+ [
+  "Ambient occlusion masking",
+  3
+ ],
+ [
+  "Curvature weight",
+  3
+ ],
+ [
+  "Here, Input a mesh position map.",
+  3
+ ],
+ [
+  "Samples amount",
+  3
+ ],
+ [
+  "Material 9",
+  3
+ ],
+ [
+  "Material 10",
+  3
+ ],
+ [
+  "Material 11",
+  3
+ ],
+ [
+  "Material 12",
+  3
+ ],
+ [
+  "Material 13",
+  3
+ ],
+ [
+  "Material 14",
+  3
+ ],
+ [
+  "Material 15",
+  3
+ ],
+ [
+  "Material 16",
+  3
+ ],
+ [
+  "Pattern angle",
+  3
+ ],
+ [
+  "Pattern angle random",
+  3
+ ],
+ [
+  "Relief balance",
+  3
+ ],
+ [
+  "Normal WS",
+  3
+ ],
+ [
+  "Hotspot size",
+  3
+ ],
+ [
+  "Hotspot falloff",
+  3
+ ],
+ [
+  "Hotspot position",
+  3
+ ],
+ [
+  "Shape image input",
+  3
+ ],
+ [
+  "Position mode",
+  3
+ ],
+ [
+  "Distance from origin",
+  3
+ ],
+ [
+  "Plane size",
+  3
+ ],
+ [
+  "Pattern amount random",
+  3
+ ],
+ [
+  "Spline number",
+  3
+ ],
+ [
+  "Max segments per spline",
+  3
+ ],
+ [
+  "Spline rotation",
+  3
+ ],
+ [
+  "Spline rotation random",
+  3
+ ],
+ [
+  "Spline distortion",
+  3
+ ],
+ [
+  "Spline distortion random",
+  3
+ ],
+ [
+  "Spline distortion frequency",
+  3
+ ],
+ [
+  "Spline width",
+  3
+ ],
+ [
+  "Spline width random",
+  3
+ ],
+ [
+  "Spline position random",
+  3
+ ],
+ [
+  "Set spline width in px",
+  3
+ ],
+ [
+  "Fade mode",
+  3
+ ],
+ [
+  "Fade length",
+  3
+ ],
+ [
+  "Patterns are offset on the vertical axis instead of the horizontal axis.",
+  3
+ ],
+ [
+  "Pattern luminance is linked to the pattern number.",
+  3
+ ],
+ [
+  "Small patterns will be darker than large patterns.",
+  3
+ ],
+ [
+  "Color output",
+  3
+ ],
+ [
+  "Triangulation",
+  3
+ ],
+ [
+  "Quincunx offset X",
+  3
+ ],
+ [
+  "Quincunx offset Y",
+  3
+ ],
+ [
+  "Rotation disorder",
+  3
+ ],
+ [
+  "Color source opacity",
+  3
+ ],
+ [
+  "Distance to edge thickness",
+  3
+ ],
+ [
+  "Tile X",
+  3
+ ],
+ [
+  "Tile Y",
+  3
+ ],
+ [
+  "Gamma 2.2 (sRGB)",
+  3
+ ],
+ [
+  "Reflection",
+  3
+ ],
+ [
+  "Displacement intensity",
+  3
+ ],
+ [
+  "Cylinder radius",
+  3
+ ],
+ [
+  "Tilt UVs",
+  3
+ ],
+ [
+  "Dielectric F0 input",
+  3
+ ],
+ [
+  "Dielectric F0",
+  3
+ ],
+ [
+  "Emissive intensity",
+  3
+ ],
+ [
+  "Environment map",
+  3
+ ],
+ [
+  "Raw irradiance",
+  3
+ ],
+ [
+  "R: Max value\nG+B: Max value coordinate\nA: Nothing",
+  3
+ ],
+ [
+  "Shadows",
+  3
+ ],
+ [
+  "1 = full hemisphere",
+  3
+ ],
+ [
+  "Photon grid size",
+  3
+ ],
+ [
+  "Surface height scale",
+  3
+ ],
+ [
+  "Surface height position",
+  3
+ ],
+ [
+  "Surface IOR",
+  3
+ ],
+ [
+  "Photon size",
+  3
+ ],
+ [
+  "Jittering",
+  3
+ ],
+ [
+  "Shadows opacity",
+  3
+ ],
+ [
+  "Ice",
+  3
+ ],
+ [
+  "Snow",
+  3
+ ],
+ [
+  "Mask color",
+  3
+ ],
+ [
+  "Pattern 1",
+  3
+ ],
+ [
+  "Pattern 2",
+  3
+ ],
+ [
+  "Pattern 3",
+  3
+ ],
+ [
+  "Pattern 4",
+  3
+ ],
+ [
+  "Pattern 5",
+  3
+ ],
+ [
+  "Pattern 6",
+  3
+ ],
+ [
+  "Pattern 7",
+  3
+ ],
+ [
+  "Pattern 8",
+  3
+ ],
+ [
+  "Splatter data 3",
+  3
+ ],
+ [
+  "Splatter data 4",
+  3
+ ],
+ [
+  "Custom function",
+  3
+ ],
+ [
+  "Crop",
+  3
+ ],
+ [
+  "Threshold base color",
+  3
+ ],
+ [
+  "Show tangents",
+  3
+ ],
+ [
+  "Point number",
+  3
+ ],
+ [
+  "Show points",
+  3
+ ],
+ [
+  "Points size",
+  3
+ ],
+ [
+  "Background intensity",
+  3
+ ],
+ [
+  "Bridge splines type",
+  3
+ ],
+ [
+  "Spline coords #1",
+  3
+ ],
+ [
+  "Spline data #1",
+  3
+ ],
+ [
+  "Spline amount #1",
+  3
+ ],
+ [
+  "Preview #1",
+  3
+ ],
+ [
+  "Spline coords #2",
+  3
+ ],
+ [
+  "Spline data #2",
+  3
+ ],
+ [
+  "Spline amount #2",
+  3
+ ],
+ [
+  "Preview #2",
+  3
+ ],
+ [
+  "Random offset range",
+  3
+ ],
+ [
+  "Spline index",
+  3
+ ],
+ [
+  "Start attenuation",
+  3
+ ],
+ [
+  "End attenuation",
+  3
+ ],
+ [
+  "Scale input sampling mode",
+  3
+ ],
+ [
+  "Spline thickness multiplier",
+  3
+ ],
+ [
+  "Shape scale multiplier",
+  3
+ ],
+ [
+  "Shape index multiplier",
+  3
+ ],
+ [
+  "Auto scale UVs",
+  3
+ ],
+ [
+  "Cylinder height multiplier",
+  3
+ ],
+ [
+  "Cylinder height offset",
+  3
+ ],
+ [
+  "Twist UVs intensity",
+  3
+ ],
+ [
+  "Twist UVs curve multiplier",
+  3
+ ],
+ [
+  "Twist UVs curve offset",
+  3
+ ],
+ [
+  "Input height multiplier",
+  3
+ ],
+ [
+  "Twist curve",
+  3
+ ],
+ [
+  "Reduce UVs stretching",
+  3
+ ],
+ [
+  "UV rotation",
+  3
+ ],
+ [
+  "Side",
+  3
+ ],
+ [
+  "Custom spline selection",
+  3
+ ],
+ [
+  "Custom spline",
+  3
+ ],
+ [
+  "Triplanar grayscale",
+  3
+ ],
+ [
+  "Creases",
+  3
+ ],
+ [
+  "Lighting Intensity",
+  3
+ ],
+ [
+  "Lighting Angle",
+  3
+ ],
+ [
+  "Tiles Color",
+  3
+ ],
+ [
+  "Creases Warping",
+  3
+ ],
+ [
+  "Rust Color",
+  3
+ ],
+ [
+  "Metal Roughness",
+  3
+ ],
+ [
+  "Tiles 1 Color",
+  3
+ ],
+ [
+  "Tiles 2 Color",
+  3
+ ],
+ [
+  "Cube",
+  2
+ ],
+ [
+  "Cylinder",
+  2
+ ],
+ [
+  "Plane",
+  2
+ ],
+ [
+  "Base size",
+  2
+ ],
+ [
+  "Base position",
+  2
+ ],
+ [
+  "Cone",
+  2
+ ],
+ [
+  "Radius base",
+  2
+ ],
+ [
+  "Radius top",
+  2
+ ],
+ [
+  "Major radius",
+  2
+ ],
+ [
+  "Minor radius",
+  2
+ ],
+ [
+  "Angle offset",
+  2
+ ],
+ [
+  "Base SDF",
+  2
+ ],
+ [
+  "The SDF shape being subtracted from.",
+  2
+ ],
+ [
+  "The SDF shape being subtracted from the SDF 1 shape.",
+  2
+ ],
+ [
+  "Mirror axis",
+  2
+ ],
+ [
+  "P1",
+  2
+ ],
+ [
+  "Box frame",
+  2
+ ],
+ [
+  "Is closest",
+  2
+ ],
+ [
+  "Axis helper",
+  2
+ ],
+ [
+  "3D Function",
+  2
+ ],
+ [
+  "The RGB base color value to set.",
+  2
+ ],
+ [
+  "The roughness value to set.",
+  2
+ ],
+ [
+  "The metalness value to set.",
+  2
+ ],
+ [
+  "Absolute",
+  2
+ ],
+ [
+  "Position map of the mesh",
+  2
+ ],
+ [
+  "Use overriden position and overriden normal to project the input texture.",
+  2
+ ],
+ [
+  "Target UV position",
+  2
+ ],
+ [
+  "World Space Normal of the mesh",
+  2
+ ],
+ [
+  "Projected texture",
+  2
+ ],
+ [
+  "Texture to be projected on the mesh",
+  2
+ ],
+ [
+  "Position of the center of the projected texture in 3D space.",
+  2
+ ],
+ [
+  "Target normal",
+  2
+ ],
+ [
+  "Direction used to project the texture.",
+  2
+ ],
+ [
+  "Global scale of the projected texture",
+  2
+ ],
+ [
+  "Component-wise scale of the projected texture",
+  2
+ ],
+ [
+  "Maximum depth",
+  2
+ ],
+ [
+  "Depth fade",
+  2
+ ],
+ [
+  "Normal threshold",
+  2
+ ],
+ [
+  "Normal fade",
+  2
+ ],
+ [
+  "3D distance field",
+  2
+ ],
+ [
+  "The distance from the camera to the shape.",
+  2
+ ],
+ [
+  "3D texture volume render pass",
+  2
+ ],
+ [
+  "Feather",
+  2
+ ],
+ [
+  "Light color mode",
+  2
+ ],
+ [
+  "Light temperature (Kelvin)",
+  2
+ ],
+ [
+  "Light color",
+  2
+ ],
+ [
+  "Ambient intensity",
+  2
+ ],
+ [
+  "IBL samples",
+  2
+ ],
+ [
+  "Camera samples",
+  2
+ ],
+ [
+  "Ray marching steps",
+  2
+ ],
+ [
+  "Secondary ray marching steps",
+  2
+ ],
+ [
+  "Bounding frame",
+  2
+ ],
+ [
+  "Bounding frame size",
+  2
+ ],
+ [
+  "Transform helpers",
+  2
+ ],
+ [
+  "Camera Exposure (EV)",
+  2
+ ],
+ [
+  "Background Mode",
+  2
+ ],
+ [
+  "Frame",
+  2
+ ],
+ [
+  "Pixel Position (-0.5, +0.5)",
+  2
+ ],
+ [
+  "Focal Length (m)",
+  2
+ ],
+ [
+  "Focus Distance (m)",
+  2
+ ],
+ [
+  "Sensor Width (m)",
+  2
+ ],
+ [
+  "Ray Origin",
+  2
+ ],
+ [
+  "Gradient filled cells",
+  2
+ ],
+ [
+  "AO spread",
+  2
+ ],
+ [
+  "Sharpness",
+  2
+ ],
+ [
+  "Anisotropy",
+  2
+ ],
+ [
+  "Use input direction map",
+  2
+ ],
+ [
+  "Tensor smoothness",
+  2
+ ],
+ [
+  "Anisotropy angle map multiplier",
+  2
+ ],
+ [
+  "Slope map input multiplier",
+  2
+ ],
+ [
+  "Anisotropy angle map",
+  2
+ ],
+ [
+  "Slope map",
+  2
+ ],
+ [
+  "Radius map (Optional)",
+  2
+ ],
+ [
+  "Ignore alpha",
+  2
+ ],
+ [
+  "Amount of lines on X axis.",
+  2
+ ],
+ [
+  "Amount of lines on Y axis.",
+  2
+ ],
+ [
+  "If true, the number of lines on Y axis will be equal to the image size.",
+  2
+ ],
+ [
+  "0 is linear and 1 is gaussian interpolation.",
+  2
+ ],
+ [
+  "AO cancellation",
+  2
+ ],
+ [
+  "Pattern distribution map multiplier",
+  2
+ ],
+ [
+  "Select shape pattern in function of the input image grayscale value.",
+  2
+ ],
+ [
+  "Scale no overlap",
+  2
+ ],
+ [
+  "Reduces the shape scale so that they don't overlap.",
+  2
+ ],
+ [
+  "Multiplies the shape scale in function of the input image grayscale value.",
+  2
+ ],
+ [
+  "Size ratio from BG slope",
+  2
+ ],
+ [
+  "Modifies the shape size ratio in function on the background height slope.",
+  2
+ ],
+ [
+  "Preserve aspect ratio",
+  2
+ ],
+ [
+  "Random distribution",
+  2
+ ],
+ [
+  "Offset horizontal",
+  2
+ ],
+ [
+  "Offset vertical",
+  2
+ ],
+ [
+  "Out of bounds option",
+  2
+ ],
+ [
+  "Rotation from BG slope",
+  2
+ ],
+ [
+  "Multiplies the shaperotation in function of the input image grayscale value.",
+  2
+ ],
+ [
+  "Set the shape rotation in function of the vector image input.",
+  2
+ ],
+ [
+  "Height scale auto adjust",
+  2
+ ],
+ [
+  "Smooth conformed background",
+  2
+ ],
+ [
+  "Background slope smoothness",
+  2
+ ],
+ [
+  "Cutout black pixels",
+  2
+ ],
+ [
+  "Ignores the black value from the pattern inputs.",
+  2
+ ],
+ [
+  "Flatten pattern base",
+  2
+ ],
+ [
+  "Mask random map multiplier",
+  2
+ ],
+ [
+  "Mask from BG slope",
+  2
+ ],
+ [
+  "Pattern distribution",
+  2
+ ],
+ [
+  "Pixel size",
+  2
+ ],
+ [
+  "Amount_xy * pixel size",
+  2
+ ],
+ [
+  "User 1",
+  2
+ ],
+ [
+  "User 2",
+  2
+ ],
+ [
+  "Output mode",
+  2
+ ],
+ [
+  "Direction",
+  2
+ ],
+ [
+  "Mask threshold",
+  2
+ ],
+ [
+  "Distance map",
+  2
+ ],
+ [
+  "Distance map multiplier",
+  2
+ ],
+ [
+  "Uniform high quality blur grayscale version",
+  2
+ ],
+ [
+  "Normal strength",
+  2
+ ],
+ [
+  "Normal soften",
+  2
+ ],
+ [
+  "Specular levels in",
+  2
+ ],
+ [
+  "Specular levels out",
+  2
+ ],
+ [
+  "Ambient occlusion spread",
+  2
+ ],
+ [
+  "Ambient occlusion levels",
+  2
+ ],
+ [
+  "Depth balance",
+  2
+ ],
+ [
+  "Sharpen",
+  2
+ ],
+ [
+  "Foreground",
+  2
+ ],
+ [
+  "Dissolve",
+  2
+ ],
+ [
+  "Input number",
+  2
+ ],
+ [
+  "Input 17",
+  2
+ ],
+ [
+  "Input 18",
+  2
+ ],
+ [
+  "Input 19",
+  2
+ ],
+ [
+  "Input 20",
+  2
+ ],
+ [
+  "Switch",
+  2
+ ],
+ [
+  "True returns the first input, False returns the second input.",
+  2
+ ],
+ [
+  "Input 1 (True)",
+  2
+ ],
+ [
+  "Input 2 (False)",
+  2
+ ],
+ [
+  "Brick 2",
+  2
+ ],
+ [
+  "Keep ratio",
+  2
+ ],
+ [
+  "Running bond",
+  2
+ ],
+ [
+  "Keep ratio X",
+  2
+ ],
+ [
+  "Keep ratio Y",
+  2
+ ],
+ [
+  "Luminance variation-contrast",
+  2
+ ],
+ [
+  "Transform the image by converting cartesian to polar coordinates.",
+  2
+ ],
+ [
+  "Transform the image by converting polar to cartesian coordinates.",
+  2
+ ],
+ [
+  "Input tiled",
+  2
+ ],
+ [
+  "Mask source",
+  2
+ ],
+ [
+  "Hue hexagonal",
+  2
+ ],
+ [
+  "Chroma Hexagonal",
+  2
+ ],
+ [
+  "Luma Rec. 601",
+  2
+ ],
+ [
+  "Linear sRGB to ACEScg",
+  2
+ ],
+ [
+  "ACEScg output",
+  2
+ ],
+ [
+  "ACEScg to linear sRGB",
+  2
+ ],
+ [
+  "ACEScg input",
+  2
+ ],
+ [
+  "Color to mask",
+  2
+ ],
+ [
+  "Transformation matrix",
+  2
+ ],
+ [
+  "Inner glow",
+  2
+ ],
+ [
+  "Inner shadow",
+  2
+ ],
+ [
+  "Outer glow",
+  2
+ ],
+ [
+  "Shadow",
+  2
+ ],
+ [
+  "Emboss shadow",
+  2
+ ],
+ [
+  "Emboss highlight",
+  2
+ ],
+ [
+  "Cracks weathering",
+  2
+ ],
+ [
+  "Cracks propagation",
+  2
+ ],
+ [
+  "Cracks depth",
+  2
+ ],
+ [
+  "Here Input a Diffuse or a Albedo Color Map.",
+  2
+ ],
+ [
+  "Here, Input a specular or a reflectance map.",
+  2
+ ],
+ [
+  "Here, Input a Glissiness or a Roughness map.",
+  2
+ ],
+ [
+  "Roughness type",
+  2
+ ],
+ [
+  "Reflectance type",
+  2
+ ],
+ [
+  "Mask effect",
+  2
+ ],
+ [
+  "Here input a diffuse or a albedo color map.",
+  2
+ ],
+ [
+  "Here input a base color map.",
+  2
+ ],
+ [
+  "Here, input a tangent space normal map.",
+  2
+ ],
+ [
+  "Creased",
+  2
+ ],
+ [
+  "Filtering",
+  2
+ ],
+ [
+  "Helper settings",
+  2
+ ],
+ [
+  "Line thickness",
+  2
+ ],
+ [
+  "Crystal 1",
+  2
+ ],
+ [
+  "Crystal 2",
+  2
+ ],
+ [
+  "Invert green",
+  2
+ ],
+ [
+  "Curvature smooth",
+  2
+ ],
+ [
+  "Set the intensity of the normal details.",
+  2
+ ],
+ [
+  "Set the Y axis orientation.",
+  2
+ ],
+ [
+  "Combined normal",
+  2
+ ],
+ [
+  "The image to diffuse.",
+  2
+ ],
+ [
+  "Adjusts the maximum distance of the diffusion.",
+  2
+ ],
+ [
+  "Enable dithering",
+  2
+ ],
+ [
+  "Tolerance",
+  2
+ ],
+ [
+  "Highlight color",
+  2
+ ],
+ [
+  "Extension distance",
+  2
+ ],
+ [
+  "Extension position",
+  2
+ ],
+ [
+  "Extension angle",
+  2
+ ],
+ [
+  "Start position",
+  2
+ ],
+ [
+  "End position",
+  2
+ ],
+ [
+  "Fabric weathering",
+  2
+ ],
+ [
+  "This filter add a weathering effect on a fabric material.",
+  2
+ ],
+ [
+  "Old fabric desaturation",
+  2
+ ],
+ [
+  "Old fabric brightness",
+  2
+ ],
+ [
+  "Pattern distribution jittering",
+  2
+ ],
+ [
+  "Rotation autoscale",
+  2
+ ],
+ [
+  "Position offset alignment",
+  2
+ ],
+ [
+  "Position offset random",
+  2
+ ],
+ [
+  "Pattern distribution map",
+  2
+ ],
+ [
+  "Luminance offset map",
+  2
+ ],
+ [
+  "A black and white mask used to delimit shapes",
+  2
+ ],
+ [
+  "Flood fill to random color",
+  2
+ ],
+ [
+  "Takes the flood fill node as input and generates a random color(RGBA) per shape.",
+  2
+ ],
+ [
+  "Flood fill to random grayscale",
+  2
+ ],
+ [
+  "Flood fill to Bbox size",
+  2
+ ],
+ [
+  "Flood fill to position",
+  2
+ ],
+ [
+  "Angle image input multiplier",
+  2
+ ],
+ [
+  "Slope image input multiplier",
+  2
+ ],
+ [
+  "Multiply by slope intensity",
+  2
+ ],
+ [
+  "Flat slope color",
+  2
+ ],
+ [
+  "Angle input",
+  2
+ ],
+ [
+  "Slope input",
+  2
+ ],
+ [
+  "Pattern width",
+  2
+ ],
+ [
+  "Vector",
+  2
+ ],
+ [
+  "Angle in turn.",
+  2
+ ],
+ [
+  "Inverts a 2x2 matrix.",
+  2
+ ],
+ [
+  "Polar to cartesian",
+  2
+ ],
+ [
+  "Height balance",
+  2
+ ],
+ [
+  "Random color",
+  2
+ ],
+ [
+  "Non-square output size",
+  2
+ ],
+ [
+  "Sub function for the AgX tonemapper.",
+  2
+ ],
+ [
+  "The Float value used as a seed to compute the pseudo-random output.",
+  2
+ ],
+ [
+  "The Float3 value used as a seed to compute the pseudo-random output.",
+  2
+ ],
+ [
+  "Fur 1",
+  2
+ ],
+ [
+  "Waves scale",
+  2
+ ],
+ [
+  "Waves rotation",
+  2
+ ],
+ [
+  "Fur 2",
+  2
+ ],
+ [
+  "Fur 3",
+  2
+ ],
+ [
+  "Applies an anti aliasing filter based on the FXAA algorithm.",
+  2
+ ],
+ [
+  "Glow amount",
+  2
+ ],
+ [
+  "Clear amount",
+  2
+ ],
+ [
+  "Glow size",
+  2
+ ],
+ [
+  "Grid size X",
+  2
+ ],
+ [
+  "Grid size Y",
+  2
+ ],
+ [
+  "Output size mode",
+  2
+ ],
+ [
+  "Details",
+  2
+ ],
+ [
+  "Dirt",
+  2
+ ],
+ [
+  "Scratches intensity",
+  2
+ ],
+ [
+  "Scratches amount",
+  2
+ ],
+ [
+  "Scratch spots tiling",
+  2
+ ],
+ [
+  "Dust intensity",
+  2
+ ],
+ [
+  "Coverage",
+  2
+ ],
+ [
+  "Mip 0",
+  2
+ ],
+ [
+  "Use world units",
+  2
+ ],
+ [
+  "Height depth",
+  2
+ ],
+ [
+  "Surface size",
+  2
+ ],
+ [
+  "Height scale (cm)",
+  2
+ ],
+ [
+  "GPU optimization",
+  2
+ ],
+ [
+  "HDR merge",
+  2
+ ],
+ [
+  "Inputs",
+  2
+ ],
+ [
+  "Displays the out of range values using color overlay.",
+  2
+ ],
+ [
+  "Range min",
+  2
+ ],
+ [
+  "Range max",
+  2
+ ],
+ [
+  "Height mask",
+  2
+ ],
+ [
+  "Applies a global factor on the input height values.",
+  2
+ ],
+ [
+  "Depth",
+  2
+ ],
+ [
+  "Blended Normal map (No ALpha)",
+  2
+ ],
+ [
+  "Surface size (cm)",
+  2
+ ],
+ [
+  "Height depth (cm)",
+  2
+ ],
+ [
+  "Height depth of the surface.",
+  2
+ ],
+ [
+  "ID integer",
+  2
+ ],
+ [
+  "ID range",
+  2
+ ],
+ [
+  "Leather weathering",
+  2
+ ],
+ [
+  "This filter add a weathering effect on a leather material.",
+  2
+ ],
+ [
+  "Used leather desaturation",
+  2
+ ],
+ [
+  "Used leather brightness",
+  2
+ ],
+ [
+  "Linear output",
+  2
+ ],
+ [
+  "Linear input",
+  2
+ ],
+ [
+  "Creates a bigger texture from a small patch",
+  2
+ ],
+ [
+  "Mask size",
+  2
+ ],
+ [
+  "Mask precision",
+  2
+ ],
+ [
+  "Mask warping",
+  2
+ ],
+ [
+  "Removes seams from an image",
+  2
+ ],
+ [
+  "Mask warping H",
+  2
+ ],
+ [
+  "Mask warping V",
+  2
+ ],
+ [
+  "Mask size H",
+  2
+ ],
+ [
+  "Mask size V",
+  2
+ ],
+ [
+  "Mask precision H",
+  2
+ ],
+ [
+  "Mask precision V",
+  2
+ ],
+ [
+  "Vertex color",
+  2
+ ],
+ [
+  "Color picker parameters",
+  2
+ ],
+ [
+  "This node allows the 2d transform of all the channels of a material at once",
+  2
+ ],
+ [
+  "Material Filters",
+  2
+ ],
+ [
+  "Length",
+  2
+ ],
+ [
+  "Edge blur",
+  2
+ ],
+ [
+  "Blur radius",
+  2
+ ],
+ [
+  "Edge dirt",
+  2
+ ],
+ [
+  "Edge wear",
+  2
+ ],
+ [
+  "Invert AO",
+  2
+ ],
+ [
+  "Noise roughness",
+  2
+ ],
+ [
+  "Noise min level",
+  2
+ ],
+ [
+  "Noise max level",
+  2
+ ],
+ [
+  "Selective dirt",
+  2
+ ],
+ [
+  "Sun bleach",
+  2
+ ],
+ [
+  "Kernel size",
+  2
+ ],
+ [
+  "Filter type",
+  2
+ ],
+ [
+  "Mesh 2",
+  2
+ ],
+ [
+  "Material 3 color",
+  2
+ ],
+ [
+  "Material 4 color",
+  2
+ ],
+ [
+  "SVG mask",
+  2
+ ],
+ [
+  "Material 2 diffuse red",
+  2
+ ],
+ [
+  "Material 2 specular red",
+  2
+ ],
+ [
+  "Material 2 height red",
+  2
+ ],
+ [
+  "Material 3 diffuse green",
+  2
+ ],
+ [
+  "Material 3 specular green",
+  2
+ ],
+ [
+  "Material 3 height green",
+  2
+ ],
+ [
+  "Material 4 diffuse blue",
+  2
+ ],
+ [
+  "Material 4 specular blue",
+  2
+ ],
+ [
+  "Material 4 height blue",
+  2
+ ],
+ [
+  "Set the material 3 height map min and max value.",
+  2
+ ],
+ [
+  "Set the material 3 specular map min and max value.",
+  2
+ ],
+ [
+  "Set the zoom, rotation and position of the material 4.",
+  2
+ ],
+ [
+  "Set the material 4 height map min and max value.",
+  2
+ ],
+ [
+  "Set the material 4 specular map min and max value.",
+  2
+ ],
+ [
+  "Links number",
+  2
+ ],
+ [
+  "Metal weathering",
+  2
+ ],
+ [
+  "This filter add a weathering effect on a metal material.",
+  2
+ ],
+ [
+  "Paint peeling",
+  2
+ ],
+ [
+  "Rust peeling",
+  2
+ ],
+ [
+  "Rust verdigris",
+  2
+ ],
+ [
+  "Paint cracks scale",
+  2
+ ],
+ [
+  "Paint cracks warp intensity",
+  2
+ ],
+ [
+  "Apply automatic Level In Low and Level In High.",
+  2
+ ],
+ [
+  "Grunge scale",
+  2
+ ],
+ [
+  "Here, Input an Ambient Occlusion Map.",
+  2
+ ],
+ [
+  "Rust spreading",
+  2
+ ],
+ [
+  "Spreading smoothness",
+  2
+ ],
+ [
+  "Drips intensity",
+  2
+ ],
+ [
+  "Drips smoothness",
+  2
+ ],
+ [
+  "Drips samples amount",
+  2
+ ],
+ [
+  "Override noise",
+  2
+ ],
+ [
+  "Edges smoothness",
+  2
+ ],
+ [
+  "Secondary custom grunge",
+  2
+ ],
+ [
+  "Convex range",
+  2
+ ],
+ [
+  "Convex contrast",
+  2
+ ],
+ [
+  "Convex invert",
+  2
+ ],
+ [
+  "Concave range",
+  2
+ ],
+ [
+  "Concave contrast",
+  2
+ ],
+ [
+  "Concave invert",
+  2
+ ],
+ [
+  "Level boost",
+  2
+ ],
+ [
+  "Top intensity",
+  2
+ ],
+ [
+  "Bottom intensity",
+  2
+ ],
+ [
+  "Front intensity",
+  2
+ ],
+ [
+  "Back intensity",
+  2
+ ],
+ [
+  "Right intensity",
+  2
+ ],
+ [
+  "Left intensity",
+  2
+ ],
+ [
+  "Grunge input 2",
+  2
+ ],
+ [
+  "Scatter input",
+  2
+ ],
+ [
+  "Opacity variation",
+  2
+ ],
+ [
+  "Microscope view",
+  2
+ ],
+ [
+  "Axis X offset",
+  2
+ ],
+ [
+  "Axis Y offset",
+  2
+ ],
+ [
+  "Invert axis X",
+  2
+ ],
+ [
+  "Invert axis Y",
+  2
+ ],
+ [
+  "Moisture noise",
+  2
+ ],
+ [
+  "Mosaic map",
+  2
+ ],
+ [
+  "Moss weathering",
+  2
+ ],
+ [
+  "Moss propagation",
+  2
+ ],
+ [
+  "Sets the moss color.",
+  2
+ ],
+ [
+  "Here, Input a Roughness map.",
+  2
+ ],
+ [
+  "Warps the input image multiple times into various directions.",
+  2
+ ],
+ [
+  "Directions",
+  2
+ ],
+ [
+  "Intensity input",
+  2
+ ],
+ [
+  "BnW spots 1",
+  2
+ ],
+ [
+  "BnW spots 2",
+  2
+ ],
+ [
+  "BnW spots 3",
+  2
+ ],
+ [
+  "Hardness",
+  2
+ ],
+ [
+  "Pseudorandom seed",
+  2
+ ],
+ [
+  "Directional noise 1",
+  2
+ ],
+ [
+  "Directional noise 2",
+  2
+ ],
+ [
+  "Directional noise 3",
+  2
+ ],
+ [
+  "Directional noise 4",
+  2
+ ],
+ [
+  "Directional scratches",
+  2
+ ],
+ [
+  "Fractal sum 1",
+  2
+ ],
+ [
+  "Gaussian noise",
+  2
+ ],
+ [
+  "Perlin noise",
+  2
+ ],
+ [
+  "Tile mode",
+  2
+ ],
+ [
+  "Safe rotation (Square only)",
+  2
+ ],
+ [
+  "Warp angle map",
+  2
+ ],
+ [
+  "Warp angle input multiplier",
+  2
+ ],
+ [
+  "Trail mode",
+  2
+ ],
+ [
+  "Trail length",
+  2
+ ],
+ [
+  "Trail fade",
+  2
+ ],
+ [
+  "Trail curve",
+  2
+ ],
+ [
+  "Rotation angle multiplier",
+  2
+ ],
+ [
+  "Rotation angle offset",
+  2
+ ],
+ [
+  "Use pivot position map",
+  2
+ ],
+ [
+  "The position of the pivot around which the image is rotated.",
+  2
+ ],
+ [
+  "Rotation pivot position map",
+  2
+ ],
+ [
+  "Normal 1",
+  2
+ ],
+ [
+  "Normal 2",
+  2
+ ],
+ [
+  "Normal to height",
+  2
+ ],
+ [
+  "Sets the shape variation scale for the edges wearing.",
+  2
+ ],
+ [
+  "Sets the shape variation intensity for the edges wearing.",
+  2
+ ],
+ [
+  "Metallic intensity",
+  2
+ ],
+ [
+  "Sets the metallic map blend intensity.",
+  2
+ ],
+ [
+  "range = [0,1]x[0,1] (longitude-latitude angles)",
+  2
+ ],
+ [
+  "Parameter index to sample. Ranges from 0 to 9. Expect a constant expression.",
+  2
+ ],
+ [
+  "Panorama shape",
+  2
+ ],
+ [
+  "Shape color",
+  2
+ ],
+ [
+  "Shape intensity",
+  2
+ ],
+ [
+  "Shape soft border",
+  2
+ ],
+ [
+  "Hotspot intensity",
+  2
+ ],
+ [
+  "Enable background",
+  2
+ ],
+ [
+  "Enable texture input",
+  2
+ ],
+ [
+  "Show ground grid",
+  2
+ ],
+ [
+  "Shape image UV mode",
+  2
+ ],
+ [
+  "Shape image gamma",
+  2
+ ],
+ [
+  "Pattern hardness",
+  2
+ ],
+ [
+  "Pattern UV mode",
+  2
+ ],
+ [
+  "Enable ground clipping",
+  2
+ ],
+ [
+  "Ground height",
+  2
+ ],
+ [
+  "Horizontal rotation",
+  2
+ ],
+ [
+  "Smooth mask",
+  2
+ ],
+ [
+  "Mask threshold value",
+  2
+ ],
+ [
+  "Decimate path",
+  2
+ ],
+ [
+  "Close opened paths",
+  2
+ ],
+ [
+  "Gradient input",
+  2
+ ],
+ [
+  "Image input count",
+  2
+ ],
+ [
+  "Per vertex function",
+  2
+ ],
+ [
+  "Input 1 (Color)",
+  2
+ ],
+ [
+  "Input 2 (Grayscale)",
+  2
+ ],
+ [
+  "Input 3 (Color)",
+  2
+ ],
+ [
+  "Input 4 (Grayscale)",
+  2
+ ],
+ [
+  "WARNING: you need to define next_sampled_pos",
+  2
+ ],
+ [
+  "Orientation offset",
+  2
+ ],
+ [
+  "Triangle size",
+  2
+ ],
+ [
+  "Gradient invert",
+  2
+ ],
+ [
+  "Non-square tiling",
+  2
+ ],
+ [
+  "Rotation 45°",
+  2
+ ],
+ [
+  "Pattern amount random min",
+  2
+ ],
+ [
+  "Ring amount",
+  2
+ ],
+ [
+  "Ring radius multiplier",
+  2
+ ],
+ [
+  "Spiral factor",
+  2
+ ],
+ [
+  "Offset along direction",
+  2
+ ],
+ [
+  "Connect patterns",
+  2
+ ],
+ [
+  "Size (Connected)",
+  2
+ ],
+ [
+  "Scale by pattern number",
+  2
+ ],
+ [
+  "Scale by ring number",
+  2
+ ],
+ [
+  "Pattern rotation pivot",
+  2
+ ],
+ [
+  "Ring rotation",
+  2
+ ],
+ [
+  "Ring rotation random",
+  2
+ ],
+ [
+  "Ring rotation offset",
+  2
+ ],
+ [
+  "Luminance by pattern number",
+  2
+ ],
+ [
+  "Luminance by ring number",
+  2
+ ],
+ [
+  "Scale random seed",
+  2
+ ],
+ [
+  "Tile generator color",
+  2
+ ],
+ [
+  "$number",
+  2
+ ],
+ [
+  "Random size",
+  2
+ ],
+ [
+  "Scale map parameterization affect",
+  2
+ ],
+ [
+  "Pattern distribution map input",
+  2
+ ],
+ [
+  "The discrete seed value used in the pseudo-random color distribution.",
+  2
+ ],
+ [
+  "Weave 2",
+  2
+ ],
+ [
+  "Weave",
+  2
+ ],
+ [
+  "Gap",
+  2
+ ],
+ [
+  "PBR workflow",
+  2
+ ],
+ [
+  "Validation mode",
+  2
+ ],
+ [
+  "Overlay map",
+  2
+ ],
+ [
+  "Validation",
+  2
+ ],
+ [
+  "Diffuse color",
+  2
+ ],
+ [
+  "Controls the contrast of the noise pattern",
+  2
+ ],
+ [
+  "Gamma 1.0",
+  2
+ ],
+ [
+  "Metal color",
+  2
+ ],
+ [
+  "Environment background blur",
+  2
+ ],
+ [
+  "Cylinder length",
+  2
+ ],
+ [
+  "Rotation direction",
+  2
+ ],
+ [
+  "Rotation around direction",
+  2
+ ],
+ [
+  "Shape position",
+  2
+ ],
+ [
+  "Sphere UV scale",
+  2
+ ],
+ [
+  "Plane UV scale",
+  2
+ ],
+ [
+  "Cylinder UV scale",
+  2
+ ],
+ [
+  "Tone mapper",
+  2
+ ],
+ [
+  "Field of view",
+  2
+ ],
+ [
+  "Screen position",
+  2
+ ],
+ [
+  "Vignette intensity",
+  2
+ ],
+ [
+  "Vignette radius",
+  2
+ ],
+ [
+  "Aperture radius",
+  2
+ ],
+ [
+  "Aperture blades",
+  2
+ ],
+ [
+  "Aperture ring",
+  2
+ ],
+ [
+  "Swirly bokeh",
+  2
+ ],
+ [
+  "Focus mode",
+  2
+ ],
+ [
+  "Focus point",
+  2
+ ],
+ [
+  "Focus offset",
+  2
+ ],
+ [
+  "Use custom aperture map",
+  2
+ ],
+ [
+  "Diffuse quality",
+  2
+ ],
+ [
+  "Diffuse emissive multiplier",
+  2
+ ],
+ [
+  "Controls how much the emissive parts are contributing to the irradiance.",
+  2
+ ],
+ [
+  "Diffuse shadow intensity",
+  2
+ ],
+ [
+  "Specular dithering",
+  2
+ ],
+ [
+  "Specular shadow intensity",
+  2
+ ],
+ [
+  "Bloom intensity",
+  2
+ ],
+ [
+  "Bloom threshold",
+  2
+ ],
+ [
+  "Bloom chroma shift",
+  2
+ ],
+ [
+  "Lens halo intensity",
+  2
+ ],
+ [
+  "Lens flares intensity",
+  2
+ ],
+ [
+  "Lens dirt intensity",
+  2
+ ],
+ [
+  "Opacity mask",
+  2
+ ],
+ [
+  "Recompute normals",
+  2
+ ],
+ [
+  "Enable clear coat",
+  2
+ ],
+ [
+  "Clear coat weight",
+  2
+ ],
+ [
+  "Clear coat specular level",
+  2
+ ],
+ [
+  "Inherit normal from base layer",
+  2
+ ],
+ [
+  "Lens dirt map",
+  2
+ ],
+ [
+  "Lens aperture map",
+  2
+ ],
+ [
+  "Beauty",
+  2
+ ],
+ [
+  "Raw specular",
+  2
+ ],
+ [
+  "Sphere - Close up",
+  2
+ ],
+ [
+  "Sphere - Default position",
+  2
+ ],
+ [
+  "Plane - Close up",
+  2
+ ],
+ [
+  "Plane - Default position",
+  2
+ ],
+ [
+  "Radius (px)",
+  2
+ ],
+ [
+  "PBR render",
+  2
+ ],
+ [
+  "Opacity mode",
+  2
+ ],
+ [
+  "Culling",
+  2
+ ],
+ [
+  "Quantize grayscale",
+  2
+ ],
+ [
+  "Apply color palette",
+  2
+ ],
+ [
+  "Modify color palette",
+  2
+ ],
+ [
+  "Color selection mode",
+  2
+ ],
+ [
+  "Color position",
+  2
+ ],
+ [
+  "Color index",
+  2
+ ],
+ [
+  "Color selection spread",
+  2
+ ],
+ [
+  "Color selection contrast",
+  2
+ ],
+ [
+  "Override color",
+  2
+ ],
+ [
+  "HSL",
+  2
+ ],
+ [
+  "Bitonic sort 256x256",
+  2
+ ],
+ [
+  "Sort progress",
+  2
+ ],
+ [
+  "Remap sorting",
+  2
+ ],
+ [
+  "Sorted table",
+  2
+ ],
+ [
+  "Iteration",
+  2
+ ],
+ [
+  "Rock weathering",
+  2
+ ],
+ [
+  "This filter add a weathering effect on a rock material.",
+  2
+ ],
+ [
+  "Used rock",
+  2
+ ],
+ [
+  "Cracks intensity",
+  2
+ ],
+ [
+  "Used rock desaturation",
+  2
+ ],
+ [
+  "Used rock brightness",
+  2
+ ],
+ [
+  "Ambient occlusion (RTAO)",
+  2
+ ],
+ [
+  "Number of rays used to compute the Ambient Occlusion.",
+  2
+ ],
+ [
+  "Bent normal",
+  2
+ ],
+ [
+  "Generates projected caustics based on a height map and a light direction.",
+  2
+ ],
+ [
+  "Output color space",
+  2
+ ],
+ [
+  "RT shadows",
+  2
+ ],
+ [
+  "Shadows attenuation",
+  2
+ ],
+ [
+  "Max shadows length",
+  2
+ ],
+ [
+  "Tiling safe transform node.\n- pixel snap offset\n- tile safe rotation",
+  2
+ ],
+ [
+  "Offset mode",
+  2
+ ],
+ [
+  "Tile safe rotation",
+  2
+ ],
+ [
+  "Mipmap mode",
+  2
+ ],
+ [
+  "Mipmap level",
+  2
+ ],
+ [
+  "This filter add effect such as an animated water level, snow, ice, moss etc",
+  2
+ ],
+ [
+  "Set the emboss filters values",
+  2
+ ],
+ [
+  "Set the emboss light direction.",
+  2
+ ],
+ [
+  "Effect from height or normal",
+  2
+ ],
+ [
+  "Set the level of the water, 0 is no water, 1 is the whole material under water.",
+  2
+ ],
+ [
+  "Water details",
+  2
+ ],
+ [
+  "Set the intensity of water ripples.",
+  2
+ ],
+ [
+  "Refraction",
+  2
+ ],
+ [
+  "Set the intensity of the reflection on water and ice.",
+  2
+ ],
+ [
+  "Reflection distance",
+  2
+ ],
+ [
+  "Set the lengh of the relected parts.",
+  2
+ ],
+ [
+  "Reflection angle",
+  2
+ ],
+ [
+  "Set the direction of the reflection on water and ice.",
+  2
+ ],
+ [
+  "Flow direction",
+  2
+ ],
+ [
+  "Set the direction of the water animation.",
+  2
+ ],
+ [
+  "Change the water into ice, water level need to be higher than 0.",
+  2
+ ],
+ [
+  "Ice details",
+  2
+ ],
+ [
+  "Set the amount of small details on ice surface.",
+  2
+ ],
+ [
+  "Add snow.",
+  2
+ ],
+ [
+  "Add moss in the lower parts of the texture",
+  2
+ ],
+ [
+  "Moss scale",
+  2
+ ],
+ [
+  "Set the moss scale.",
+  2
+ ],
+ [
+  "Set the moss color.",
+  2
+ ],
+ [
+  "Water color",
+  2
+ ],
+ [
+  "Set the water color and opacity.",
+  2
+ ],
+ [
+  "Here, Input a specular map",
+  2
+ ],
+ [
+  "Self shadow filter",
+  2
+ ],
+ [
+  "Shadow distance",
+  2
+ ],
+ [
+  "Edges softness",
+  2
+ ],
+ [
+  "Shape (Legacy)",
+  2
+ ],
+ [
+  "Shape extrude",
+  2
+ ],
+ [
+  "Extrude height",
+  2
+ ],
+ [
+  "Extrude depth",
+  2
+ ],
+ [
+  "Extrude shape",
+  2
+ ],
+ [
+  "Extrude shape size",
+  2
+ ],
+ [
+  "Extrude shape input",
+  2
+ ],
+ [
+  "Profile type",
+  2
+ ],
+ [
+  "Bevel height",
+  2
+ ],
+ [
+  "Bevel intensity",
+  2
+ ],
+ [
+  "Bevel curve",
+  2
+ ],
+ [
+  "Mirror bevel",
+  2
+ ],
+ [
+  "Downscale multiplier",
+  2
+ ],
+ [
+  "Downscale the final output to reduce aliasing.",
+  2
+ ],
+ [
+  "Profile gradient",
+  2
+ ],
+ [
+  "Profile mask",
+  2
+ ],
+ [
+  "Output range",
+  2
+ ],
+ [
+  "Draw a color light behind or inside shape.",
+  2
+ ],
+ [
+  "Draw a shadow behind a shape.",
+  2
+ ],
+ [
+  "Background height",
+  2
+ ],
+ [
+  "Pattern number",
+  2
+ ],
+ [
+  "Normal angle random",
+  2
+ ],
+ [
+  "Returns the shape final position (center of the shape).",
+  2
+ ],
+ [
+  "Position distribution mode",
+  2
+ ],
+ [
+  "Grid atlas size",
+  2
+ ],
+ [
+  "Grid atlas normal format",
+  2
+ ],
+ [
+  "Shape extrude symmetry",
+  2
+ ],
+ [
+  "Shape extrude height",
+  2
+ ],
+ [
+  "Background input opacity",
+  2
+ ],
+ [
+  "Shape size",
+  2
+ ],
+ [
+  "Separate scale factors per axis for adjusting the size of the shapes.",
+  2
+ ],
+ [
+  "Shape size random",
+  2
+ ],
+ [
+  "Rotation around normal",
+  2
+ ],
+ [
+  "If origin mipmap level is 0, it is assumed to span the full texture.",
+  2
+ ],
+ [
+  "Integer in [0, 15], the number of shift to apply",
+  2
+ ],
+ [
+  "Summed Area Table",
+  2
+ ],
+ [
+  "Sort Order",
+  2
+ ],
+ [
+  "X Amount",
+  2
+ ],
+ [
+  "Y Amount",
+  2
+ ],
+ [
+  "Grid atlas input",
+  2
+ ],
+ [
+  "Projection mode",
+  2
+ ],
+ [
+  "Image projection",
+  2
+ ],
+ [
+  "Projection center",
+  2
+ ],
+ [
+  "Projection scale",
+  2
+ ],
+ [
+  "Input selection mode",
+  2
+ ],
+ [
+  "Image index",
+  2
+ ],
+ [
+  "Random range",
+  2
+ ],
+ [
+  "Color input blending mode",
+  2
+ ],
+ [
+  "The colored shapes.",
+  2
+ ],
+ [
+  "Draw a line around or inside a shape.",
+  2
+ ],
+ [
+  "Slope blur grayscale",
+  2
+ ],
+ [
+  "Pan X",
+  2
+ ],
+ [
+  "Pan Y",
+  2
+ ],
+ [
+  "Grid number",
+  2
+ ],
+ [
+  "Disorder angle",
+  2
+ ],
+ [
+  "Disorder random",
+  2
+ ],
+ [
+  "Output level min",
+  2
+ ],
+ [
+  "Output level max",
+  2
+ ],
+ [
+  "Image input filtering (Engine v5 only)",
+  2
+ ],
+ [
+  "Pattern scale random",
+  2
+ ],
+ [
+  "Pattern pivot",
+  2
+ ],
+ [
+  "Auto tangent height",
+  2
+ ],
+ [
+  "Auto tangent thickness",
+  2
+ ],
+ [
+  "Points preview",
+  2
+ ],
+ [
+  "Global smoothness adjustment",
+  2
+ ],
+ [
+  "P1 properties",
+  2
+ ],
+ [
+  "P2 properties",
+  2
+ ],
+ [
+  "P3 properties",
+  2
+ ],
+ [
+  "P4 properties",
+  2
+ ],
+ [
+  "P5 properties",
+  2
+ ],
+ [
+  "P6 properties",
+  2
+ ],
+ [
+  "P7 properties",
+  2
+ ],
+ [
+  "P8 properties",
+  2
+ ],
+ [
+  "P9 properties",
+  2
+ ],
+ [
+  "P10 properties",
+  2
+ ],
+ [
+  "Preview 1",
+  2
+ ],
+ [
+  "Preview 2",
+  2
+ ],
+ [
+  "Bridge spline amount",
+  2
+ ],
+ [
+  "Input splines are closed",
+  2
+ ],
+ [
+  "Close bridge spline",
+  2
+ ],
+ [
+  "Start offset",
+  2
+ ],
+ [
+  "End offset",
+  2
+ ],
+ [
+  "Preview background intensity",
+  2
+ ],
+ [
+  "Range start",
+  2
+ ],
+ [
+  "Range end",
+  2
+ ],
+ [
+  "Warp center",
+  2
+ ],
+ [
+  "Use vector map",
+  2
+ ],
+ [
+  "Use attenuation curve",
+  2
+ ],
+ [
+  "Intensity map tiling",
+  2
+ ],
+ [
+  "Point number input",
+  2
+ ],
+ [
+  "Show labels",
+  2
+ ],
+ [
+  "Labels size",
+  2
+ ],
+ [
+  "Hide first point",
+  2
+ ],
+ [
+  "Hide last point",
+  2
+ ],
+ [
+  "Spline input",
+  2
+ ],
+ [
+  "Spline range",
+  2
+ ],
+ [
+  "Scatter mode",
+  2
+ ],
+ [
+  "Shape amount",
+  2
+ ],
+ [
+  "Shape distribution along spline",
+  2
+ ],
+ [
+  "Shape spacing",
+  2
+ ],
+ [
+  "Shape pivot",
+  2
+ ],
+ [
+  "Distribution jittering",
+  2
+ ],
+ [
+  "Override first pattern",
+  2
+ ],
+ [
+  "First pattern input index",
+  2
+ ],
+ [
+  "Override last pattern",
+  2
+ ],
+ [
+  "Last pattern input index",
+  2
+ ],
+ [
+  "Distribution mode",
+  2
+ ],
+ [
+  "Duplicates amount",
+  2
+ ],
+ [
+  "Offset center",
+  2
+ ],
+ [
+  "Offset distance",
+  2
+ ],
+ [
+  "Offset attenuation by thickness",
+  2
+ ],
+ [
+  "Thickness affects",
+  2
+ ],
+ [
+  "Thickness scale",
+  2
+ ],
+ [
+  "Local offset random",
+  2
+ ],
+ [
+  "Local offset random center",
+  2
+ ],
+ [
+  "Local offset attenuation by thickness",
+  2
+ ],
+ [
+  "Align with tangent",
+  2
+ ],
+ [
+  "Rotation (Pivot)",
+  2
+ ],
+ [
+  "Rotation random (Pivot)",
+  2
+ ],
+ [
+  "Rotation random center (Pivot)",
+  2
+ ],
+ [
+  "Rotation (Center)",
+  2
+ ],
+ [
+  "Rotation random (Center)",
+  2
+ ],
+ [
+  "Rotation random Center (Center)",
+  2
+ ],
+ [
+  "Shape base color",
+  2
+ ],
+ [
+  "Pattern input #1",
+  2
+ ],
+ [
+  "Pattern input #2",
+  2
+ ],
+ [
+  "Pattern input #3",
+  2
+ ],
+ [
+  "Pattern input #4",
+  2
+ ],
+ [
+  "Pattern input #5",
+  2
+ ],
+ [
+  "Pattern input #6",
+  2
+ ],
+ [
+  "Pattern input #7",
+  2
+ ],
+ [
+  "Pattern input #8",
+  2
+ ],
+ [
+  "Mask map input sampling mode",
+  2
+ ],
+ [
+  "Invert mask map",
+  2
+ ],
+ [
+  "Mask invert",
+  2
+ ],
+ [
+  "Scatter splines on splines",
+  2
+ ],
+ [
+  "Amount mode",
+  2
+ ],
+ [
+  "Spline amount per spline",
+  2
+ ],
+ [
+  "Spline spacing",
+  2
+ ],
+ [
+  "Spline type",
+  2
+ ],
+ [
+  "Spline pivot mode",
+  2
+ ],
+ [
+  "Pivot position along spline",
+  2
+ ],
+ [
+  "Pivot absolute position",
+  2
+ ],
+ [
+  "Offset on spline range",
+  2
+ ],
+ [
+  "Offset by thickness",
+  2
+ ],
+ [
+  "Custom spline alignment",
+  2
+ ],
+ [
+  "Rotation mode",
+  2
+ ],
+ [
+  "Rotation map input multiplier",
+  2
+ ],
+ [
+  "Rotation map input sampling mode",
+  2
+ ],
+ [
+  "Rotation map input affects",
+  2
+ ],
+ [
+  "Start height mode",
+  2
+ ],
+ [
+  "Start height offset",
+  2
+ ],
+ [
+  "End height mode",
+  2
+ ],
+ [
+  "End height offset",
+  2
+ ],
+ [
+  "Start thickness mode",
+  2
+ ],
+ [
+  "Start thickness multiplier",
+  2
+ ],
+ [
+  "Start thickness offset",
+  2
+ ],
+ [
+  "End thickness mode",
+  2
+ ],
+ [
+  "End thickness multiplier",
+  2
+ ],
+ [
+  "End thickness offset",
+  2
+ ],
+ [
+  "Spline coord",
+  2
+ ],
+ [
+  "RG: Tangents\nB: unsued\nA: unsused",
+  2
+ ],
+ [
+  "Point List",
+  2
+ ],
+ [
+  "Displace spline (Curve)",
+  2
+ ],
+ [
+  "Displace intensity",
+  2
+ ],
+ [
+  "Symmetry mode",
+  2
+ ],
+ [
+  "Composting of two materials using a Vector Graphics mask template",
+  2
+ ],
+ [
+  "Number X",
+  2
+ ],
+ [
+  "Number Y",
+  2
+ ],
+ [
+  "Scale variation",
+  2
+ ],
+ [
+  "Scale variation seed",
+  2
+ ],
+ [
+  "Luminance by scale variation",
+  2
+ ],
+ [
+  "Free rotation",
+  2
+ ],
+ [
+  "Free rotation random",
+  2
+ ],
+ [
+  "Pattern symmetry random",
+  2
+ ],
+ [
+  "Top stretch",
+  2
+ ],
+ [
+  "Bottom stretch",
+  2
+ ],
+ [
+  "Displayed background color in case the tiling is disabled.",
+  2
+ ],
+ [
+  "Image inputs",
+  2
+ ],
+ [
+  "Normalization factor",
+  2
+ ],
+ [
+  "Global rotation",
+  2
+ ],
+ [
+  "Fix mirrored projection",
+  2
+ ],
+ [
+  "Random offset X",
+  2
+ ],
+ [
+  "Random offset Y",
+  2
+ ],
+ [
+  "Random offset Z",
+  2
+ ],
+ [
+  "Input X",
+  2
+ ],
+ [
+  "Input Y",
+  2
+ ],
+ [
+  "Input Z",
+  2
+ ],
+ [
+  "UV mapper color",
+  2
+ ],
+ [
+  "UV mapper grayscale",
+  2
+ ],
+ [
+  "Returns the size in pixel of the input image.",
+  2
+ ],
+ [
+  "Distort the input image using the secondary vector field (also called flow map).",
+  2
+ ],
+ [
+  "Vector field",
+  2
+ ],
+ [
+  "Distort the input image using the secondary vector map (also called flow map).",
+  2
+ ],
+ [
+  "Waveform 1",
+  2
+ ],
+ [
+  "Moss Color",
+  2
+ ],
+ [
+  "Weathering",
+  2
+ ],
+ [
+  "Set the normal map strenght intensity. 0 = Null 1 = Maximum Intensity",
+  2
+ ],
+ [
+  "Set the intensity of creases.",
+  2
+ ],
+ [
+  "Set the frequency of creases.",
+  2
+ ],
+ [
+  "Set the angle of the creases.",
+  2
+ ],
+ [
+  "Creases Sharpness",
+  2
+ ],
+ [
+  "Parallax Intensity",
+  2
+ ],
+ [
+  "Parallax Angle",
+  2
+ ],
+ [
+  "Color Influence",
+  2
+ ],
+ [
+  "Knit Pattern Range",
+  2
+ ],
+ [
+  "Creases Relief Intensity",
+  2
+ ],
+ [
+  "Specular_Occlusion",
+  2
+ ],
+ [
+  "Shadows Softness",
+  2
+ ],
+ [
+  "Bullets Impacts Size",
+  2
+ ],
+ [
+  "Set the width of the first Layer",
+  2
+ ],
+ [
+  "Set the width of the second Layer",
+  2
+ ],
+ [
+  "Set the highlights of the first layer emboss filters",
+  2
+ ],
+ [
+  "Set the highlights of the second layer emboss filters",
+  2
+ ],
+ [
+  "Set the amount of impacts",
+  2
+ ],
+ [
+  "Set the size of the impacts",
+  2
+ ],
+ [
+  "Set the lenght of the cracks due to impacts",
+  2
+ ],
+ [
+  "Set how much the first layer is damaged by the cracks",
+  2
+ ],
+ [
+  "Set the width of the cracks. Doesn't work when Metal set to True",
+  2
+ ],
+ [
+  "Paint Peeling",
+  2
+ ],
+ [
+  "Infinite ground plane",
+  1
+ ],
+ [
+  "An SDF function for an infinite ground plane, with adjustable height.",
+  1
+ ],
+ [
+  "An SDF function for a cube, with adjustable XYZ size and rounding of edges.",
+  1
+ ],
+ [
+  "An SDF function for a simple sphere.",
+  1
+ ],
+ [
+  "Capsule",
+  1
+ ],
+ [
+  "Cylinder 2 points",
+  1
+ ],
+ [
+  "Ellipsoid",
+  1
+ ],
+ [
+  "Elongated cylinder",
+  1
+ ],
+ [
+  "Elongation distance",
+  1
+ ],
+ [
+  "Hexagonal prism",
+  1
+ ],
+ [
+  "Torus",
+  1
+ ],
+ [
+  "Radius major",
+  1
+ ],
+ [
+  "Radius minor",
+  1
+ ],
+ [
+  "An SDF function for an infinite plane of adjustable orientation and position.",
+  1
+ ],
+ [
+  "An SDF function for a plane of adjustable orientation, position and size.",
+  1
+ ],
+ [
+  "Pyramid",
+  1
+ ],
+ [
+  "An SDF function for a pyramid of adjustable height, base size and base position.",
+  1
+ ],
+ [
+  "Pyramid square",
+  1
+ ],
+ [
+  "An SDF function for a cone of adjustable height, radius and position.",
+  1
+ ],
+ [
+  "Capped cone",
+  1
+ ],
+ [
+  "An SDF function for a capped cone of adjustable base and top radiuses.",
+  1
+ ],
+ [
+  "Capped cone 2 points",
+  1
+ ],
+ [
+  "Position base",
+  1
+ ],
+ [
+  "Position top",
+  1
+ ],
+ [
+  "Helix (approx.)",
+  1
+ ],
+ [
+  "Windings",
+  1
+ ],
+ [
+  "Capped torus",
+  1
+ ],
+ [
+  "Symmetrical",
+  1
+ ],
+ [
+  "Rock",
+  1
+ ],
+ [
+  "Max. facets",
+  1
+ ],
+ [
+  "Randomness",
+  1
+ ],
+ [
+  "Seed",
+  1
+ ],
+ [
+  "Shell",
+  1
+ ],
+ [
+  "Makes an SDF shape hollow, with adjustable thickness for its resulting envelope.",
+  1
+ ],
+ [
+  "Expands an SDF shape, inflating it and smoothing its hard edges.",
+  1
+ ],
+ [
+  "Morph",
+  1
+ ],
+ [
+  "The base SDF shape.",
+  1
+ ],
+ [
+  "Target SDF",
+  1
+ ],
+ [
+  "The target SDF shape.",
+  1
+ ],
+ [
+  "Mix factor",
+  1
+ ],
+ [
+  "WIP mobius_transform",
+  1
+ ],
+ [
+  "Subtraction smooth",
+  1
+ ],
+ [
+  "Subtraction",
+  1
+ ],
+ [
+  "Subtracts the volume of the SDF 1 shape from the SDF 2 shape.",
+  1
+ ],
+ [
+  "Intersection surface",
+  1
+ ],
+ [
+  "The SDF shape that the resulting surface is based on.",
+  1
+ ],
+ [
+  "Intersecting SDF",
+  1
+ ],
+ [
+  "The SDF shape intersecting the base SDF shape.",
+  1
+ ],
+ [
+  "Intersection",
+  1
+ ],
+ [
+  "Intersection smooth",
+  1
+ ],
+ [
+  "Union stairs",
+  1
+ ],
+ [
+  "Union chamfer",
+  1
+ ],
+ [
+  "Union",
+  1
+ ],
+ [
+  "Returns the added volumes of two SDF shapes.",
+  1
+ ],
+ [
+  "Union smooth",
+  1
+ ],
+ [
+  "Mirror plane position",
+  1
+ ],
+ [
+  "Flip axis",
+  1
+ ],
+ [
+  "Pre-offset",
+  1
+ ],
+ [
+  "Repeat mirror range",
+  1
+ ],
+ [
+  "Amount +",
+  1
+ ],
+ [
+  "Amount -",
+  1
+ ],
+ [
+  "Spacing",
+  1
+ ],
+ [
+  "Origin position",
+  1
+ ],
+ [
+  "Sub function for the 3d_sdf_op_repeat_mirror function",
+  1
+ ],
+ [
+  "Elongate",
+  1
+ ],
+ [
+  "Elongation",
+  1
+ ],
+ [
+  "The elongation length on the X, Y, Z axes.",
+  1
+ ],
+ [
+  "Repeat",
+  1
+ ],
+ [
+  "Bounding box size",
+  1
+ ],
+ [
+  "Size of the bounding box being repeated.",
+  1
+ ],
+ [
+  "Bounding box position",
+  1
+ ],
+ [
+  "Position of the bounding box being repeated.",
+  1
+ ],
+ [
+  "p (optional)",
+  1
+ ],
+ [
+  "Bend (inexact)",
+  1
+ ],
+ [
+  "The angle, in turns, of the rotation applied at the end of the bend.",
+  1
+ ],
+ [
+  "Twist (inexact)",
+  1
+ ],
+ [
+  "The angle, in turns, of the rotation applied at the end of the twist.",
+  1
+ ],
+ [
+  "Uniformly scale an SDF shape.",
+  1
+ ],
+ [
+  "Offset an SDF shape along a vector.",
+  1
+ ],
+ [
+  "Flip",
+  1
+ ],
+ [
+  "Rotate P",
+  1
+ ],
+ [
+  "Offset P",
+  1
+ ],
+ [
+  "The distance the world space will be offset in the X, Y and Z directions.",
+  1
+ ],
+ [
+  "position",
+  1
+ ],
+ [
+  "Plane infinite",
+  1
+ ],
+ [
+  "Two sided",
+  1
+ ],
+ [
+  "Cylinder Y axis",
+  1
+ ],
+ [
+  "Arrow",
+  1
+ ],
+ [
+  "Head size",
+  1
+ ],
+ [
+  "Horizontal grid",
+  1
+ ],
+ [
+  "Grid offset",
+  1
+ ],
+ [
+  "Grid thickness",
+  1
+ ],
+ [
+  "Grid Scale",
+  1
+ ],
+ [
+  "Patch",
+  1
+ ],
+ [
+  "Flat arc",
+  1
+ ],
+ [
+  "Plane frame",
+  1
+ ],
+ [
+  "Symmetry helper",
+  1
+ ],
+ [
+  "Intersect union",
+  1
+ ],
+ [
+  "Intersect union simple",
+  1
+ ],
+ [
+  "Helper union",
+  1
+ ],
+ [
+  "Transform (quaternion)",
+  1
+ ],
+ [
+  "Wrap angle to [-pi, pi)",
+  1
+ ],
+ [
+  "Set material ID",
+  1
+ ],
+ [
+  "Set the material ID of an SDF scene.",
+  1
+ ],
+ [
+  "The integer ID to set.",
+  1
+ ],
+ [
+  "Set color",
+  1
+ ],
+ [
+  "Set roughness",
+  1
+ ],
+ [
+  "Set ior",
+  1
+ ],
+ [
+  "Set metalness",
+  1
+ ],
+ [
+  "Set material",
+  1
+ ],
+ [
+  "Set helper color",
+  1
+ ],
+ [
+  "Lines frequency",
+  1
+ ],
+ [
+  "Quaternion axis angle",
+  1
+ ],
+ [
+  "Angle (turn)",
+  1
+ ],
+ [
+  "3D linear gradient",
+  1
+ ],
+ [
+  "Points position mode",
+  1
+ ],
+ [
+  "3D Perlin noise",
+  1
+ ],
+ [
+  "Controls the scale of the 3D Perlin noise.",
+  1
+ ],
+ [
+  "3D Perlin noise fractal",
+  1
+ ],
+ [
+  "Controls the scale of the fractal 3D Perlin noise.",
+  1
+ ],
+ [
+  "3D ridged noise fractal",
+  1
+ ],
+ [
+  "Controls the scale of the fractal 3D Ridged noise.",
+  1
+ ],
+ [
+  "3D planar projection color",
+  1
+ ],
+ [
+  "Project input",
+  1
+ ],
+ [
+  "3D planar projection grayscale",
+  1
+ ],
+ [
+  "Projection input",
+  1
+ ],
+ [
+  "3D simplex noise",
+  1
+ ],
+ [
+  "3D texture SDF",
+  1
+ ],
+ [
+  "3D texture jump flood",
+  1
+ ],
+ [
+  "3D texture position",
+  1
+ ],
+ [
+  "3D texture surface render",
+  1
+ ],
+ [
+  "The albedo color of the shape's surface.",
+  1
+ ],
+ [
+  "The color used to uniformly fill the background of the rendered scene.",
+  1
+ ],
+ [
+  "Voxel surface render pass",
+  1
+ ],
+ [
+  "Background_color",
+  1
+ ],
+ [
+  "3D texture volume IBL render",
+  1
+ ],
+ [
+  "3D texture volume render",
+  1
+ ],
+ [
+  "3D signed distance field",
+  1
+ ],
+ [
+  "The color of the directional light.",
+  1
+ ],
+ [
+  "The intensity of the directional light.",
+  1
+ ],
+ [
+  "The color of the ambient skylight.",
+  1
+ ],
+ [
+  "The intensity of the ambient skylight.",
+  1
+ ],
+ [
+  "The albedo color of the volume.",
+  1
+ ],
+ [
+  "The color used to fill the background of the rendered scene.",
+  1
+ ],
+ [
+  "3D texture position render",
+  1
+ ],
+ [
+  "Position debug",
+  1
+ ],
+ [
+  "3D texture offset grayscale",
+  1
+ ],
+ [
+  "3D texture offset color",
+  1
+ ],
+ [
+  "3D viewer",
+  1
+ ],
+ [
+  "Scene type",
+  1
+ ],
+ [
+  "Scene",
+  1
+ ],
+ [
+  "Intersect scene",
+  1
+ ],
+ [
+  "Custom output",
+  1
+ ],
+ [
+  "The flat color used as the scene's background.",
+  1
+ ],
+ [
+  "Camera function",
+  1
+ ],
+ [
+  "UV position",
+  1
+ ],
+ [
+  "FOV",
+  1
+ ],
+ [
+  "The orthographic camera's field of view (FOV), which impacts the zoom factor.",
+  1
+ ],
+ [
+  "Focal length",
+  1
+ ],
+ [
+  "Distance from target",
+  1
+ ],
+ [
+  "The position of the camera target, towards which the camera is always oriented.",
+  1
+ ],
+ [
+  "Enable depth of field",
+  1
+ ],
+ [
+  "F-number",
+  1
+ ],
+ [
+  "Focus distance",
+  1
+ ],
+ [
+  "The opacity of the 3D helpers, where a lower value results in fainter helpers.",
+  1
+ ],
+ [
+  "Min. hit distance",
+  1
+ ],
+ [
+  "Advanced settings",
+  1
+ ],
+ [
+  "IBL intensity",
+  1
+ ],
+ [
+  "Environment Rotation",
+  1
+ ],
+ [
+  "Returns position within a disc in the [-1, 1] range",
+  1
+ ],
+ [
+  "random value [0, 1]",
+  1
+ ],
+ [
+  "3D volume mask",
+  1
+ ],
+ [
+  "Defines the size of the shape on each axis.",
+  1
+ ],
+ [
+  "Position input",
+  1
+ ],
+ [
+  "Position UV",
+  1
+ ],
+ [
+  "The position of the primitive in UV space.",
+  1
+ ],
+ [
+  "Position world space",
+  1
+ ],
+ [
+  "The position of the primitive in world space.",
+  1
+ ],
+ [
+  "Defines the rotation of the shape in world space.",
+  1
+ ],
+ [
+  "Feather width",
+  1
+ ],
+ [
+  "3D Worley noise",
+  1
+ ],
+ [
+  "Border width",
+  1
+ ],
+ [
+  "Roundness",
+  1
+ ],
+ [
+  "local position in the block in the [-1 ,1] range",
+  1
+ ],
+ [
+  "Alveolus (Legacy)",
+  1
+ ],
+ [
+  "AO and self shadows filter",
+  1
+ ],
+ [
+  "AO levels",
+  1
+ ],
+ [
+  "Light distance",
+  1
+ ],
+ [
+  "Ambient occlusion (Deprecated)",
+  1
+ ],
+ [
+  "Spreading",
+  1
+ ],
+ [
+  "Equalizer",
+  1
+ ],
+ [
+  "Levels",
+  1
+ ],
+ [
+  "Angle to vector",
+  1
+ ],
+ [
+  "Anisotropic blur color",
+  1
+ ],
+ [
+  "Anisotropic blur",
+  1
+ ],
+ [
+  "Anisotropic blur grayscale",
+  1
+ ],
+ [
+  "Anisotropic blur grayscale version.",
+  1
+ ],
+ [
+  "Anisotropic Kuwahara color",
+  1
+ ],
+ [
+  "Anisotropic Kuwahara grayscale",
+  1
+ ],
+ [
+  "Cancels the residual ambient occlusion on a color map.",
+  1
+ ],
+ [
+  "AO saturation",
+  1
+ ],
+ [
+  "Re-saturates areas that were undersaturated due to the AO.",
+  1
+ ],
+ [
+  "Atlas scatter",
+  1
+ ],
+ [
+  "Extract elements from an Atlas and scatter them on a background.",
+  1
+ ],
+ [
+  "Atlas input resolution",
+  1
+ ],
+ [
+  "Pattern range",
+  1
+ ],
+ [
+  "Atlas shape detection precision",
+  1
+ ],
+ [
+  "Downscale atlas opacity (Faster detection)",
+  1
+ ],
+ [
+  "Color adjustment",
+  1
+ ],
+ [
+  "Color from background",
+  1
+ ],
+ [
+  "Skew the shape normal according to the background normal.",
+  1
+ ],
+ [
+  "Normal random",
+  1
+ ],
+ [
+  "Roughness adjustment",
+  1
+ ],
+ [
+  "Roughness from background",
+  1
+ ],
+ [
+  "Roughness random",
+  1
+ ],
+ [
+  "Atlas splitter",
+  1
+ ],
+ [
+  "Downscale opacity mask",
+  1
+ ],
+ [
+  "Shape detection precision",
+  1
+ ],
+ [
+  "Dilation width",
+  1
+ ],
+ [
+  "Enable additional inputs",
+  1
+ ],
+ [
+  "Custom background color",
+  1
+ ],
+ [
+  "Base color BG color",
+  1
+ ],
+ [
+  "Normal BG color",
+  1
+ ],
+ [
+  "Metallic BG color",
+  1
+ ],
+ [
+  "Roughness BG color",
+  1
+ ],
+ [
+  "Height BG color",
+  1
+ ],
+ [
+  "User 1 BG color",
+  1
+ ],
+ [
+  "User 2 BG color",
+  1
+ ],
+ [
+  "Auto crop grayscale",
+  1
+ ],
+ [
+  "The input grayscale image which should be cropped.",
+  1
+ ],
+ [
+  "Auto crop color",
+  1
+ ],
+ [
+  "Use alpha",
+  1
+ ],
+ [
+  "The input color image which should be cropped.",
+  1
+ ],
+ [
+  "Compute Bbox",
+  1
+ ],
+ [
+  "The input grayscale image.",
+  1
+ ],
+ [
+  "The remapped grayscale image.",
+  1
+ ],
+ [
+  "Get Min or Max from an input.",
+  1
+ ],
+ [
+  "Smoothing",
+  1
+ ],
+ [
+  "Custom curve",
+  1
+ ],
+ [
+  "Input a vertical gradient representing the bevel curve",
+  1
+ ],
+ [
+  "Use non-uniform blur",
+  1
+ ],
+ [
+  "Use custom curve",
+  1
+ ],
+ [
+  "Bevel smooth",
+  1
+ ],
+ [
+  "Source input",
+  1
+ ],
+ [
+  "Mask smoothness",
+  1
+ ],
+ [
+  "Mask offset",
+  1
+ ],
+ [
+  "Distance metric",
+  1
+ ],
+ [
+  "Blur gaussian grayscale",
+  1
+ ],
+ [
+  "Bevel smooth debug position",
+  1
+ ],
+ [
+  "Bitmap2Material light",
+  1
+ ],
+ [
+  "Diffuse HSL",
+  1
+ ],
+ [
+  "Hue, Saturation and Luminance of the Diffuse output",
+  1
+ ],
+ [
+  "Diffuse levels",
+  1
+ ],
+ [
+  "Levels of the Diffuse output",
+  1
+ ],
+ [
+  "Diffuse sharpen",
+  1
+ ],
+ [
+  "Sharpen the Diffuse output",
+  1
+ ],
+ [
+  "Normal map Intensity",
+  1
+ ],
+ [
+  "Normal medium shapes",
+  1
+ ],
+ [
+  "Intensity of Normal and Height maps middle frequencies",
+  1
+ ],
+ [
+  "Normal big shapes",
+  1
+ ],
+ [
+  "Intensity of Normal and Height maps low frequencies",
+  1
+ ],
+ [
+  "Normal sharpen noises-edges",
+  1
+ ],
+ [
+  "Intensity of Normal and Height maps high frequencies and sharpening of the edges",
+  1
+ ],
+ [
+  "Frequencies balance of the Height and Normal output",
+  1
+ ],
+ [
+  "Specular color influence",
+  1
+ ],
+ [
+  "Influence of the Diffuse map color on the Specular output",
+  1
+ ],
+ [
+  "Specular outputs levels in",
+  1
+ ],
+ [
+  "Specular outputs levels out",
+  1
+ ],
+ [
+  "Heightmap levels",
+  1
+ ],
+ [
+  "Levels of the Height output (change the Normal and AO outputs too)",
+  1
+ ],
+ [
+  "Heightmap frequency",
+  1
+ ],
+ [
+  "Frequencies balance of the Height output (do not change the Normal output)",
+  1
+ ],
+ [
+  "Ambient occlusion strength",
+  1
+ ],
+ [
+  "Intensity of the AO on the Diffuse output",
+  1
+ ],
+ [
+  "AO spreading",
+  1
+ ],
+ [
+  "Bitmap to material light",
+  1
+ ],
+ [
+  "Converts a single bitmap or diffuse texture into a full material.",
+  1
+ ],
+ [
+  "Sharpens the Diffuse map",
+  1
+ ],
+ [
+  "Brightness",
+  1
+ ],
+ [
+  "Invert generated relief",
+  1
+ ],
+ [
+  "Changes the Normal map intensity. Set to 0 if you want to use input normal only.",
+  1
+ ],
+ [
+  "Relief equalizer",
+  1
+ ],
+ [
+  "Allow to smooth or sharpen the Normal and Height maps depending on details size.",
+  1
+ ],
+ [
+  "Pinch intensity",
+  1
+ ],
+ [
+  "Sharpens edges on height and normal maps.",
+  1
+ ],
+ [
+  "Normal sharpen",
+  1
+ ],
+ [
+  "Sharpens the Normal and Height maps",
+  1
+ ],
+ [
+  "Softens the Normal and Height maps",
+  1
+ ],
+ [
+  "Specular diffuse influence",
+  1
+ ],
+ [
+  "Influence of the Diffuse map color on the Specular map",
+  1
+ ],
+ [
+  "Specular saturation",
+  1
+ ],
+ [
+  "Changes the saturation of the Specular map",
+  1
+ ],
+ [
+  "Specular sharpen",
+  1
+ ],
+ [
+  "Sharpens the Specular map",
+  1
+ ],
+ [
+  "Specular map levels in",
+  1
+ ],
+ [
+  "Specular map levels out",
+  1
+ ],
+ [
+  "Metallic specular influence",
+  1
+ ],
+ [
+  "Add the metallic map to the specular map to get metal area more reflective.",
+  1
+ ],
+ [
+  "Glossiness levels in",
+  1
+ ],
+ [
+  "Glossiness map levels in",
+  1
+ ],
+ [
+  "Glossiness levels out",
+  1
+ ],
+ [
+  "Glossiness map levels out",
+  1
+ ],
+ [
+  "Metallic glossiness influence",
+  1
+ ],
+ [
+  "Roughness levels in",
+  1
+ ],
+ [
+  "Roughness levels out",
+  1
+ ],
+ [
+  "Metallic Roughness influence",
+  1
+ ],
+ [
+  "Substract the metallic map to the roughness map to get metal area more smooth.",
+  1
+ ],
+ [
+  "Ambient occlusion in diffuse",
+  1
+ ],
+ [
+  "Intensity of generated shadows in the Diffuse map",
+  1
+ ],
+ [
+  "Shadows spreading distance",
+  1
+ ],
+ [
+  "Ambient occlusion light distance",
+  1
+ ],
+ [
+  "Distance of the light which generate shadows",
+  1
+ ],
+ [
+  "Ambient occlusion light angle",
+  1
+ ],
+ [
+  "Angle from which the directional light generate shadows",
+  1
+ ],
+ [
+  "Levels of the Shadows",
+  1
+ ],
+ [
+  "Bitmap diffuse",
+  1
+ ],
+ [
+  "Blackbody",
+  1
+ ],
+ [
+  "Converts color temperature in Kelvin to RGB.",
+  1
+ ],
+ [
+  "Blend (Deprecated)",
+  1
+ ],
+ [
+  "Blend filter with several blending modes",
+  1
+ ],
+ [
+  "Exclusion (Deprecated)",
+  1
+ ],
+ [
+  "Difference",
+  1
+ ],
+ [
+  "Hard light (Deprecated)",
+  1
+ ],
+ [
+  "Soft light (Deprecated)",
+  1
+ ],
+ [
+  "Color dodge",
+  1
+ ],
+ [
+  "Color burn",
+  1
+ ],
+ [
+  "Linear burn",
+  1
+ ],
+ [
+  "Screen (Deprecated)",
+  1
+ ],
+ [
+  "Overlay (Deprecated)",
+  1
+ ],
+ [
+  "Min (Deprecated)",
+  1
+ ],
+ [
+  "Max (Deprecated)",
+  1
+ ],
+ [
+  "Multiply (Deprecated)",
+  1
+ ],
+ [
+  "Subtract (Deprecated)",
+  1
+ ],
+ [
+  "Subtract",
+  1
+ ],
+ [
+  "Add (Deprecated)",
+  1
+ ],
+ [
+  "Copy (Deprecated)",
+  1
+ ],
+ [
+  "Multiswitch color",
+  1
+ ],
+ [
+  "Switch between multiple color inputs.",
+  1
+ ],
+ [
+  "Multiswitch grayscale",
+  1
+ ],
+ [
+  "Switch between multiple grayscale inputs.",
+  1
+ ],
+ [
+  "Switch grayscale",
+  1
+ ],
+ [
+  "Switches between 2 grayscale inputs.",
+  1
+ ],
+ [
+  "Switch color",
+  1
+ ],
+ [
+  "Switches between 2 color inputs.",
+  1
+ ],
+ [
+  "Blue noise fast",
+  1
+ ],
+ [
+  "Blur HQ color",
+  1
+ ],
+ [
+  "Uniform high quality blur",
+  1
+ ],
+ [
+  "Blur HQ grayscale",
+  1
+ ],
+ [
+  "BnW spots 1 (Legacy)",
+  1
+ ],
+ [
+  "Black & white spots 1",
+  1
+ ],
+ [
+  "BnW spots 2 (Legacy)",
+  1
+ ],
+ [
+  "Black & white spots 2",
+  1
+ ],
+ [
+  "BnW spots 3 (Legacy)",
+  1
+ ],
+ [
+  "Black & white spots 3",
+  1
+ ],
+ [
+  "Brick 1 (Legacy)",
+  1
+ ],
+ [
+  "Brick 2 (Legacy)",
+  1
+ ],
+ [
+  "Brick 3 (Legacy)",
+  1
+ ],
+ [
+  "Luminance variation seed",
+  1
+ ],
+ [
+  "Brick generator (Legacy)",
+  1
+ ],
+ [
+  "Cartesian to polar color",
+  1
+ ],
+ [
+  "Polar to cartesian color",
+  1
+ ],
+ [
+  "Cartesian to polar grayscale",
+  1
+ ],
+ [
+  "Polar to cartesian grayscale",
+  1
+ ],
+ [
+  "Cells 1 (Legacy)",
+  1
+ ],
+ [
+  "Cells 2 (Legacy)",
+  1
+ ],
+ [
+  "Cells 3 (Legacy)",
+  1
+ ],
+ [
+  "Cells 4 (Legacy)",
+  1
+ ],
+ [
+  "Channel mixer",
+  1
+ ],
+ [
+  "Red channel",
+  1
+ ],
+ [
+  "Green channel",
+  1
+ ],
+ [
+  "Blue channel",
+  1
+ ],
+ [
+  "Monochrome",
+  1
+ ],
+ [
+  "If True, use the Red Channel parameters.",
+  1
+ ],
+ [
+  "Checker 1 (Legacy)",
+  1
+ ],
+ [
+  "Checker 2 (Legacy)",
+  1
+ ],
+ [
+  "Chrominance extract",
+  1
+ ],
+ [
+  "Extract the chrominance from the color input.",
+  1
+ ],
+ [
+  "Clamp grayscale",
+  1
+ ],
+ [
+  "Clamp color",
+  1
+ ],
+ [
+  "Apply to alpha",
+  1
+ ],
+ [
+  "Clone",
+  1
+ ],
+ [
+  "Creates two clones of the entry image",
+  1
+ ],
+ [
+  "Blur mask",
+  1
+ ],
+ [
+  "Clone patch color",
+  1
+ ],
+ [
+  "Clone patch grayscale",
+  1
+ ],
+ [
+  "Multiclone patch color",
+  1
+ ],
+ [
+  "Multiclone patch grayscale",
+  1
+ ],
+ [
+  "Material clone patch",
+  1
+ ],
+ [
+  "Areas normal",
+  1
+ ],
+ [
+  "Areas height",
+  1
+ ],
+ [
+  "Transform to center color",
+  1
+ ],
+ [
+  "Transform to center grayscale",
+  1
+ ],
+ [
+  "Transform from center",
+  1
+ ],
+ [
+  "Out of bounds Float2",
+  1
+ ],
+ [
+  "Clouds 1 (Legacy)",
+  1
+ ],
+ [
+  "Clouds 2 (Legacy)",
+  1
+ ],
+ [
+  "Clouds 3 (Legacy)",
+  1
+ ],
+ [
+  "Color equalizer",
+  1
+ ],
+ [
+  "High-pass radius to remove low-frequency variations.",
+  1
+ ],
+ [
+  "Balance between bright and dark areas.",
+  1
+ ],
+ [
+  "Multicolor equalizer",
+  1
+ ],
+ [
+  "Color match",
+  1
+ ],
+ [
+  "Source color mode",
+  1
+ ],
+ [
+  "Target color mode",
+  1
+ ],
+ [
+  "Mask mode",
+  1
+ ],
+ [
+  "sRGB to ACEScg",
+  1
+ ],
+ [
+  "ACEScg to sRGB",
+  1
+ ],
+ [
+  "Linear sRGB to sRGB color",
+  1
+ ],
+ [
+  "sRGB to linear sRGB color",
+  1
+ ],
+ [
+  "Linear sRGB to sRGB grayscale",
+  1
+ ],
+ [
+  "sRGB to linear sRGB grayscale",
+  1
+ ],
+ [
+  "Color temperature adjustment",
+  1
+ ],
+ [
+  "Magenta-green",
+  1
+ ],
+ [
+  "Color space",
+  1
+ ],
+ [
+  "Extract a greyscale map from a color selection.",
+  1
+ ],
+ [
+  "Mask range",
+  1
+ ],
+ [
+  "Mask softness",
+  1
+ ],
+ [
+  "Input here the image to create a mask from.",
+  1
+ ],
+ [
+  "Keying type",
+  1
+ ],
+ [
+  "Flatten alpha",
+  1
+ ],
+ [
+  "Extracts a greyscale mask from selected colors in a color image.",
+  1
+ ],
+ [
+  "Use color input",
+  1
+ ],
+ [
+  "The distance to the reference color below which colors are selected.",
+  1
+ ],
+ [
+  "Selection fade",
+  1
+ ],
+ [
+  "Fade the color selection based on the distance to the reference color.",
+  1
+ ],
+ [
+  "Distance weights",
+  1
+ ],
+ [
+  "Color Input",
+  1
+ ],
+ [
+  "Float value",
+  1
+ ],
+ [
+  "Float2",
+  1
+ ],
+ [
+  "Float2 value",
+  1
+ ],
+ [
+  "Float3",
+  1
+ ],
+ [
+  "Float3 value",
+  1
+ ],
+ [
+  "Float4",
+  1
+ ],
+ [
+  "Float4 value",
+  1
+ ],
+ [
+  "Integer",
+  1
+ ],
+ [
+  "Integer value",
+  1
+ ],
+ [
+  "Integer2",
+  1
+ ],
+ [
+  "Integer2 value",
+  1
+ ],
+ [
+  "Integer3",
+  1
+ ],
+ [
+  "Integer3 value",
+  1
+ ],
+ [
+  "Integer4",
+  1
+ ],
+ [
+  "Integer4 value",
+  1
+ ],
+ [
+  "Boolean",
+  1
+ ],
+ [
+  "Boolean value",
+  1
+ ],
+ [
+  "Sets the blend intensity for the diffuse map.",
+  1
+ ],
+ [
+  "Sets the blend intensity for the glossiness or roughness map.",
+  1
+ ],
+ [
+  "Sets the blend intensity for the specular or Reflectance map.",
+  1
+ ],
+ [
+  "Sets the blend intensity for the Normal map.",
+  1
+ ],
+ [
+  "Here Input a Curvature Map.",
+  1
+ ],
+ [
+  "Allow to use a mask to limit the effect to specific area.",
+  1
+ ],
+ [
+  "Sets the basecolor map blend intensity.",
+  1
+ ],
+ [
+  "Creased (Legacy)",
+  1
+ ],
+ [
+  "Crop color",
+  1
+ ],
+ [
+  "Crop grayscale",
+  1
+ ],
+ [
+  "Multicrop color",
+  1
+ ],
+ [
+  "Multicrop grayscale",
+  1
+ ],
+ [
+  "Material crop",
+  1
+ ],
+ [
+  "Out of bounds",
+  1
+ ],
+ [
+  "Boundaries",
+  1
+ ],
+ [
+  "Rotate 2D",
+  1
+ ],
+ [
+  "Center",
+  1
+ ],
+ [
+  "Cross section",
+  1
+ ],
+ [
+  "Cross section coordinate",
+  1
+ ],
+ [
+  "Section axis",
+  1
+ ],
+ [
+  "Set if the slice is vertical or horizontal.",
+  1
+ ],
+ [
+  "Helper scale",
+  1
+ ],
+ [
+  "Helper position",
+  1
+ ],
+ [
+  "Scales entire graph down.  Useful for HDR viewing.",
+  1
+ ],
+ [
+  "Shifts entire graph up or down. Useful for HDR viewing.",
+  1
+ ],
+ [
+  "Drawing style",
+  1
+ ],
+ [
+  "Switch between solid fill and line drawing.",
+  1
+ ],
+ [
+  "If line drawing is enabled, sets thickness of the line.",
+  1
+ ],
+ [
+  "Line style",
+  1
+ ],
+ [
+  "Line smoothness",
+  1
+ ],
+ [
+  "Segment size",
+  1
+ ],
+ [
+  "Spline position",
+  1
+ ],
+ [
+  "Spline thickness",
+  1
+ ],
+ [
+  "Spline smoothness",
+  1
+ ],
+ [
+  "Crystal 1 (Legacy)",
+  1
+ ],
+ [
+  "Crystal 2 (Legacy)",
+  1
+ ],
+ [
+  "Creates a curvature map from a normal map.",
+  1
+ ],
+ [
+  "Convexity",
+  1
+ ],
+ [
+  "Concavity",
+  1
+ ],
+ [
+  "Curvature sobel",
+  1
+ ],
+ [
+  "Creates a curvature map from a normal map using a Sobel filter.",
+  1
+ ],
+ [
+  "Details to baked maps",
+  1
+ ],
+ [
+  "Substance height map.",
+  1
+ ],
+ [
+  "Baked normal_t",
+  1
+ ],
+ [
+  "Baked tengent normal map.",
+  1
+ ],
+ [
+  "Baked AO",
+  1
+ ],
+ [
+  "Baked Ambient Occlusion map.",
+  1
+ ],
+ [
+  "Baked curvature",
+  1
+ ],
+ [
+  "Baked Ambient Curvature map.",
+  1
+ ],
+ [
+  "Set the intensity of the AO details.",
+  1
+ ],
+ [
+  "Set the AO spreading area.",
+  1
+ ],
+ [
+  "Curvature intensity",
+  1
+ ],
+ [
+  "Set the intensity of the curvature details.",
+  1
+ ],
+ [
+  "Curvature softness",
+  1
+ ],
+ [
+  "Combined AO",
+  1
+ ],
+ [
+  "Combined curvature",
+  1
+ ],
+ [
+  "Diffusion color",
+  1
+ ],
+ [
+  "Adds a normalization on values at every step.",
+  1
+ ],
+ [
+  "Use alpha as mask",
+  1
+ ],
+ [
+  "Diffusion grayscale",
+  1
+ ],
+ [
+  "Diffusion UV",
+  1
+ ],
+ [
+  "Directional distance",
+  1
+ ],
+ [
+  "Angle map multiplier",
+  1
+ ],
+ [
+  "Angle map",
+  1
+ ],
+ [
+  "Angle map offset",
+  1
+ ],
+ [
+  "Directional noise (Legacy)",
+  1
+ ],
+ [
+  "Directional noise",
+  1
+ ],
+ [
+  "Dirt 1 (Legacy)",
+  1
+ ],
+ [
+  "Dirt 2 (Legacy)",
+  1
+ ],
+ [
+  "Dirt 3 (Legacy)",
+  1
+ ],
+ [
+  "Dirt 4 (Legacy)",
+  1
+ ],
+ [
+  "Dirt 5 (Legacy)",
+  1
+ ],
+ [
+  "Dirt 6 (Legacy)",
+  1
+ ],
+ [
+  "Dirt 6",
+  1
+ ],
+ [
+  "Dirt gradient (Legacy)",
+  1
+ ],
+ [
+  "Edge detect",
+  1
+ ],
+ [
+  "Detects the edges from the input image and renders a binary mask.",
+  1
+ ],
+ [
+  "Edge roundness",
+  1
+ ],
+ [
+  "Emboss with gloss",
+  1
+ ],
+ [
+  "Emboss filter with a gloss option.",
+  1
+ ],
+ [
+  "Extend shape grayscale",
+  1
+ ],
+ [
+  "The grayscale input image which should be extended.",
+  1
+ ],
+ [
+  "Start luminance offset",
+  1
+ ],
+ [
+  "End luminance offset",
+  1
+ ],
+ [
+  "Lum. offset ignores black pixels",
+  1
+ ],
+ [
+  "Extend shape color",
+  1
+ ],
+ [
+  "The color input image which should be extended.",
+  1
+ ],
+ [
+  "Age creases",
+  1
+ ],
+ [
+  "Facing normal",
+  1
+ ],
+ [
+  "Fibers 1 (Legacy)",
+  1
+ ],
+ [
+  "Fibers 2 (Legacy)",
+  1
+ ],
+ [
+  "Flood fill mapper grayscale",
+  1
+ ],
+ [
+  "Luminance range",
+  1
+ ],
+ [
+  "Luminance range random",
+  1
+ ],
+ [
+  "Luminance offset",
+  1
+ ],
+ [
+  "Luminance offset random",
+  1
+ ],
+ [
+  "Luminance offset map multiplier",
+  1
+ ],
+ [
+  "Flood fill mapper color",
+  1
+ ],
+ [
+  "Alpha adjustment",
+  1
+ ],
+ [
+  "Alpha random",
+  1
+ ],
+ [
+  "Flood fill to index",
+  1
+ ],
+ [
+  "Special shape info",
+  1
+ ],
+ [
+  "Show flood fill data table",
+  1
+ ],
+ [
+  "Shape index",
+  1
+ ],
+ [
+  "Shape data table",
+  1
+ ],
+ [
+  "Takes the flood fill node as input and generates a gradient per shape.",
+  1
+ ],
+ [
+  "Show advanced options",
+  1
+ ],
+ [
+  "Bbox",
+  1
+ ],
+ [
+  "Special shape infos",
+  1
+ ],
+ [
+  "Takes the flood fill node as input and generates a gradient per shape.\n\nv1",
+  1
+ ],
+ [
+  "Takes the flood fill node as input and generates a gradient per shape.\n\nv2",
+  1
+ ],
+ [
+  "Flood fill to color",
+  1
+ ],
+ [
+  "Flood fill to grayscale",
+  1
+ ],
+ [
+  "Grayscale input",
+  1
+ ],
+ [
+  "pixel size * .5",
+  1
+ ],
+ [
+  "Fluid (Legacy)",
+  1
+ ],
+ [
+  "Pattern length",
+  1
+ ],
+ [
+  "Fractal sum 1 (Legacy)",
+  1
+ ],
+ [
+  "Fractal sum",
+  1
+ ],
+ [
+  "Fractal sum 2 (Legacy)",
+  1
+ ],
+ [
+  "Fractal sum 3 (Legacy)",
+  1
+ ],
+ [
+  "Fractal sum 4 (Legacy)",
+  1
+ ],
+ [
+  "Fractal sum base (Legacy)",
+  1
+ ],
+ [
+  "Degrees to radians",
+  1
+ ],
+ [
+  "Returns the arc sine of entry value: asin(x).",
+  1
+ ],
+ [
+  "Returns the arc cosine of entry value: acos(x).",
+  1
+ ],
+ [
+  "Even count",
+  1
+ ],
+ [
+  "Returns the count of even numbers contained in the input.",
+  1
+ ],
+ [
+  "Odd count",
+  1
+ ],
+ [
+  "Returns the count of odd numbers contained in the input.",
+  1
+ ],
+ [
+  "Parity test",
+  1
+ ],
+ [
+  "Returns true if the input is a even number.",
+  1
+ ],
+ [
+  "Ln",
+  1
+ ],
+ [
+  "The Ln function returns the Natural logarithm value of entry.",
+  1
+ ],
+ [
+  "Pi",
+  1
+ ],
+ [
+  "2 Pi",
+  1
+ ],
+ [
+  "Pow (Deprecated)",
+  1
+ ],
+ [
+  "Equality Float2",
+  1
+ ],
+ [
+  "Equality Float3",
+  1
+ ],
+ [
+  "Equality boolean",
+  1
+ ],
+ [
+  "Equality Float4",
+  1
+ ],
+ [
+  "Not equal Float2",
+  1
+ ],
+ [
+  "Not equal Float3",
+  1
+ ],
+ [
+  "Not equal Float4",
+  1
+ ],
+ [
+  "Not equal boolean",
+  1
+ ],
+ [
+  "-1 : ease out\n0 : linear\n1 : ease in",
+  1
+ ],
+ [
+  "Merge Float4",
+  1
+ ],
+ [
+  "Combines 4 float into a vector 4.",
+  1
+ ],
+ [
+  "Merge Float3",
+  1
+ ],
+ [
+  "Combines 3 float into a vector 3.",
+  1
+ ],
+ [
+  "Distance Float3",
+  1
+ ],
+ [
+  "Returns the Euclidean distance between two points.",
+  1
+ ],
+ [
+  "Distance Float2",
+  1
+ ],
+ [
+  "Returns the Euclidean distance between two points (in 2D).",
+  1
+ ],
+ [
+  "Length Float2",
+  1
+ ],
+ [
+  "Returns scalar Euclidean length of a vector float2.",
+  1
+ ],
+ [
+  "Length Float3",
+  1
+ ],
+ [
+  "Returns scalar Euclidean length of a vector float3.",
+  1
+ ],
+ [
+  "Sign",
+  1
+ ],
+ [
+  "Returns the sign of a scalar. If X == 0, returns 1.",
+  1
+ ],
+ [
+  "Reflect",
+  1
+ ],
+ [
+  "Returns the reflectiton vector given an incidence vector and a normal vector.",
+  1
+ ],
+ [
+  "Incidence",
+  1
+ ],
+ [
+  "One minus",
+  1
+ ],
+ [
+  "Returns one minus x (1 - x).",
+  1
+ ],
+ [
+  "Fmod",
+  1
+ ],
+ [
+  "Frac",
+  1
+ ],
+ [
+  "Returns the fractional portion of a scalar.",
+  1
+ ],
+ [
+  "Cross product",
+  1
+ ],
+ [
+  "Returns the cross product of two three-component vectors",
+  1
+ ],
+ [
+  "Cross product Vec2",
+  1
+ ],
+ [
+  "Returns the cross product of two two-component vectors",
+  1
+ ],
+ [
+  "Returns one if x is greater than or equal to a, and zero otherwise.",
+  1
+ ],
+ [
+  "Scalar division Float4",
+  1
+ ],
+ [
+  "Divide a float 4 by a given scalar.",
+  1
+ ],
+ [
+  "Scalar division Float3",
+  1
+ ],
+ [
+  "Divide a float 3 by a given scalar.",
+  1
+ ],
+ [
+  "Scalar division Float2",
+  1
+ ],
+ [
+  "Divide a float 2 by a given scalar.",
+  1
+ ],
+ [
+  "Normalize Vec2",
+  1
+ ],
+ [
+  "Normalizes a Vec2.",
+  1
+ ],
+ [
+  "Normalize Vec3",
+  1
+ ],
+ [
+  "Normalizes a Vec3.",
+  1
+ ],
+ [
+  "Normalize Vec4",
+  1
+ ],
+ [
+  "Normalizes a Vec4.",
+  1
+ ],
+ [
+  "Smoothstep",
+  1
+ ],
+ [
+  "Smooth interpolation between A and B in function of X.",
+  1
+ ],
+ [
+  "Saturate Float2",
+  1
+ ],
+ [
+  "Average Float1",
+  1
+ ],
+ [
+  "Average Float2",
+  1
+ ],
+ [
+  "Average Float3",
+  1
+ ],
+ [
+  "Average Float4",
+  1
+ ],
+ [
+  "Orthogonal Vec2",
+  1
+ ],
+ [
+  "Returns an orthognal vector of the input vec2.",
+  1
+ ],
+ [
+  "Saturate",
+  1
+ ],
+ [
+  "- Returns 0 if input is lower than 0.\n- Returns 1 if input is greater than 1.",
+  1
+ ],
+ [
+  "Truncate Float1",
+  1
+ ],
+ [
+  "Truncates a Float1's to a specific amount of decimals.",
+  1
+ ],
+ [
+  "Round Float1",
+  1
+ ],
+ [
+  "Rounds a Float 1. Rounds up when decimal is greater or equal than 0.5",
+  1
+ ],
+ [
+  "Random uniform [a, b[",
+  1
+ ],
+ [
+  "This function returns a floating random value between value A and value B.",
+  1
+ ],
+ [
+  "Random discrete [a, b]",
+  1
+ ],
+ [
+  "Random uniform [-1, 1[",
+  1
+ ],
+ [
+  "This function returns a floating random value between -1 and 1.",
+  1
+ ],
+ [
+  "Random uniform Float2 [a,b[",
+  1
+ ],
+ [
+  "Random uniform Float3 [a,b[",
+  1
+ ],
+ [
+  "Random uniform Float4 [a, b[",
+  1
+ ],
+ [
+  "Degrees to turns",
+  1
+ ],
+ [
+  "This function converts a degree floating value (0 to 360] to turns (0 to 1).",
+  1
+ ],
+ [
+  "Global random",
+  1
+ ],
+ [
+  "Normal distribution",
+  1
+ ],
+ [
+  "Directional offset",
+  1
+ ],
+ [
+  "Matrix multiply",
+  1
+ ],
+ [
+  "Rotation matrix",
+  1
+ ],
+ [
+  "Scale matrix",
+  1
+ ],
+ [
+  "Tile matrix",
+  1
+ ],
+ [
+  "Amount of tile on X and Y axis.",
+  1
+ ],
+ [
+  "Rotate Vec2",
+  1
+ ],
+ [
+  "Rotates a Vec2 around a Pivot.",
+  1
+ ],
+ [
+  "Rotate Vec2 (Radian)",
+  1
+ ],
+ [
+  "Rotates a Vec2 given an angle value [0, 2Pi].",
+  1
+ ],
+ [
+  "Matrix invert",
+  1
+ ],
+ [
+  "Cartesian to polar",
+  1
+ ],
+ [
+  "Wave",
+  1
+ ],
+ [
+  "[-1, 1] to [0,1]",
+  1
+ ],
+ [
+  "[0, 1] to [-1, 1]",
+  1
+ ],
+ [
+  "[0, 1] to [1, 0]",
+  1
+ ],
+ [
+  "Negate Float1 (Deprecated)",
+  1
+ ],
+ [
+  "[0,1] to [0,1,0]",
+  1
+ ],
+ [
+  "[a,b] to [0,1]",
+  1
+ ],
+ [
+  "Triangle wave",
+  1
+ ],
+ [
+  "Sawtooth wave",
+  1
+ ],
+ [
+  "Boolean to Float1",
+  1
+ ],
+ [
+  "Turns to degrees",
+  1
+ ],
+ [
+  "Direction to normal",
+  1
+ ],
+ [
+  "This function returns a Normal Map color that matches the directions provided.",
+  1
+ ],
+ [
+  "RGB to HSL",
+  1
+ ],
+ [
+  "HSL to RGB",
+  1
+ ],
+ [
+  "Random luminosity",
+  1
+ ],
+ [
+  "RGB to HSV",
+  1
+ ],
+ [
+  "RGB to HSI",
+  1
+ ],
+ [
+  "RGB to HCL",
+  1
+ ],
+ [
+  "RGB lightness average",
+  1
+ ],
+ [
+  "RGB lightness hexcone",
+  1
+ ],
+ [
+  "RGB lightness bi-hexcone",
+  1
+ ],
+ [
+  "RGB lightness luma Rec. 601",
+  1
+ ],
+ [
+  "RGB lightness luma Rec. 709",
+  1
+ ],
+ [
+  "RGB chroma hexagonal",
+  1
+ ],
+ [
+  "RGB chroma 2 polar",
+  1
+ ],
+ [
+  "RGB hue hexagonal",
+  1
+ ],
+ [
+  "RGB hue 2 polar",
+  1
+ ],
+ [
+  "RGB saturation HSV",
+  1
+ ],
+ [
+  "RGB saturation HSL",
+  1
+ ],
+ [
+  "RGB saturation HSI",
+  1
+ ],
+ [
+  "HSI to RGB",
+  1
+ ],
+ [
+  "HSI",
+  1
+ ],
+ [
+  "HSV to RGB",
+  1
+ ],
+ [
+  "HSV",
+  1
+ ],
+ [
+  "HCL to RGB",
+  1
+ ],
+ [
+  "HCL",
+  1
+ ],
+ [
+  "Linear to sRGB (Luminance)",
+  1
+ ],
+ [
+  "Linear to sRGB",
+  1
+ ],
+ [
+  "sRGB to linear",
+  1
+ ],
+ [
+  "sRGB to linear (Luminance)",
+  1
+ ],
+ [
+  "Temperature to RGB",
+  1
+ ],
+ [
+  "Converts a temperature in Kelvin to RGB values.",
+  1
+ ],
+ [
+  "Temperature to RGB fit",
+  1
+ ],
+ [
+  "HSL offset",
+  1
+ ],
+ [
+  "Non-square expansion UV scale",
+  1
+ ],
+ [
+  "Input UVs or Positions.",
+  1
+ ],
+ [
+  "Switch Float1 2 inputs",
+  1
+ ],
+ [
+  "Allows to switch between two Float1 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Float1 4 inputs",
+  1
+ ],
+ [
+  "Allows to switch between four Float1 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Float1 8 inputs",
+  1
+ ],
+ [
+  "Allows to switch between height Float1 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Float2 2 inputs",
+  1
+ ],
+ [
+  "Allows to switch between two Float2 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Float2 4 inputs",
+  1
+ ],
+ [
+  "Allows to switch between four Float2 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Float2 8 inputs",
+  1
+ ],
+ [
+  "Allows to switch between height Float2 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Float3 2 inputs",
+  1
+ ],
+ [
+  "Allows to switch between two Float3 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Float3 4 inputs",
+  1
+ ],
+ [
+  "Allows to switch between four Float3 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Float3 8 inputs",
+  1
+ ],
+ [
+  "Allows to switch between height Float3 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Float4 2 inputs",
+  1
+ ],
+ [
+  "Allows to switch between two Float4 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Float4 4 inputs",
+  1
+ ],
+ [
+  "Allows to switch between four Float4 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Float4 8 inputs",
+  1
+ ],
+ [
+  "Allows to switch between height Float4 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Integer1 2 inputs",
+  1
+ ],
+ [
+  "Allows to switch between two Integer1 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Integer1 4 inputs",
+  1
+ ],
+ [
+  "Allows to switch between four Integer1 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Integer1 8 inputs",
+  1
+ ],
+ [
+  "Allows to switch between height Integer1 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Integer2 2 inputs",
+  1
+ ],
+ [
+  "Allows to switch between two Integer2 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Integer2 4 inputs",
+  1
+ ],
+ [
+  "Allows to switch between four Integer2 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Integer2 8 inputs",
+  1
+ ],
+ [
+  "Allows to switch between height Integer2 using an Integer1 value.",
+  1
+ ],
+ [
+  "Allows to switch between two Integer3 using an Integer1 value.",
+  1
+ ],
+ [
+  "Allows to switch between four Integer3 using an Integer1 value.",
+  1
+ ],
+ [
+  "Allows to switch between height Integer3 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Integer4 2 inputs",
+  1
+ ],
+ [
+  "Allows to switch between two Integer4 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Integer4 4 inputs",
+  1
+ ],
+ [
+  "Allows to switch between four Integer4 using an Integer1 value.",
+  1
+ ],
+ [
+  "Switch Integer4 8 inputs",
+  1
+ ],
+ [
+  "Allows to switch between height Integer4 using an Integer1 value.",
+  1
+ ],
+ [
+  "Ease in sine",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease in with a sine function.",
+  1
+ ],
+ [
+  "Ease out sine",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease out with a sine function.",
+  1
+ ],
+ [
+  "Ease in out sine",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease in and out with a sine function.",
+  1
+ ],
+ [
+  "Ease in quad",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease in with a quadratic function.",
+  1
+ ],
+ [
+  "Ease out quad",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease out with a quadratic function.",
+  1
+ ],
+ [
+  "Ease in out quad",
+  1
+ ],
+ [
+  "Ease in cubic",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease in with a cubic function.",
+  1
+ ],
+ [
+  "Ease out cubic",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease out with a cubic function.",
+  1
+ ],
+ [
+  "Ease in out cubic",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease in and out with a cubic function.",
+  1
+ ],
+ [
+  "Ease in quart",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease in with a quart function.",
+  1
+ ],
+ [
+  "Ease out quart",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease out with a quart function.",
+  1
+ ],
+ [
+  "Ease in out quart",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease in and out with a quart function.",
+  1
+ ],
+ [
+  "Ease in quint",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease in with a quint function.",
+  1
+ ],
+ [
+  "Ease out quint",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease out with a quint function.",
+  1
+ ],
+ [
+  "Ease in out quint",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease in and out with a quint function.",
+  1
+ ],
+ [
+  "Ease in expo",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease in with an exponential function.",
+  1
+ ],
+ [
+  "Ease out expo",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease out with an exponential function.",
+  1
+ ],
+ [
+  "Ease in out expo",
+  1
+ ],
+ [
+  "Ease in circ",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease in with a circular function.",
+  1
+ ],
+ [
+  "Ease out circ",
+  1
+ ],
+ [
+  "Changes the transition of a 0- 1 range to ease out with a circular function.",
+  1
+ ],
+ [
+  "Ease in out circ",
+  1
+ ],
+ [
+  "Hejl tonemapper",
+  1
+ ],
+ [
+  "ACES tonemapper",
+  1
+ ],
+ [
+  "AgX tonemapper",
+  1
+ ],
+ [
+  "Hash 11",
+  1
+ ],
+ [
+  "Hash 14",
+  1
+ ],
+ [
+  "Hash 21",
+  1
+ ],
+ [
+  "Hash 22",
+  1
+ ],
+ [
+  "Hash 32",
+  1
+ ],
+ [
+  "Hash 24",
+  1
+ ],
+ [
+  "Hash 31",
+  1
+ ],
+ [
+  "Fur 1 (Legacy)",
+  1
+ ],
+ [
+  "Fur 2 (Legacy)",
+  1
+ ],
+ [
+  "Fur 3 (Legacy)",
+  1
+ ],
+ [
+  "Fur 4 (Legacy)",
+  1
+ ],
+ [
+  "Fur 4",
+  1
+ ],
+ [
+  "FXAA color",
+  1
+ ],
+ [
+  "Affect alpha channel",
+  1
+ ],
+ [
+  "FXAA grayscale",
+  1
+ ],
+ [
+  "Gaussian 1 (Legacy)",
+  1
+ ],
+ [
+  "Gaussian spots",
+  1
+ ],
+ [
+  "Gaussian 2 (Legacy)",
+  1
+ ],
+ [
+  "Gaussian spots 1 (Legacy)",
+  1
+ ],
+ [
+  "Gauss spots 2 (Legacy)",
+  1
+ ],
+ [
+  "Glow grayscale",
+  1
+ ],
+ [
+  "Clamp (Deprecated)",
+  1
+ ],
+ [
+  "Clamps a grayscale map to get  a binary output.",
+  1
+ ],
+ [
+  "Gradient axial",
+  1
+ ],
+ [
+  "Gradient axial reflected",
+  1
+ ],
+ [
+  "Gradient circular",
+  1
+ ],
+ [
+  "Gradient linear 1",
+  1
+ ],
+ [
+  "Simple gradient",
+  1
+ ],
+ [
+  "Gradient linear 2",
+  1
+ ],
+ [
+  "Simple gradient 2",
+  1
+ ],
+ [
+  "Gradient linear 3",
+  1
+ ],
+ [
+  "Gradient radial",
+  1
+ ],
+ [
+  "Grayscale conversion advanced",
+  1
+ ],
+ [
+  "Grayscale type",
+  1
+ ],
+ [
+  "Grid atlas grayscale",
+  1
+ ],
+ [
+  "The grayscale image input #1.",
+  1
+ ],
+ [
+  "The grayscale image input #2.",
+  1
+ ],
+ [
+  "The grayscale image input #3.",
+  1
+ ],
+ [
+  "The grayscale image input #4.",
+  1
+ ],
+ [
+  "The grayscale image input #5.",
+  1
+ ],
+ [
+  "The grayscale image input #6.",
+  1
+ ],
+ [
+  "The grayscale image input #7.",
+  1
+ ],
+ [
+  "The grayscale image input #8.",
+  1
+ ],
+ [
+  "The grayscale image input #9.",
+  1
+ ],
+ [
+  "The grayscale image input #10.",
+  1
+ ],
+ [
+  "The grayscale image input #11.",
+  1
+ ],
+ [
+  "The grayscale image input #12.",
+  1
+ ],
+ [
+  "The grayscale image input #13.",
+  1
+ ],
+ [
+  "The grayscale image input #14.",
+  1
+ ],
+ [
+  "The grayscale image input #15.",
+  1
+ ],
+ [
+  "The grayscale image input #16.",
+  1
+ ],
+ [
+  "The output grayscale grid atlas.",
+  1
+ ],
+ [
+  "Grid atlas color",
+  1
+ ],
+ [
+  "The color image input #1.",
+  1
+ ],
+ [
+  "The color image input #2.",
+  1
+ ],
+ [
+  "The color image input #3.",
+  1
+ ],
+ [
+  "The color image input #4.",
+  1
+ ],
+ [
+  "The color image input #5.",
+  1
+ ],
+ [
+  "The color image input #6.",
+  1
+ ],
+ [
+  "The color image input #7.",
+  1
+ ],
+ [
+  "The color image input #8.",
+  1
+ ],
+ [
+  "The color image input #9.",
+  1
+ ],
+ [
+  "The color image input #10.",
+  1
+ ],
+ [
+  "The color image input #11.",
+  1
+ ],
+ [
+  "The color image input #12.",
+  1
+ ],
+ [
+  "The color image input #13.",
+  1
+ ],
+ [
+  "The color image input #14.",
+  1
+ ],
+ [
+  "The color image input #15.",
+  1
+ ],
+ [
+  "The color image input #16.",
+  1
+ ],
+ [
+  "The output color grid atlas.",
+  1
+ ],
+ [
+  "Grunge concrete",
+  1
+ ],
+ [
+  "Generates a grunge map akin to the height map of a concrete surface.",
+  1
+ ],
+ [
+  "Base noisiness",
+  1
+ ],
+ [
+  "Adjusts the noisiness of the base texture.",
+  1
+ ],
+ [
+  "Dirt specks opacity",
+  1
+ ],
+ [
+  "Adjusts the opacity of the specks of dirt.",
+  1
+ ],
+ [
+  "Invert dirt",
+  1
+ ],
+ [
+  "Inverts the impact of the specks of dirt.",
+  1
+ ],
+ [
+  "Scratches opacity",
+  1
+ ],
+ [
+  "Adjusts the opacity of the scratches.",
+  1
+ ],
+ [
+  "Large variation intensity",
+  1
+ ],
+ [
+  "Grunge Damas",
+  1
+ ],
+ [
+  "Generates a grunge map akin to a Damascus steel pattern.",
+  1
+ ],
+ [
+  "Distortion",
+  1
+ ],
+ [
+  "Adjusts the amount of distortion in the pattern.",
+  1
+ ],
+ [
+  "Divisions",
+  1
+ ],
+ [
+  "Waves",
+  1
+ ],
+ [
+  "Adjusts the amount of waves in the pattern.",
+  1
+ ],
+ [
+  "Adjusts the intensity of the smaller distortions.",
+  1
+ ],
+ [
+  "Adjusts the randomness of the rotation for each wave.",
+  1
+ ],
+ [
+  "Grunge galvanic large",
+  1
+ ],
+ [
+  "Generates a grunge map akin to the pattern of galvanised steel.",
+  1
+ ],
+ [
+  "Adjusts the intensity of the main warping effect.",
+  1
+ ],
+ [
+  "Ridge detail opacity",
+  1
+ ],
+ [
+  "Adjusts the opacity of the brighter ridges.",
+  1
+ ],
+ [
+  "Grunge galvanic small",
+  1
+ ],
+ [
+  "Generates a grunge map akin to the pattern of densely galvanised steel.",
+  1
+ ],
+ [
+  "Crispness",
+  1
+ ],
+ [
+  "Adjusts the opacity of the dirt overlay.",
+  1
+ ],
+ [
+  "Micro distortion",
+  1
+ ],
+ [
+  "Adjusts the intensity of the high frequency warping effect.",
+  1
+ ],
+ [
+  "Grunge leaks",
+  1
+ ],
+ [
+  "Generates a grunge map akin to drips across a greasy surface.",
+  1
+ ],
+ [
+  "Drip length",
+  1
+ ],
+ [
+  "Adjusts the length of drip streaks.",
+  1
+ ],
+ [
+  "Shape contrast",
+  1
+ ],
+ [
+  "Drip crispness",
+  1
+ ],
+ [
+  "Adjusts the sharpness and cripsness of the drips.",
+  1
+ ],
+ [
+  "Adjust the overall grunginess of the image.",
+  1
+ ],
+ [
+  "Grunge leaky paint",
+  1
+ ],
+ [
+  "Generates a grunge map akin to paint dripping through leaks.",
+  1
+ ],
+ [
+  "Leak intensity",
+  1
+ ],
+ [
+  "Adjusts the density and intensity of the drips.",
+  1
+ ],
+ [
+  "Leak scale",
+  1
+ ],
+ [
+  "Adjusts the scale of the drips separation.",
+  1
+ ],
+ [
+  "Leak angle random",
+  1
+ ],
+ [
+  "Leak crispness",
+  1
+ ],
+ [
+  "Adjusts the crispness and sharpness of the drips.",
+  1
+ ],
+ [
+  "Grunge map 001 (Legacy)",
+  1
+ ],
+ [
+  "Grunge map 002 (Legacy)",
+  1
+ ],
+ [
+  "Grunge map 003 (Legacy)",
+  1
+ ],
+ [
+  "Grunge map 004 (Legacy)",
+  1
+ ],
+ [
+  "Grunge map 005 (Legacy)",
+  1
+ ],
+ [
+  "Grunge map 006 (Legacy)",
+  1
+ ],
+ [
+  "Grunge map 007 (Legacy)",
+  1
+ ],
+ [
+  "Grunge map 008 (Legacy)",
+  1
+ ],
+ [
+  "Grunge map 009 (Legacy)",
+  1
+ ],
+ [
+  "Grunge map 010 (Legacy)",
+  1
+ ],
+ [
+  "Grunge map 011 (Legacy)",
+  1
+ ],
+ [
+  "Grunge map 012 (Legacy)",
+  1
+ ],
+ [
+  "Grunge map 013 (Legacy)",
+  1
+ ],
+ [
+  "Grunge map 014 (Legacy)",
+  1
+ ],
+ [
+  "Grunge map 015 (Legacy)",
+  1
+ ],
+ [
+  "Grunge rough dirty",
+  1
+ ],
+ [
+  "Main grunge intensity",
+  1
+ ],
+ [
+  "Invert scratches",
+  1
+ ],
+ [
+  "Inverts the luminance of the scratches on the surface.",
+  1
+ ],
+ [
+  "Adjusts the intensity of the scratches on the surface.",
+  1
+ ],
+ [
+  "Grain intensity",
+  1
+ ],
+ [
+  "Adjusts the intensity of the global grain effect.",
+  1
+ ],
+ [
+  "Grunge rust fine",
+  1
+ ],
+ [
+  "Generates a grunge map akin to a fine grunge rust overlay.",
+  1
+ ],
+ [
+  "Base grunge contrast",
+  1
+ ],
+ [
+  "Base warp intensity",
+  1
+ ],
+ [
+  "Streaks intensity",
+  1
+ ],
+ [
+  "Noise intensity",
+  1
+ ],
+ [
+  "Grunge scratches dirty",
+  1
+ ],
+ [
+  "Generates a grunge map akin to a finely scratched dirty surface.",
+  1
+ ],
+ [
+  "Base grunge intensity",
+  1
+ ],
+ [
+  "Adjusts the intensity of the scratches on the base surface.",
+  1
+ ],
+ [
+  "Grunge scratches fine",
+  1
+ ],
+ [
+  "Generates a grunge map akin to a finely scratched clean surface.",
+  1
+ ],
+ [
+  "Adjusts the amount of fine scratches on the surface.",
+  1
+ ],
+ [
+  "Scratch value bias",
+  1
+ ],
+ [
+  "Grunge scratches rough",
+  1
+ ],
+ [
+  "Generates a grunge map akin to a roughly scratched dusty surface.",
+  1
+ ],
+ [
+  "Scratch quantity",
+  1
+ ],
+ [
+  "Adjusts the amout of scratches on the surface.",
+  1
+ ],
+ [
+  "Scratch tiling",
+  1
+ ],
+ [
+  "Adjusts the amount of tiling applied to the scratches.",
+  1
+ ],
+ [
+  "Scratch blur",
+  1
+ ],
+ [
+  "Adjusts the blurring of the scratches.",
+  1
+ ],
+ [
+  "Scratch width",
+  1
+ ],
+ [
+  "Adjusts the width of the scratches.",
+  1
+ ],
+ [
+  "Scratch length",
+  1
+ ],
+ [
+  "Adjusts the length of the scratches.",
+  1
+ ],
+ [
+  "Scratch masking",
+  1
+ ],
+ [
+  "Scratch dirtiness",
+  1
+ ],
+ [
+  "Double scratch",
+  1
+ ],
+ [
+  "Scratch spots intensity",
+  1
+ ],
+ [
+  "Adjusts the tiling of the damaged spots.",
+  1
+ ],
+ [
+  "Adjusts the intensity of the dust overlay.",
+  1
+ ],
+ [
+  "Dust tiling",
+  1
+ ],
+ [
+  "Adjusts the tiling of the dust overlay.",
+  1
+ ],
+ [
+  "Grunge shavings",
+  1
+ ],
+ [
+  "Generates a grunge map akin to shavings scattered on a surface.",
+  1
+ ],
+ [
+  "Scratch spots amount",
+  1
+ ],
+ [
+  "The intensity of the dust overlay on the surface.",
+  1
+ ],
+ [
+  "The intensity of the global sharpening effect.",
+  1
+ ],
+ [
+  "Grunge splashes dusty",
+  1
+ ],
+ [
+  "Generates a grunge map akin to splashes of liquid on a dirty surface.",
+  1
+ ],
+ [
+  "Splashes quantity",
+  1
+ ],
+ [
+  "Adjusts the amount of splashes on the surface.",
+  1
+ ],
+ [
+  "Splashes distortion",
+  1
+ ],
+ [
+  "Dirt spread",
+  1
+ ],
+ [
+  "Adjusts the spread of the dirt.",
+  1
+ ],
+ [
+  "Grunge spots",
+  1
+ ],
+ [
+  "Generates a grunge map akin to fine splattered spots.",
+  1
+ ],
+ [
+  "Adjusts the coverage of the spots in the image.",
+  1
+ ],
+ [
+  "Coverage contrast",
+  1
+ ],
+ [
+  "Grunge spots dirty",
+  1
+ ],
+ [
+  "Generates a grunge map akin to spots of dirt.",
+  1
+ ],
+ [
+  "Adjusts the coverage of the dirt.",
+  1
+ ],
+ [
+  "Hald CLUT",
+  1
+ ],
+ [
+  "LUT intensity by input alpha",
+  1
+ ],
+ [
+  "Defines if the LUT effect is weighted by the alpha channel.",
+  1
+ ],
+ [
+  "Ambient occlusion (hbao) (Deprecated)",
+  1
+ ],
+ [
+  "Ambient occlusion (HBAO)",
+  1
+ ],
+ [
+  "Horizon Based AO filter. Takes a height map as input.",
+  1
+ ],
+ [
+  "Exposure preview",
+  1
+ ],
+ [
+  "Max exposure (EV)",
+  1
+ ],
+ [
+  "Min exposure (EV)",
+  1
+ ],
+ [
+  "Input exposure delta (EV)",
+  1
+ ],
+ [
+  "Output auto exposure",
+  1
+ ],
+ [
+  "Output exposure offset (EV)",
+  1
+ ],
+ [
+  "Exposure delta (EV)",
+  1
+ ],
+ [
+  "White point",
+  1
+ ],
+ [
+  "HDR range viewer grayscale",
+  1
+ ],
+ [
+  "HDR range viewer color",
+  1
+ ],
+ [
+  "Height blend",
+  1
+ ],
+ [
+  "Height top",
+  1
+ ],
+ [
+  "Height bottom",
+  1
+ ],
+ [
+  "Blended height",
+  1
+ ],
+ [
+  "Height extrude",
+  1
+ ],
+ [
+  "Height or mask",
+  1
+ ],
+ [
+  "A terrain height to render or a black and white mask to extrude",
+  1
+ ],
+ [
+  "Camera angle",
+  1
+ ],
+ [
+  "Camera scale",
+  1
+ ],
+ [
+  "Global scale applied to the output.",
+  1
+ ],
+ [
+  "Moves the final output up or down.",
+  1
+ ],
+ [
+  "Ground",
+  1
+ ],
+ [
+  "The depth buffer of the rendered terrain of extruded object",
+  1
+ ],
+ [
+  "Height map frequencies mapper",
+  1
+ ],
+ [
+  "Separates frequencies of a height map in two different maps.",
+  1
+ ],
+ [
+  "Displacement",
+  1
+ ],
+ [
+  "Relief parallax",
+  1
+ ],
+ [
+  "Height normal blender",
+  1
+ ],
+ [
+  "Allows to add normal informations from a height map to another normal map.",
+  1
+ ],
+ [
+  "Input a height map here.",
+  1
+ ],
+ [
+  "Height to normal world units (Deprecated)",
+  1
+ ],
+ [
+  "Width or Height (whichever is the greatest) of the represented surface.",
+  1
+ ],
+ [
+  "Height to normal world units",
+  1
+ ],
+ [
+  "Width or Height (whichever is the smallest) of the represented surface.",
+  1
+ ],
+ [
+  "Herb 1 (Legacy)",
+  1
+ ],
+ [
+  "Herb 1",
+  1
+ ],
+ [
+  "Highpass color",
+  1
+ ],
+ [
+  "Removes low frequencies.",
+  1
+ ],
+ [
+  "Highpass grayscale",
+  1
+ ],
+ [
+  "Removes low frequencies. Grayscale version.",
+  1
+ ],
+ [
+  "Histogram range",
+  1
+ ],
+ [
+  "Adjust the range and position of the grayscale input histogram.",
+  1
+ ],
+ [
+  "Histogram scan",
+  1
+ ],
+ [
+  "Invert position",
+  1
+ ],
+ [
+  "Non-uniform histogram scan",
+  1
+ ],
+ [
+  "Use position input",
+  1
+ ],
+ [
+  "Use contrast input",
+  1
+ ],
+ [
+  "Contrast map",
+  1
+ ],
+ [
+  "Histogram select",
+  1
+ ],
+ [
+  "Histogram shift",
+  1
+ ],
+ [
+  "Shift the grayscale input histogram.",
+  1
+ ],
+ [
+  "Histogram compute",
+  1
+ ],
+ [
+  "Histogram",
+  1
+ ],
+ [
+  "Histogram equalize",
+  1
+ ],
+ [
+  "Histogram smoothing",
+  1
+ ],
+ [
+  "Histogram render",
+  1
+ ],
+ [
+  "Automatic scale",
+  1
+ ],
+ [
+  "Flip Y axis",
+  1
+ ],
+ [
+  "Horizontal max",
+  1
+ ],
+ [
+  "Horizontal lines (Legacy)",
+  1
+ ],
+ [
+  "Horizontal lines",
+  1
+ ],
+ [
+  "ID extract color",
+  1
+ ],
+ [
+  "ID to mask grayscale",
+  1
+ ],
+ [
+  "Invert color",
+  1
+ ],
+ [
+  "Inverts colors. Every channels but alpha are inverted",
+  1
+ ],
+ [
+  "Invert grayscale",
+  1
+ ],
+ [
+  "Inverts grayscale values: 1-x",
+  1
+ ],
+ [
+  "Lighting cancel high frequencies",
+  1
+ ],
+ [
+  "Cancels the high frequencies highlights of a texture.",
+  1
+ ],
+ [
+  "Lighting cancel low frequencies",
+  1
+ ],
+ [
+  "Cancels the low frequencies highlights of a texture.",
+  1
+ ],
+ [
+  "Cancellation radius",
+  1
+ ],
+ [
+  "Convert to linear",
+  1
+ ],
+ [
+  "Convert to linear grayscale",
+  1
+ ],
+ [
+  "Convert to sRGB",
+  1
+ ],
+ [
+  "Convert to sRGB grayscale",
+  1
+ ],
+ [
+  "Liquid (Legacy)",
+  1
+ ],
+ [
+  "Liquid thing",
+  1
+ ],
+ [
+  "Luminance highpass",
+  1
+ ],
+ [
+  "Removes luminance low frequencies.",
+  1
+ ],
+ [
+  "Make it tile patch color",
+  1
+ ],
+ [
+  "Make it tile patch grayscale",
+  1
+ ],
+ [
+  "Luminosity variation",
+  1
+ ],
+ [
+  "Make it tile photo color",
+  1
+ ],
+ [
+  "Make it tile photo grayscale",
+  1
+ ],
+ [
+  "Material adjustment blend",
+  1
+ ],
+ [
+  "Material blend",
+  1
+ ],
+ [
+  "Blends 2 full materials together using a Color or Greyscale mask.",
+  1
+ ],
+ [
+  "Material color blend",
+  1
+ ],
+ [
+  "Blends full material with custom uniform colors.",
+  1
+ ],
+ [
+  "Height opacity",
+  1
+ ],
+ [
+  "Format",
+  1
+ ],
+ [
+  "Material composite",
+  1
+ ],
+ [
+  "Ambient blending mode",
+  1
+ ],
+ [
+  "The Blending Mode used to Composite Ambient Inputs",
+  1
+ ],
+ [
+  "Ambient blending amount",
+  1
+ ],
+ [
+  "The Amount of Ambient Blending",
+  1
+ ],
+ [
+  "Diffuse blending mode",
+  1
+ ],
+ [
+  "The Blending Mode used to Composite Diffuse Inputs",
+  1
+ ],
+ [
+  "Diffuse blending amount",
+  1
+ ],
+ [
+  "The Amount of Diffuse Blending",
+  1
+ ],
+ [
+  "Specular blending mode",
+  1
+ ],
+ [
+  "The Blending Mode used to Composite Specular Inputs",
+  1
+ ],
+ [
+  "Specular blending amount",
+  1
+ ],
+ [
+  "The Amount of Specular Blending",
+  1
+ ],
+ [
+  "Height blending mode",
+  1
+ ],
+ [
+  "The Blending Mode used to Composite Height Inputs",
+  1
+ ],
+ [
+  "Height blending amount",
+  1
+ ],
+ [
+  "The Amount of Height Blending",
+  1
+ ],
+ [
+  "The Amount of Normal Blending",
+  1
+ ],
+ [
+  "Opacity blending mode",
+  1
+ ],
+ [
+  "The Blending Mode used to Composite Opacity Inputs",
+  1
+ ],
+ [
+  "The Amount of Opacity Blending",
+  1
+ ],
+ [
+  "Emissive blending mode",
+  1
+ ],
+ [
+  "The Blending Mode used to Composite Emissive Inputs",
+  1
+ ],
+ [
+  "Emissive blending amount",
+  1
+ ],
+ [
+  "The Amount of Emissive Blending",
+  1
+ ],
+ [
+  "Use composite mask",
+  1
+ ],
+ [
+  "Composite Materials using CompositeMask Input",
+  1
+ ],
+ [
+  "Use layer one opacity",
+  1
+ ],
+ [
+  "Composite Materials using Top Material Opacity",
+  1
+ ],
+ [
+  "Normal method",
+  1
+ ],
+ [
+  "Height auto level",
+  1
+ ],
+ [
+  "Normal Intensity, when using Rebuild Normal Method",
+  1
+ ],
+ [
+  "Material height blend",
+  1
+ ],
+ [
+  "Blends 2 full materials together using their Height map.",
+  1
+ ],
+ [
+  "Albedo matching",
+  1
+ ],
+ [
+  "Material mesh data blender",
+  1
+ ],
+ [
+  "Diffuse AO",
+  1
+ ],
+ [
+  "Diffuse sharp edges",
+  1
+ ],
+ [
+  "Diffuse color from vertex color",
+  1
+ ],
+ [
+  "Diffuse prelighting",
+  1
+ ],
+ [
+  "Diffuse cartoon lighting balance",
+  1
+ ],
+ [
+  "Diffuse cartoon prelighting layers",
+  1
+ ],
+ [
+  "Diffuse cartoon outlines",
+  1
+ ],
+ [
+  "Base color AO",
+  1
+ ],
+ [
+  "Base color sharp edges",
+  1
+ ],
+ [
+  "Base color from vertex color",
+  1
+ ],
+ [
+  "Normal material intensity",
+  1
+ ],
+ [
+  "Specular AO",
+  1
+ ],
+ [
+  "Specular bright sharp edges",
+  1
+ ],
+ [
+  "Specular cartoon outlines",
+  1
+ ],
+ [
+  "Glossiness dark sharp edges",
+  1
+ ],
+ [
+  "Roughness bright sharp edges",
+  1
+ ],
+ [
+  "Roughness cartoon outlines",
+  1
+ ],
+ [
+  "Metallic bright sharp edges",
+  1
+ ],
+ [
+  "Metallic cartoon outlines",
+  1
+ ],
+ [
+  "Height material intensity",
+  1
+ ],
+ [
+  "Height material blending type",
+  1
+ ],
+ [
+  "AO materiel intensity",
+  1
+ ],
+ [
+  "Material selector",
+  1
+ ],
+ [
+  "Generates binary masks based on a Color ID image.",
+  1
+ ],
+ [
+  "Materials",
+  1
+ ],
+ [
+  "Enable material #1",
+  1
+ ],
+ [
+  "Enable material #2",
+  1
+ ],
+ [
+  "Enable material #3",
+  1
+ ],
+ [
+  "Enable material #4",
+  1
+ ],
+ [
+  "Enable material #5",
+  1
+ ],
+ [
+  "Enable material #6",
+  1
+ ],
+ [
+  "Enable material #7",
+  1
+ ],
+ [
+  "Enable material #8",
+  1
+ ],
+ [
+  "Enable material #9",
+  1
+ ],
+ [
+  "Enable material #10",
+  1
+ ],
+ [
+  "Enable material #11",
+  1
+ ],
+ [
+  "Enable material #12",
+  1
+ ],
+ [
+  "Enable material #13",
+  1
+ ],
+ [
+  "Enable material #14",
+  1
+ ],
+ [
+  "Enable material #15",
+  1
+ ],
+ [
+  "Enable material #16",
+  1
+ ],
+ [
+  "Material #1",
+  1
+ ],
+ [
+  "Material #2",
+  1
+ ],
+ [
+  "Material #3",
+  1
+ ],
+ [
+  "Material #4",
+  1
+ ],
+ [
+  "Material #5",
+  1
+ ],
+ [
+  "Material #6",
+  1
+ ],
+ [
+  "Material #7",
+  1
+ ],
+ [
+  "Material #8",
+  1
+ ],
+ [
+  "Material #9",
+  1
+ ],
+ [
+  "Material #10",
+  1
+ ],
+ [
+  "Material #11",
+  1
+ ],
+ [
+  "Material #12",
+  1
+ ],
+ [
+  "Material #13",
+  1
+ ],
+ [
+  "Material #14",
+  1
+ ],
+ [
+  "Material #15",
+  1
+ ],
+ [
+  "Material #16",
+  1
+ ],
+ [
+  "Material switch",
+  1
+ ],
+ [
+  "Switches between 2 full materials.",
+  1
+ ],
+ [
+  "Material transform",
+  1
+ ],
+ [
+  "Transformation",
+  1
+ ],
+ [
+  "Normal affected by scale and skew transformations",
+  1
+ ],
+ [
+  "Material transforms",
+  1
+ ],
+ [
+  "Scale UV",
+  1
+ ],
+ [
+  "Directional leaks",
+  1
+ ],
+ [
+  "Dirt map input",
+  1
+ ],
+ [
+  "Bias",
+  1
+ ],
+ [
+  "Untitled_graph",
+  1
+ ],
+ [
+  "World space normal map",
+  1
+ ],
+ [
+  "Edge spatter",
+  1
+ ],
+ [
+  "Occlusion noise",
+  1
+ ],
+ [
+  "AO level",
+  1
+ ],
+ [
+  "AO contrast",
+  1
+ ],
+ [
+  "Random dirt",
+  1
+ ],
+ [
+  "Noise distortion",
+  1
+ ],
+ [
+  "AO radius",
+  1
+ ],
+ [
+  "MLV color",
+  1
+ ],
+ [
+  "MLV grayscale",
+  1
+ ],
+ [
+  "Median filter color",
+  1
+ ],
+ [
+  "Median filter grayscale",
+  1
+ ],
+ [
+  "Mesh 1 (Legacy)",
+  1
+ ],
+ [
+  "Mesh 2 (Legacy)",
+  1
+ ],
+ [
+  "Base color 8 inputs",
+  1
+ ],
+ [
+  "Define base colors for a texture from a Hue shift UV 2 SVG baked map.",
+  1
+ ],
+ [
+  "Material 5 color",
+  1
+ ],
+ [
+  "Material 6 color",
+  1
+ ],
+ [
+  "Material 7 color",
+  1
+ ],
+ [
+  "Material 8 color",
+  1
+ ],
+ [
+  "Base color 4 inputs",
+  1
+ ],
+ [
+  "Defines base colors for a texture from a Hue shift UV to SVG baked map.",
+  1
+ ],
+ [
+  "Base color 2 inputs",
+  1
+ ],
+ [
+  "Defines base colors for a texture from a black and white UV to SVG mask.",
+  1
+ ],
+ [
+  "SVG_Mask",
+  1
+ ],
+ [
+  "Mesh material blender 8 inputs",
+  1
+ ],
+ [
+  "Material 5 diffuse yellow",
+  1
+ ],
+ [
+  "Material 5 specular yellow",
+  1
+ ],
+ [
+  "Material 5 height yellow",
+  1
+ ],
+ [
+  "Material 6 diffuse magenta",
+  1
+ ],
+ [
+  "Material 6 specular magenta",
+  1
+ ],
+ [
+  "Material 6 height magenta",
+  1
+ ],
+ [
+  "Material 7 diffuse cyan",
+  1
+ ],
+ [
+  "Material 7 specular cyan",
+  1
+ ],
+ [
+  "Material 7 height cyan",
+  1
+ ],
+ [
+  "Material 8 diffuse white",
+  1
+ ],
+ [
+  "Material 8 specular white",
+  1
+ ],
+ [
+  "Material 8 height white",
+  1
+ ],
+ [
+  "Set the zoom, rotation and position of the material 3.",
+  1
+ ],
+ [
+  "Set the zoom, rotation and position of the material 5.",
+  1
+ ],
+ [
+  "Set the material 5 height map min and max value.",
+  1
+ ],
+ [
+  "Set the material 5 specular map min and max value.",
+  1
+ ],
+ [
+  "Set the zoom, rotation and position of the material 6.",
+  1
+ ],
+ [
+  "Set the material 6 height map min and max value.",
+  1
+ ],
+ [
+  "Set the material 6 specular map min and max value.",
+  1
+ ],
+ [
+  "Set the zoom, rotation and position of the material 7.",
+  1
+ ],
+ [
+  "Set the material 7 height map min and max value.",
+  1
+ ],
+ [
+  "Set the material 7 specular map min and max value.",
+  1
+ ],
+ [
+  "Set the zoom, rotation and position of the material 8.",
+  1
+ ],
+ [
+  "Set the material 8 height map min and max value.",
+  1
+ ],
+ [
+  "Set the material 8 specular map min and max value.",
+  1
+ ],
+ [
+  "Mesh material blender 4 inputs",
+  1
+ ],
+ [
+  "Set the zoom and rotation of the material 2.",
+  1
+ ],
+ [
+  "Mesh material blender 2 inputs",
+  1
+ ],
+ [
+  "Material 2 diffuse white",
+  1
+ ],
+ [
+  "Material 2 specular white",
+  1
+ ],
+ [
+  "Material 2 height white",
+  1
+ ],
+ [
+  "SVG Mask",
+  1
+ ],
+ [
+  "Mesh data combiner",
+  1
+ ],
+ [
+  "Mesh warper (Deprecated)",
+  1
+ ],
+ [
+  "Distortion filter, allow material to follow mesh shape.",
+  1
+ ],
+ [
+  "Mesh normal",
+  1
+ ],
+ [
+  "Mesh tangential normal map input.",
+  1
+ ],
+ [
+  "Diffuse map input.",
+  1
+ ],
+ [
+  "Specular map input.",
+  1
+ ],
+ [
+  "Height map input.",
+  1
+ ],
+ [
+  "Warping softness",
+  1
+ ],
+ [
+  "Reduce high frequencies warping.",
+  1
+ ],
+ [
+  "Warping intensity",
+  1
+ ],
+ [
+  "Set the warp intensity.",
+  1
+ ],
+ [
+  "Warped diffuse.",
+  1
+ ],
+ [
+  "Warped specular.",
+  1
+ ],
+ [
+  "Warped height.",
+  1
+ ],
+ [
+  "Messy fibers 1 (Legacy)",
+  1
+ ],
+ [
+  "Emboss intensity",
+  1
+ ],
+ [
+  "Emboss angle",
+  1
+ ],
+ [
+  "Messy fibers 2 (Legacy)",
+  1
+ ],
+ [
+  "Messy fibers 3 (Legacy)",
+  1
+ ],
+ [
+  "Messy fibers 4 (Legacy)",
+  1
+ ],
+ [
+  "Sponge stains",
+  1
+ ],
+ [
+  "Raw metal desaturation",
+  1
+ ],
+ [
+  "Raw metal brightness",
+  1
+ ],
+ [
+  "Snow cover",
+  1
+ ],
+ [
+  "Fresh snow",
+  1
+ ],
+ [
+  "Adds snow based on the slope (normal map).",
+  1
+ ],
+ [
+  "Melted snow",
+  1
+ ],
+ [
+  "Melts the fresh snow but preserves the occluded parts (requires an AO input).",
+  1
+ ],
+ [
+  "Buildup",
+  1
+ ],
+ [
+  "Adds snow buildup in creases and holes.",
+  1
+ ],
+ [
+  "Smooth the snwoy surface.",
+  1
+ ],
+ [
+  "Flakes intensity",
+  1
+ ],
+ [
+  "Adds flakes in the snow normal map.",
+  1
+ ],
+ [
+  "Adds a customizable water level to create puddles and wet surfaces.",
+  1
+ ],
+ [
+  "Water darkness",
+  1
+ ],
+ [
+  "Edges wetness",
+  1
+ ],
+ [
+  "Edges wetness distance",
+  1
+ ],
+ [
+  "Depth blur amount",
+  1
+ ],
+ [
+  "Depth blur opacity",
+  1
+ ],
+ [
+  "Sludge color",
+  1
+ ],
+ [
+  "Sludge depth",
+  1
+ ],
+ [
+  "Sludge opacity",
+  1
+ ],
+ [
+  "Frost",
+  1
+ ],
+ [
+  "Frost intensity",
+  1
+ ],
+ [
+  "Frost cracks",
+  1
+ ],
+ [
+  "Frost normal format",
+  1
+ ],
+ [
+  "Bottom to top",
+  1
+ ],
+ [
+  "Roughness_variation",
+  1
+ ],
+ [
+  "Cloth wear",
+  1
+ ],
+ [
+  "Cloth height",
+  1
+ ],
+ [
+  "Hard edges amount",
+  1
+ ],
+ [
+  "Wear softness",
+  1
+ ],
+ [
+  "Dirt level",
+  1
+ ],
+ [
+  "Dirt contrast",
+  1
+ ],
+ [
+  "Edges masking",
+  1
+ ],
+ [
+  "Dripping rust",
+  1
+ ],
+ [
+  "Rust contrast",
+  1
+ ],
+ [
+  "Occlusion amount",
+  1
+ ],
+ [
+  "Noise opacity",
+  1
+ ],
+ [
+  "Edge damages",
+  1
+ ],
+ [
+  "Damages intensity",
+  1
+ ],
+ [
+  "Edge notch",
+  1
+ ],
+ [
+  "Edge select",
+  1
+ ],
+ [
+  "Convex edges width",
+  1
+ ],
+ [
+  "Convex softness",
+  1
+ ],
+ [
+  "Convex intensity",
+  1
+ ],
+ [
+  "Concave edges width",
+  1
+ ],
+ [
+  "Concave softness",
+  1
+ ],
+ [
+  "Concave intensity",
+  1
+ ],
+ [
+  "Edge speckle",
+  1
+ ],
+ [
+  "Edge selection",
+  1
+ ],
+ [
+  "Edges width",
+  1
+ ],
+ [
+  "Fiber glass edge wear",
+  1
+ ],
+ [
+  "Grease",
+  1
+ ],
+ [
+  "Thickness threshold",
+  1
+ ],
+ [
+  "Ground dirt",
+  1
+ ],
+ [
+  "Generate a dirt mask based on a single axis position map.",
+  1
+ ],
+ [
+  "Dirt height",
+  1
+ ],
+ [
+  "Leaks",
+  1
+ ],
+ [
+  "Occlude",
+  1
+ ],
+ [
+  "Remove the effect on part of the object based on the world space normal map.",
+  1
+ ],
+ [
+  "Leather wear",
+  1
+ ],
+ [
+  "Light",
+  1
+ ],
+ [
+  "Horizontal angle",
+  1
+ ],
+ [
+  "Vertical angle",
+  1
+ ],
+ [
+  "Highlight glossiness",
+  1
+ ],
+ [
+  "Highlight level",
+  1
+ ],
+ [
+  "Mask builder (Deprecated)",
+  1
+ ],
+ [
+  "Global intensity",
+  1
+ ],
+ [
+  "Chaos",
+  1
+ ],
+ [
+  "Chaos scale",
+  1
+ ],
+ [
+  "Scatter intensity",
+  1
+ ],
+ [
+  "Global scale",
+  1
+ ],
+ [
+  "Mask builder",
+  1
+ ],
+ [
+  "Metal edge wear",
+  1
+ ],
+ [
+  "Paint wear",
+  1
+ ],
+ [
+  "Surface brush",
+  1
+ ],
+ [
+  "Scratches length",
+  1
+ ],
+ [
+  "Occlude axis",
+  1
+ ],
+ [
+  "Occlude axis intensity",
+  1
+ ],
+ [
+  "Microscope view (Legacy)",
+  1
+ ],
+ [
+  "Returns the minimum and maximum pixel value from the input image.",
+  1
+ ],
+ [
+  "Mirror color",
+  1
+ ],
+ [
+  "Mirror grayscale",
+  1
+ ],
+ [
+  "Moisture noise (Legacy)",
+  1
+ ],
+ [
+  "Mosaic color",
+  1
+ ],
+ [
+  "Mosaic grayscale",
+  1
+ ],
+ [
+  "Sets the type of algorithm depending on the type of normal map.",
+  1
+ ],
+ [
+  "Here, Input a Diffuse or a Albedo Color Map.",
+  1
+ ],
+ [
+  "Here, Input a base color Map.",
+  1
+ ],
+ [
+  "Here, Input a specular map.",
+  1
+ ],
+ [
+  "Here, Input a Glossiness map.",
+  1
+ ],
+ [
+  "Here, Input a Height map.",
+  1
+ ],
+ [
+  "Here, Input a Ambient Occlusion map.",
+  1
+ ],
+ [
+  "Multiangle to albedo",
+  1
+ ],
+ [
+  "Multiangle to normal",
+  1
+ ],
+ [
+  "First sample light angle",
+  1
+ ],
+ [
+  "Next sample light angle",
+  1
+ ],
+ [
+  "Multidir. warp grayscale",
+  1
+ ],
+ [
+  "Multidir. warp color",
+  1
+ ],
+ [
+  "Multimaterial blend",
+  1
+ ],
+ [
+  "Blends up to 16 full materials together using a Color ID image.",
+  1
+ ],
+ [
+  "#16 Diffuse",
+  1
+ ],
+ [
+  "#16 Base color",
+  1
+ ],
+ [
+  "#16 Normal",
+  1
+ ],
+ [
+  "#16 Specular",
+  1
+ ],
+ [
+  "#16 Emissive",
+  1
+ ],
+ [
+  "#16 Glossiness",
+  1
+ ],
+ [
+  "#16 Roughness",
+  1
+ ],
+ [
+  "#16 Metallic",
+  1
+ ],
+ [
+  "#16 Specular level",
+  1
+ ],
+ [
+  "#16 Height",
+  1
+ ],
+ [
+  "#16 Ambient occlusion",
+  1
+ ],
+ [
+  "#16 Opacity",
+  1
+ ],
+ [
+  "#15 Diffuse",
+  1
+ ],
+ [
+  "#15 Base color",
+  1
+ ],
+ [
+  "#15 Normal",
+  1
+ ],
+ [
+  "#15 Specular",
+  1
+ ],
+ [
+  "#15 Emissive",
+  1
+ ],
+ [
+  "#15 Glossiness",
+  1
+ ],
+ [
+  "#15 Roughness",
+  1
+ ],
+ [
+  "#15 Metallic",
+  1
+ ],
+ [
+  "#15 Specular level",
+  1
+ ],
+ [
+  "#15 Height",
+  1
+ ],
+ [
+  "#15 Ambient occlusion",
+  1
+ ],
+ [
+  "#15 Opacity",
+  1
+ ],
+ [
+  "#14 Diffuse",
+  1
+ ],
+ [
+  "#14 Base color",
+  1
+ ],
+ [
+  "#14 Normal",
+  1
+ ],
+ [
+  "#14 Specular",
+  1
+ ],
+ [
+  "#14 Emissive",
+  1
+ ],
+ [
+  "#14 Glossiness",
+  1
+ ],
+ [
+  "#14 Roughness",
+  1
+ ],
+ [
+  "#14 Metallic",
+  1
+ ],
+ [
+  "#14 Specular level",
+  1
+ ],
+ [
+  "#14 Height",
+  1
+ ],
+ [
+  "#14 Ambient occlusion",
+  1
+ ],
+ [
+  "#14 Opacity",
+  1
+ ],
+ [
+  "#13 Diffuse",
+  1
+ ],
+ [
+  "#13 Base color",
+  1
+ ],
+ [
+  "#13 Normal",
+  1
+ ],
+ [
+  "#13 Specular",
+  1
+ ],
+ [
+  "#13 Emissive",
+  1
+ ],
+ [
+  "#13 Glossiness",
+  1
+ ],
+ [
+  "#13 Roughness",
+  1
+ ],
+ [
+  "#13 Metallic",
+  1
+ ],
+ [
+  "#13 Specular level",
+  1
+ ],
+ [
+  "#13 Height",
+  1
+ ],
+ [
+  "#13 Ambient occlusion",
+  1
+ ],
+ [
+  "#13 Opacity",
+  1
+ ],
+ [
+  "#12 Diffuse",
+  1
+ ],
+ [
+  "#12 Base color",
+  1
+ ],
+ [
+  "#12 Normal",
+  1
+ ],
+ [
+  "#12 Specular",
+  1
+ ],
+ [
+  "#12 Emissive",
+  1
+ ],
+ [
+  "#12 Glossiness",
+  1
+ ],
+ [
+  "#12 Roughness",
+  1
+ ],
+ [
+  "#12 Metallic",
+  1
+ ],
+ [
+  "#12 Specular level",
+  1
+ ],
+ [
+  "#12 Height",
+  1
+ ],
+ [
+  "#12 Ambient occlusion",
+  1
+ ],
+ [
+  "#12 Opacity",
+  1
+ ],
+ [
+  "#11 Diffuse",
+  1
+ ],
+ [
+  "#11 Base color",
+  1
+ ],
+ [
+  "#11 Normal",
+  1
+ ],
+ [
+  "#11 Specular",
+  1
+ ],
+ [
+  "#11 Emissive",
+  1
+ ],
+ [
+  "#11 Glossiness",
+  1
+ ],
+ [
+  "#11 Roughness",
+  1
+ ],
+ [
+  "#11 Metallic",
+  1
+ ],
+ [
+  "#11 Specular level",
+  1
+ ],
+ [
+  "#11 Height",
+  1
+ ],
+ [
+  "#11 Ambient occlusion",
+  1
+ ],
+ [
+  "#11 Opacity",
+  1
+ ],
+ [
+  "#10 Diffuse",
+  1
+ ],
+ [
+  "#10 Base color",
+  1
+ ],
+ [
+  "#10 Normal",
+  1
+ ],
+ [
+  "#10 Specular",
+  1
+ ],
+ [
+  "#10 Emissive",
+  1
+ ],
+ [
+  "#10 Glossiness",
+  1
+ ],
+ [
+  "#10 Roughness",
+  1
+ ],
+ [
+  "#10 Metallic",
+  1
+ ],
+ [
+  "#10 Specular level",
+  1
+ ],
+ [
+  "#10 Height",
+  1
+ ],
+ [
+  "#10 Ambient occlusion",
+  1
+ ],
+ [
+  "#10 Opacity",
+  1
+ ],
+ [
+  "#9 Diffuse",
+  1
+ ],
+ [
+  "#9 Base color",
+  1
+ ],
+ [
+  "#9 Normal",
+  1
+ ],
+ [
+  "#9 Specular",
+  1
+ ],
+ [
+  "#9 Emissive",
+  1
+ ],
+ [
+  "#9 Glossiness",
+  1
+ ],
+ [
+  "#9 Roughness",
+  1
+ ],
+ [
+  "#9 Metallic",
+  1
+ ],
+ [
+  "#9 Specular level",
+  1
+ ],
+ [
+  "#9 Height",
+  1
+ ],
+ [
+  "#9 Ambient occlusion",
+  1
+ ],
+ [
+  "#9 Opacity",
+  1
+ ],
+ [
+  "#8 Diffuse",
+  1
+ ],
+ [
+  "#8 Base color",
+  1
+ ],
+ [
+  "#8 Normal",
+  1
+ ],
+ [
+  "#8 Specular",
+  1
+ ],
+ [
+  "#8 Emissive",
+  1
+ ],
+ [
+  "#8 Glossiness",
+  1
+ ],
+ [
+  "#8 Roughness",
+  1
+ ],
+ [
+  "#8 Metallic",
+  1
+ ],
+ [
+  "#8 Specular level",
+  1
+ ],
+ [
+  "#8 Height",
+  1
+ ],
+ [
+  "#8 Ambient occlusion",
+  1
+ ],
+ [
+  "#8 Opacity",
+  1
+ ],
+ [
+  "#7 Diffuse",
+  1
+ ],
+ [
+  "#7 Base color",
+  1
+ ],
+ [
+  "#7 Normal",
+  1
+ ],
+ [
+  "#7 Specular",
+  1
+ ],
+ [
+  "#7 Emissive",
+  1
+ ],
+ [
+  "#7 Glossiness",
+  1
+ ],
+ [
+  "#7 Roughness",
+  1
+ ],
+ [
+  "#7 Metallic",
+  1
+ ],
+ [
+  "#7 Specular level",
+  1
+ ],
+ [
+  "#7 Height",
+  1
+ ],
+ [
+  "#7 Ambient occlusion",
+  1
+ ],
+ [
+  "#7 Opacity",
+  1
+ ],
+ [
+  "#6 Diffuse",
+  1
+ ],
+ [
+  "#6 Base color",
+  1
+ ],
+ [
+  "#6 Normal",
+  1
+ ],
+ [
+  "#6 Specular",
+  1
+ ],
+ [
+  "#6 Emissive",
+  1
+ ],
+ [
+  "#6 Glossiness",
+  1
+ ],
+ [
+  "#6 Roughness",
+  1
+ ],
+ [
+  "#6 Metallic",
+  1
+ ],
+ [
+  "#6 Specular level",
+  1
+ ],
+ [
+  "#6 Height",
+  1
+ ],
+ [
+  "#6 Ambient occlusion",
+  1
+ ],
+ [
+  "#6 Opacity",
+  1
+ ],
+ [
+  "#5 Diffuse",
+  1
+ ],
+ [
+  "#5 Base color",
+  1
+ ],
+ [
+  "#5 Normal",
+  1
+ ],
+ [
+  "#5 Specular",
+  1
+ ],
+ [
+  "#5 Emissive",
+  1
+ ],
+ [
+  "#5 Glossiness",
+  1
+ ],
+ [
+  "#5 Roughness",
+  1
+ ],
+ [
+  "#5 Metallic",
+  1
+ ],
+ [
+  "#5 Specular level",
+  1
+ ],
+ [
+  "#5 Height",
+  1
+ ],
+ [
+  "#5 Ambient occlusion",
+  1
+ ],
+ [
+  "#5 Opacity",
+  1
+ ],
+ [
+  "#4 Diffuse",
+  1
+ ],
+ [
+  "#4 Base color",
+  1
+ ],
+ [
+  "#4 Normal",
+  1
+ ],
+ [
+  "#4 Specular",
+  1
+ ],
+ [
+  "#4 Emissive",
+  1
+ ],
+ [
+  "#4 Glossiness",
+  1
+ ],
+ [
+  "#4 Roughness",
+  1
+ ],
+ [
+  "#4 Metallic",
+  1
+ ],
+ [
+  "#4 Specular level",
+  1
+ ],
+ [
+  "#4 Height",
+  1
+ ],
+ [
+  "#4 Ambient occlusion",
+  1
+ ],
+ [
+  "#4 Opacity",
+  1
+ ],
+ [
+  "#3 Diffuse",
+  1
+ ],
+ [
+  "#3 Base color",
+  1
+ ],
+ [
+  "#3 Normal",
+  1
+ ],
+ [
+  "#3 Specular",
+  1
+ ],
+ [
+  "#3 Emissive",
+  1
+ ],
+ [
+  "#3 Glossiness",
+  1
+ ],
+ [
+  "#3 Roughness",
+  1
+ ],
+ [
+  "#3 Metallic",
+  1
+ ],
+ [
+  "#3 Specular level",
+  1
+ ],
+ [
+  "#3 Height",
+  1
+ ],
+ [
+  "#3 Ambient occlusion",
+  1
+ ],
+ [
+  "#3 Opacity",
+  1
+ ],
+ [
+  "The amount of strips on the X axis.",
+  1
+ ],
+ [
+  "The amount of strips on the Y axis.",
+  1
+ ],
+ [
+  "Rotates the noise 90 degrees.",
+  1
+ ],
+ [
+  "The base shape scattered in the generated image.",
+  1
+ ],
+ [
+  "Switches blacks and whites in the output image.",
+  1
+ ],
+ [
+  "Inverts the grayscale values of the image output.",
+  1
+ ],
+ [
+  "Allows to change the seed for the color individually from the node seed.",
+  1
+ ],
+ [
+  "Allows to change the seed for the color separately from the node seed.",
+  1
+ ],
+ [
+  "A random scattering of scratch patterns with adjustable angle and size.",
+  1
+ ],
+ [
+  "A multiplier for the amount of scratch patterns being scattered.",
+  1
+ ],
+ [
+  "Fluid",
+  1
+ ],
+ [
+  "Min. level",
+  1
+ ],
+ [
+  "Max. level",
+  1
+ ],
+ [
+  "The contrast of the final result.",
+  1
+ ],
+ [
+  "Noise upscale",
+  1
+ ],
+ [
+  "Noise disorder",
+  1
+ ],
+ [
+  "Noise blend",
+  1
+ ],
+ [
+  "Waves amount",
+  1
+ ],
+ [
+  "Grunge map 001",
+  1
+ ],
+ [
+  "Grunge map 002",
+  1
+ ],
+ [
+  "Grunge map 003",
+  1
+ ],
+ [
+  "Grunge map 004",
+  1
+ ],
+ [
+  "Grunge map 005",
+  1
+ ],
+ [
+  "Grunge map 006",
+  1
+ ],
+ [
+  "Grunge map 007",
+  1
+ ],
+ [
+  "Grunge map 008",
+  1
+ ],
+ [
+  "Grunge map 009",
+  1
+ ],
+ [
+  "Grunge map 010",
+  1
+ ],
+ [
+  "Grunge map 011",
+  1
+ ],
+ [
+  "Grunge map 012",
+  1
+ ],
+ [
+  "Grunge map 013",
+  1
+ ],
+ [
+  "Grunge map 014",
+  1
+ ],
+ [
+  "Grunge map 015",
+  1
+ ],
+ [
+  "Liquid",
+  1
+ ],
+ [
+  "Moisture noise 1",
+  1
+ ],
+ [
+  "Moisture noise 2",
+  1
+ ],
+ [
+  "Generates a Perlin noise, a widely used smooth distribution of grayscale values.",
+  1
+ ],
+ [
+  "Plasma",
+  1
+ ],
+ [
+  "Noise upscale 1",
+  1
+ ],
+ [
+  "Noise upscale 2",
+  1
+ ],
+ [
+  "Noise upscale 3",
+  1
+ ],
+ [
+  "3D Voronoi fractal",
+  1
+ ],
+ [
+  "3D Voronoi",
+  1
+ ],
+ [
+  "Voronoi",
+  1
+ ],
+ [
+  "Voronoi fractal",
+  1
+ ],
+ [
+  "Non-square transform color",
+  1
+ ],
+ [
+  "Non-square transform grayscale",
+  1
+ ],
+ [
+  "Non-uniform blur color",
+  1
+ ],
+ [
+  "Non-uniform blur driven by a grayscale map.",
+  1
+ ],
+ [
+  "Non-uniform blur grayscale",
+  1
+ ],
+ [
+  "Non-uniform blur driven by a grayscale map grayscale version",
+  1
+ ],
+ [
+  "Non-uniform dir. warp grayscale",
+  1
+ ],
+ [
+  "Non-uniform dir. warp color",
+  1
+ ],
+ [
+  "Non-uniform rotation grayscale",
+  1
+ ],
+ [
+  "The input grayscale image which should be rotated.",
+  1
+ ],
+ [
+  "Non-uniform rotation color",
+  1
+ ],
+ [
+  "The input color image which should be rotated.",
+  1
+ ],
+ [
+  "Normal add",
+  1
+ ],
+ [
+  "Allows to add informations from a normal map to another normal map.",
+  1
+ ],
+ [
+  "Normal blend",
+  1
+ ],
+ [
+  "Allows to blend two normal maps keeping normalisation.",
+  1
+ ],
+ [
+  "Normal color",
+  1
+ ],
+ [
+  "Slope angle",
+  1
+ ],
+ [
+  "Normal combine",
+  1
+ ],
+ [
+  "Technique",
+  1
+ ],
+ [
+  "Increases or decreases the intensity of the normal map input.",
+  1
+ ],
+ [
+  "Normal invert",
+  1
+ ],
+ [
+  "Invert channels of the input image (invert green channel by default).",
+  1
+ ],
+ [
+  "Invert red",
+  1
+ ],
+ [
+  "Invert blue",
+  1
+ ],
+ [
+  "Invert alpha",
+  1
+ ],
+ [
+  "Normal mapper (Deprecated, use the standard normal filter instead)",
+  1
+ ],
+ [
+  "Allows to change the type of normal maps generated by Substance Designer",
+  1
+ ],
+ [
+  "Normal format. 16: use default ($normalformat)",
+  1
+ ],
+ [
+  "Normal normalize",
+  1
+ ],
+ [
+  "Normalising normal maps.",
+  1
+ ],
+ [
+  "Normal sobel (Deprecated)",
+  1
+ ],
+ [
+  "Normal sobel",
+  1
+ ],
+ [
+  "Generate a height map from a normal map input.",
+  1
+ ],
+ [
+  "Tangeant normal map input.",
+  1
+ ],
+ [
+  "Transforms tangent normal map into a height map",
+  1
+ ],
+ [
+  "Normal to height HQ",
+  1
+ ],
+ [
+  "Generates Height map from Normal map",
+  1
+ ],
+ [
+  "Height normalize",
+  1
+ ],
+ [
+  "Base algorithm",
+  1
+ ],
+ [
+  "Detail balance",
+  1
+ ],
+ [
+  "Normal transform",
+  1
+ ],
+ [
+  "Matrix2x2",
+  1
+ ],
+ [
+  "Handle scale and skew transformation",
+  1
+ ],
+ [
+  "Normal uncombine",
+  1
+ ],
+ [
+  "Intensity range",
+  1
+ ],
+ [
+  "Uncombined normal",
+  1
+ ],
+ [
+  "Guessed intensity",
+  1
+ ],
+ [
+  "Get intensity iteration",
+  1
+ ],
+ [
+  "Normal vector rotation",
+  1
+ ],
+ [
+  "Rotation angle",
+  1
+ ],
+ [
+  "Rotation map (Optional)",
+  1
+ ],
+ [
+  "Here, input a mesh baked wold space normal map.",
+  1
+ ],
+ [
+  "Sets the amount of dust on top of the object",
+  1
+ ],
+ [
+  "Set how dirty is the object.",
+  1
+ ],
+ [
+  "Sets how used are the sgarp edges of the object.",
+  1
+ ],
+ [
+  "Sets the amount of paint removed the object.",
+  1
+ ],
+ [
+  "Sets the amount of rust on the object.",
+  1
+ ],
+ [
+  "Sets how much the paint is damaged by the rust.",
+  1
+ ],
+ [
+  "Sets the type of occidation, rust for iron or verdigris for copper.",
+  1
+ ],
+ [
+  "Sets the shape variation scale for the damaged paint edges.",
+  1
+ ],
+ [
+  "Sets the shape variation intensity for the damaged paint edges.",
+  1
+ ],
+ [
+  "Raw metal color",
+  1
+ ],
+ [
+  "Sets the color of the metal visible where paint will be damaged.",
+  1
+ ],
+ [
+  "Raw metal specular color",
+  1
+ ],
+ [
+  "Sets the specular color of the metal visible where paint will be damaged.",
+  1
+ ],
+ [
+  "Raw metal glossiness value",
+  1
+ ],
+ [
+  "Sets the glossiness value of the metal visible where paint will be damaged.",
+  1
+ ],
+ [
+  "Raw metal roughness value",
+  1
+ ],
+ [
+  "Sets the roughness value of the metal visible where paint will be damaged.",
+  1
+ ],
+ [
+  "Gradient linear",
+  1
+ ],
+ [
+  "Point position",
+  1
+ ],
+ [
+  "Top color",
+  1
+ ],
+ [
+  "Bottom color",
+  1
+ ],
+ [
+  "Gradient 2 points",
+  1
+ ],
+ [
+  "Point 1 position",
+  1
+ ],
+ [
+  "Point 1 color",
+  1
+ ],
+ [
+  "Point 1 contrast",
+  1
+ ],
+ [
+  "Point 2 position",
+  1
+ ],
+ [
+  "Point 2 color",
+  1
+ ],
+ [
+  "Point 2 contrast",
+  1
+ ],
+ [
+  "Nadir extract",
+  1
+ ],
+ [
+  "Output gamma",
+  1
+ ],
+ [
+  "Nadir patch",
+  1
+ ],
+ [
+  "Show frames helper",
+  1
+ ],
+ [
+  "Patch scale",
+  1
+ ],
+ [
+  "Patch size",
+  1
+ ],
+ [
+  "Patch rotation",
+  1
+ ],
+ [
+  "Patch alpha",
+  1
+ ],
+ [
+  "Patch hardness",
+  1
+ ],
+ [
+  "Source rotation offset",
+  1
+ ],
+ [
+  "Source position",
+  1
+ ],
+ [
+  "Patch position",
+  1
+ ],
+ [
+  "Physical Sun and Sky implementation based on Hosek-Wikie skylight model.",
+  1
+ ],
+ [
+  "Sun position",
+  1
+ ],
+ [
+  "Turbidity",
+  1
+ ],
+ [
+  "Turbidity ranges from 1 to 10",
+  1
+ ],
+ [
+  "Albedo ranges from 0 to 1.",
+  1
+ ],
+ [
+  "Ground color",
+  1
+ ],
+ [
+  "Sun size",
+  1
+ ],
+ [
+  "Scale of the Sun, any value different than 1 is non physically correct.",
+  1
+ ],
+ [
+  "Sun intensity",
+  1
+ ],
+ [
+  "Sky intensity",
+  1
+ ],
+ [
+  "Evaluate a 5th degree Bézier curve in t according to provided coefs.",
+  1
+ ],
+ [
+  "Evaluate sun contribution for one wavelength.",
+  1
+ ],
+ [
+  "Wavelength index. Expect constant expression",
+  1
+ ],
+ [
+  "sqrt(max(0, 1 - (ar2 * sin(gamma)²)))",
+  1
+ ],
+ [
+  "Panorama 3D position",
+  1
+ ],
+ [
+  "Panorama rotation",
+  1
+ ],
+ [
+  "Direction angle",
+  1
+ ],
+ [
+  "Pre rotation around pole",
+  1
+ ],
+ [
+  "Post rotation around pole",
+  1
+ ],
+ [
+  "Shape light",
+  1
+ ],
+ [
+  "Shape temperature",
+  1
+ ],
+ [
+  "Shape image input gamma",
+  1
+ ],
+ [
+  "Shape exposure (EV)",
+  1
+ ],
+ [
+  "Shape hardness",
+  1
+ ],
+ [
+  "Hotspot exposure (EV)",
+  1
+ ],
+ [
+  "Sphere light",
+  1
+ ],
+ [
+  "Generates a spherically projected sphere shape.",
+  1
+ ],
+ [
+  "Sphere world position",
+  1
+ ],
+ [
+  "Sphere image gamma",
+  1
+ ],
+ [
+  "Sphere rotation",
+  1
+ ],
+ [
+  "Sphere radius",
+  1
+ ],
+ [
+  "Sphere hardness",
+  1
+ ],
+ [
+  "Shading",
+  1
+ ],
+ [
+  "Shading light world position",
+  1
+ ],
+ [
+  "Penumbra transparency",
+  1
+ ],
+ [
+  "Sphere image input",
+  1
+ ],
+ [
+  "Line light",
+  1
+ ],
+ [
+  "Point 1 UV position",
+  1
+ ],
+ [
+  "Point 2 UV position",
+  1
+ ],
+ [
+  "Point 1 world position",
+  1
+ ],
+ [
+  "Point 2 world position",
+  1
+ ],
+ [
+  "Line absolute height",
+  1
+ ],
+ [
+  "Shape image repeat spacing",
+  1
+ ],
+ [
+  "Line rotation",
+  1
+ ],
+ [
+  "Pattern repeat spacing",
+  1
+ ],
+ [
+  "Plane light",
+  1
+ ],
+ [
+  "Plane UV position",
+  1
+ ],
+ [
+  "Plane world position",
+  1
+ ],
+ [
+  "Plane absolute height",
+  1
+ ],
+ [
+  "Plane scale",
+  1
+ ],
+ [
+  "Plane rotation",
+  1
+ ],
+ [
+  "Straighten horizon",
+  1
+ ],
+ [
+  "Enable horizon correction",
+  1
+ ],
+ [
+  "Horizon point #1 position",
+  1
+ ],
+ [
+  "Horizon point #2 position",
+  1
+ ],
+ [
+  "Paper path (Legacy)",
+  1
+ ],
+ [
+  "Paper path",
+  1
+ ],
+ [
+  "Parquet 1 (Legacy)",
+  1
+ ],
+ [
+  "Mask to paths (Deprecated)",
+  1
+ ],
+ [
+  "Mask to paths",
+  1
+ ],
+ [
+  "Path startup mode",
+  1
+ ],
+ [
+  "Startup direction",
+  1
+ ],
+ [
+  "Startup target position",
+  1
+ ],
+ [
+  "Startup function",
+  1
+ ],
+ [
+  "Paths ordering mode",
+  1
+ ],
+ [
+  "Ordering direction",
+  1
+ ],
+ [
+  "Ordering function",
+  1
+ ],
+ [
+  "Paths polygon",
+  1
+ ],
+ [
+  "Number of sides",
+  1
+ ],
+ [
+  "Paths preview",
+  1
+ ],
+ [
+  "Show corners",
+  1
+ ],
+ [
+  "Show vertices",
+  1
+ ],
+ [
+  "Segments thickness (px)",
+  1
+ ],
+ [
+  "Quad transform on path",
+  1
+ ],
+ [
+  "Path 2D transform",
+  1
+ ],
+ [
+  "Paths warp",
+  1
+ ],
+ [
+  "Number of steps",
+  1
+ ],
+ [
+  "Paths vertex processor",
+  1
+ ],
+ [
+  "Previous vertices accessed",
+  1
+ ],
+ [
+  "Next vertices accessed",
+  1
+ ],
+ [
+  "Input 5 (Color)",
+  1
+ ],
+ [
+  "Input 6 (Grayscale)",
+  1
+ ],
+ [
+  "Input 7 (Color)",
+  1
+ ],
+ [
+  "Input 8 (Grayscale)",
+  1
+ ],
+ [
+  "Paths vertex processor simple",
+  1
+ ],
+ [
+  "Paths select",
+  1
+ ],
+ [
+  "Path ID",
+  1
+ ],
+ [
+  "Length greater or lower?",
+  1
+ ],
+ [
+  "Target length",
+  1
+ ],
+ [
+  "Paths to spline",
+  1
+ ],
+ [
+  "Splines precision",
+  1
+ ],
+ [
+  "Relative to input PP",
+  1
+ ],
+ [
+  "Per pixel function",
+  1
+ ],
+ [
+  "Function evaluated per pixel",
+  1
+ ],
+ [
+  "Count to size",
+  1
+ ],
+ [
+  "Facets to paths template",
+  1
+ ],
+ [
+  "Facets to paths template 2",
+  1
+ ],
+ [
+  "Disable any computation",
+  1
+ ],
+ [
+  "Compute length from path start for each vertex",
+  1
+ ],
+ [
+  "Scale factor",
+  1
+ ],
+ [
+  "Mask to facets",
+  1
+ ],
+ [
+  "Limit value",
+  1
+ ],
+ [
+  "Get number of valid paths",
+  1
+ ],
+ [
+  "Path warp",
+  1
+ ],
+ [
+  "Maximum number of element to sort",
+  1
+ ],
+ [
+  "All element must be packed at the top, left.",
+  1
+ ],
+ [
+  "Alveolus",
+  1
+ ],
+ [
+  "Arc pavement",
+  1
+ ],
+ [
+  "Pattern minimum amount",
+  1
+ ],
+ [
+  "Arcs amount",
+  1
+ ],
+ [
+  "Input image filtering",
+  1
+ ],
+ [
+  "Pattern height",
+  1
+ ],
+ [
+  "Pattern width random",
+  1
+ ],
+ [
+  "Pattern height random",
+  1
+ ],
+ [
+  "Global pattern width random",
+  1
+ ],
+ [
+  "Pattern height decrease",
+  1
+ ],
+ [
+  "Brick 1",
+  1
+ ],
+ [
+  "Brick generator",
+  1
+ ],
+ [
+  "Apply the same bevel effect on X and Y no matter the brick size.",
+  1
+ ],
+ [
+  "Checker 1",
+  1
+ ],
+ [
+  "Cube 3D",
+  1
+ ],
+ [
+  "Cube 3D G-Buffers",
+  1
+ ],
+ [
+  "Renders the Gbuffers of a 3D Cube.",
+  1
+ ],
+ [
+  "Fibers 1",
+  1
+ ],
+ [
+  "Fibers 2",
+  1
+ ],
+ [
+  "Gaussian 1",
+  1
+ ],
+ [
+  "Gaussian 2",
+  1
+ ],
+ [
+  "Mesh 1",
+  1
+ ],
+ [
+  "Polygon 1",
+  1
+ ],
+ [
+  "Polygon 2",
+  1
+ ],
+ [
+  "Scratches generator normal",
+  1
+ ],
+ [
+  "Normal intensity random",
+  1
+ ],
+ [
+  "Scratches generator",
+  1
+ ],
+ [
+  "Scratches generator anisotropy",
+  1
+ ],
+ [
+  "Anisotropy angle offset",
+  1
+ ],
+ [
+  "Anisotropy angle offset random",
+  1
+ ],
+ [
+  "Invert anisotropy angle",
+  1
+ ],
+ [
+  "Splatter circular grayscale",
+  1
+ ],
+ [
+  "Splatter circular color",
+  1
+ ],
+ [
+  "Star",
+  1
+ ],
+ [
+  "Stripes",
+  1
+ ],
+ [
+  "Tile generator grayscale",
+  1
+ ],
+ [
+  "By number parametrisation",
+  1
+ ],
+ [
+  "By scale parametrisation",
+  1
+ ],
+ [
+  "Tile random grayscale",
+  1
+ ],
+ [
+  "Tile random color",
+  1
+ ],
+ [
+  "Tile random 2",
+  1
+ ],
+ [
+  "Amount X",
+  1
+ ],
+ [
+  "Amount Y",
+  1
+ ],
+ [
+  "Random size multiplier",
+  1
+ ],
+ [
+  "Random size input map multiplier",
+  1
+ ],
+ [
+  "Random size X",
+  1
+ ],
+ [
+  "Random size Y",
+  1
+ ],
+ [
+  "Random size distribution",
+  1
+ ],
+ [
+  "Interstice thickness",
+  1
+ ],
+ [
+  "Round corners radius",
+  1
+ ],
+ [
+  "Round corners radius input map mult.",
+  1
+ ],
+ [
+  "Scale multiplier",
+  1
+ ],
+ [
+  "Corners position random",
+  1
+ ],
+ [
+  "Random slant multiplier",
+  1
+ ],
+ [
+  "Random slant input map multiplier",
+  1
+ ],
+ [
+  "Random slant X",
+  1
+ ],
+ [
+  "Random slant Y",
+  1
+ ],
+ [
+  "Random slant distribution",
+  1
+ ],
+ [
+  "Bevel distance mode",
+  1
+ ],
+ [
+  "Bevel distance multiplier",
+  1
+ ],
+ [
+  "Bevel distance input map mult.",
+  1
+ ],
+ [
+  "Bevel rounded curve",
+  1
+ ],
+ [
+  "Enable per axis bevel control",
+  1
+ ],
+ [
+  "Bevel distance X",
+  1
+ ],
+ [
+  "Bevel distance Y",
+  1
+ ],
+ [
+  "Random size map",
+  1
+ ],
+ [
+  "Random slant map",
+  1
+ ],
+ [
+  "Round corners radius map",
+  1
+ ],
+ [
+  "Bevel distance map",
+  1
+ ],
+ [
+  "Mask random invert",
+  1
+ ],
+ [
+  "Inverts the random masking of shapes.",
+  1
+ ],
+ [
+  "Mask random start",
+  1
+ ],
+ [
+  "Mask random end",
+  1
+ ],
+ [
+  "Mask by cell area invert",
+  1
+ ],
+ [
+  "Inverts the masking of shapes by the area of their cells.",
+  1
+ ],
+ [
+  "Mask by cell area start",
+  1
+ ],
+ [
+  "Mask by cell area end",
+  1
+ ],
+ [
+  "Mask map input invert",
+  1
+ ],
+ [
+  "Mask map input start",
+  1
+ ],
+ [
+  "Mask map input end",
+  1
+ ],
+ [
+  "Flood fill data",
+  1
+ ],
+ [
+  "Tile sampler grayscale",
+  1
+ ],
+ [
+  "Pattern input filtering",
+  1
+ ],
+ [
+  "Tile sampler color",
+  1
+ ],
+ [
+  "Triangle grid grayscale",
+  1
+ ],
+ [
+  "Triangle grid color",
+  1
+ ],
+ [
+  "Triangle grid base",
+  1
+ ],
+ [
+  "Weave 1",
+  1
+ ],
+ [
+  "Weave generator",
+  1
+ ],
+ [
+  "Pavement 1 (Legacy)",
+  1
+ ],
+ [
+  "Pavement 1",
+  1
+ ],
+ [
+  "PBR albedo safe color",
+  1
+ ],
+ [
+  "Adjust albedo colors (basecolor or diffuse) for PBR workflows.",
+  1
+ ],
+ [
+  "Tolerance ranges for metal and albedo. 0 is strict (Default) 1 is relaxed",
+  1
+ ],
+ [
+  "Albedo dark range threshold",
+  1
+ ],
+ [
+  "Metal reflectance range",
+  1
+ ],
+ [
+  "Sow the validation over the maps",
+  1
+ ],
+ [
+  "Base material",
+  1
+ ],
+ [
+  "Material preset",
+  1
+ ],
+ [
+  "Specular presets",
+  1
+ ],
+ [
+  "Roughness value",
+  1
+ ],
+ [
+  "Set a base roughness value",
+  1
+ ],
+ [
+  "Glossiness value",
+  1
+ ],
+ [
+  "Set a base value for glossiness",
+  1
+ ],
+ [
+  "Grunge tiling",
+  1
+ ],
+ [
+  "Custom grunge input",
+  1
+ ],
+ [
+  "Normal from height intensity",
+  1
+ ],
+ [
+  "Height position",
+  1
+ ],
+ [
+  "Add user defined normal map",
+  1
+ ],
+ [
+  "Add user defined gloss map",
+  1
+ ],
+ [
+  "Add user defined roughness map",
+  1
+ ],
+ [
+  "Add user defined ambient occlusion map",
+  1
+ ],
+ [
+  "Add user defined height map",
+  1
+ ],
+ [
+  "Grunge (Optional)",
+  1
+ ],
+ [
+  "Custom Roughness - Glossiness grunge map",
+  1
+ ],
+ [
+  "Normal DirectX",
+  1
+ ],
+ [
+  "Use specular level input",
+  1
+ ],
+ [
+  "Target",
+  1
+ ],
+ [
+  "Normal OpenGL",
+  1
+ ],
+ [
+  "Specular face color",
+  1
+ ],
+ [
+  "Gamma 2.2\nSpecular Face Color",
+  1
+ ],
+ [
+  "Gamma 1.0\nSpecular F0 map.\n[0, 0.08] For dielectrics\n1 for metals",
+  1
+ ],
+ [
+  "Deprecated\nPlease use \"basecolor_metallic_roughness_converter\" instead.",
+  1
+ ],
+ [
+  "PBR dielectric F0",
+  1
+ ],
+ [
+  "Specular F0",
+  1
+ ],
+ [
+  "Choose preset F0 value for common dielectrics",
+  1
+ ],
+ [
+  "Adjust specular range around 4% reflective:\n- 0.0 = 3%\n -0.5 = 4%\n- 1.0 = 4.7%",
+  1
+ ],
+ [
+  "Specular range - Glass",
+  1
+ ],
+ [
+  "Adjust specular range around 4% reflective:\n- 0.0 = 3.5%\n- 0.5 = 4%\n- 1.0 = 4.2%",
+  1
+ ],
+ [
+  "IOR",
+  1
+ ],
+ [
+  "Enter an IOR value to produce F0.\nDefault value set to plastic.",
+  1
+ ],
+ [
+  "PBR metal reflectance",
+  1
+ ],
+ [
+  "Preset metal F0 values",
+  1
+ ],
+ [
+  "PBR render (Deprecated)",
+  1
+ ],
+ [
+  "Diffuse dithering",
+  1
+ ],
+ [
+  "Specular emissive multiplier",
+  1
+ ],
+ [
+  "Controls how much the emissive parts are visible in the specular reflections.",
+  1
+ ],
+ [
+  "PBR render mapping (Color)",
+  1
+ ],
+ [
+  "PBR render mapping (Grayscale)",
+  1
+ ],
+ [
+  "Enable post effects",
+  1
+ ],
+ [
+  "Translucency",
+  1
+ ],
+ [
+  "Scattering distance scale",
+  1
+ ],
+ [
+  "Enable emissive lighting",
+  1
+ ],
+ [
+  "Enable subsurface scattering",
+  1
+ ],
+ [
+  "Scattering distance",
+  1
+ ],
+ [
+  "Red shift",
+  1
+ ],
+ [
+  "Rayleigh",
+  1
+ ],
+ [
+  "Normal tangent space",
+  1
+ ],
+ [
+  "PBR render mapping color",
+  1
+ ],
+ [
+  "PBR render mapping grayscale",
+  1
+ ],
+ [
+  "SSS",
+  1
+ ],
+ [
+  "Height adjust",
+  1
+ ],
+ [
+  "Display mode",
+  1
+ ],
+ [
+  "Show spheres helper",
+  1
+ ],
+ [
+  "Enable shadows",
+  1
+ ],
+ [
+  "Shadows quality",
+  1
+ ],
+ [
+  "Displace quality",
+  1
+ ],
+ [
+  "Vertical rotation",
+  1
+ ],
+ [
+  "Specular occlusion intensity",
+  1
+ ],
+ [
+  "Recompute normals (Recommended)",
+  1
+ ],
+ [
+  "Perlin noise 1 (Legacy)",
+  1
+ ],
+ [
+  "Perlin noise 1",
+  1
+ ],
+ [
+  "Perlin noise 2 (Legacy)",
+  1
+ ],
+ [
+  "Perlin noise 2",
+  1
+ ],
+ [
+  "Perlin noise zoom (Legacy)",
+  1
+ ],
+ [
+  "Perlin noise zoom",
+  1
+ ],
+ [
+  "Plasma (Legacy)",
+  1
+ ],
+ [
+  "Polygon 1 (Legacy)",
+  1
+ ],
+ [
+  "Polygon 2 (Legacy)",
+  1
+ ],
+ [
+  "Pow grayscale",
+  1
+ ],
+ [
+  "Pow color",
+  1
+ ],
+ [
+  "Premultiplied to straight",
+  1
+ ],
+ [
+  "Pre-Multiplied Alpha to Srtaight Alpha conversion.",
+  1
+ ],
+ [
+  "Straight to premultiplied",
+  1
+ ],
+ [
+  "Straight Alpha to Pre-multiplied Alpha conversion.",
+  1
+ ],
+ [
+  "Quad transform color",
+  1
+ ],
+ [
+  "Quad transform grayscale",
+  1
+ ],
+ [
+  "Computes the outer product of u ^ v",
+  1
+ ],
+ [
+  "Tests whether 'pos' is in [0, 1]x[0, 1]",
+  1
+ ],
+ [
+  "Quantize color (Simple)",
+  1
+ ],
+ [
+  "Quantize red channel",
+  1
+ ],
+ [
+  "Quantize green channel",
+  1
+ ],
+ [
+  "Quantize blue channel",
+  1
+ ],
+ [
+  "Quantize alpha channel",
+  1
+ ],
+ [
+  "Steps",
+  1
+ ],
+ [
+  "The number of separate values the input range should be approximated to.",
+  1
+ ],
+ [
+  "Slope curve",
+  1
+ ],
+ [
+  "Curve input",
+  1
+ ],
+ [
+  "Quantize color",
+  1
+ ],
+ [
+  "Max. color amount",
+  1
+ ],
+ [
+  "Contour smoothing",
+  1
+ ],
+ [
+  "Dithering pattern",
+  1
+ ],
+ [
+  "ID sort mode",
+  1
+ ],
+ [
+  "Downscale filtering",
+  1
+ ],
+ [
+  "Create color palette (16)",
+  1
+ ],
+ [
+  "Color amount",
+  1
+ ],
+ [
+  "Color #1",
+  1
+ ],
+ [
+  "Color #2",
+  1
+ ],
+ [
+  "Color #3",
+  1
+ ],
+ [
+  "Color #4",
+  1
+ ],
+ [
+  "Color #5",
+  1
+ ],
+ [
+  "Color #6",
+  1
+ ],
+ [
+  "Color #7",
+  1
+ ],
+ [
+  "Color #8",
+  1
+ ],
+ [
+  "Color #9",
+  1
+ ],
+ [
+  "Color #10",
+  1
+ ],
+ [
+  "Color #11",
+  1
+ ],
+ [
+  "Color #12",
+  1
+ ],
+ [
+  "Color #13",
+  1
+ ],
+ [
+  "Color #14",
+  1
+ ],
+ [
+  "Color #15",
+  1
+ ],
+ [
+  "Color #16",
+  1
+ ],
+ [
+  "View color palette",
+  1
+ ],
+ [
+  "Input (Unused)",
+  1
+ ],
+ [
+  "Palette (Packed)",
+  1
+ ],
+ [
+  "Kmeans iteration",
+  1
+ ],
+ [
+  "Bitonic sort iteration",
+  1
+ ],
+ [
+  "Dual sort",
+  1
+ ],
+ [
+  "Initial iteration",
+  1
+ ],
+ [
+  "Radial blur grayscale",
+  1
+ ],
+ [
+  "Radial blur color",
+  1
+ ],
+ [
+  "Reaction diffusion fast",
+  1
+ ],
+ [
+  "Reaction-diffusion iteration",
+  1
+ ],
+ [
+  "Replace color range",
+  1
+ ],
+ [
+  "Modify the selected color in function of a target color.",
+  1
+ ],
+ [
+  "Color to modify",
+  1
+ ],
+ [
+  "Source range",
+  1
+ ],
+ [
+  "Range of colors to modify.",
+  1
+ ],
+ [
+  "Replace color",
+  1
+ ],
+ [
+  "Input average color",
+  1
+ ],
+ [
+  "Average target color",
+  1
+ ],
+ [
+  "Alpha merge",
+  1
+ ],
+ [
+  "Merge an RGB image and a grayscale image into a  RGBA image.",
+  1
+ ],
+ [
+  "Alpha split",
+  1
+ ],
+ [
+  "Separate an RGBA image entry into an RGB image and an Alpha image.",
+  1
+ ],
+ [
+  "RGBA merge",
+  1
+ ],
+ [
+  "Merge 4 grayscale images entry in a RGBA image",
+  1
+ ],
+ [
+  "RGBA split",
+  1
+ ],
+ [
+  "Separate a RGBA image entry in 4 grayscale images",
+  1
+ ],
+ [
+  "Here, input a mesh baked curvature map.",
+  1
+ ],
+ [
+  "Sets the amount of dust on the rock.",
+  1
+ ],
+ [
+  "Sets how dirty the rock is.",
+  1
+ ],
+ [
+  "Sets the amount of edges wearing.",
+  1
+ ],
+ [
+  "Sets the wearing of the rock.",
+  1
+ ],
+ [
+  "Sets the size of the cracks.",
+  1
+ ],
+ [
+  "Sets the intensity and deepness of the cracks.",
+  1
+ ],
+ [
+  "Sets the age of the rock.",
+  1
+ ],
+ [
+  "Sets the position threshold of the age effect.",
+  1
+ ],
+ [
+  "Sets the rock sub-layer saturation level.",
+  1
+ ],
+ [
+  "Sets the rock sub-layer brightness level.",
+  1
+ ],
+ [
+  "Toggles the Physical size settings on or off.",
+  1
+ ],
+ [
+  "Scale of the input height map.",
+  1
+ ],
+ [
+  "Distribution of the rays.Cosine produces a physically accurate result.",
+  1
+ ],
+ [
+  "Sets the maximum distance rays can travel to be occluded.",
+  1
+ ],
+ [
+  "RT caustics grayscale",
+  1
+ ],
+ [
+  "RT caustics color",
+  1
+ ],
+ [
+  "Dispersion",
+  1
+ ],
+ [
+  "RT caustics base",
+  1
+ ],
+ [
+  "RT irradiance",
+  1
+ ],
+ [
+  "Compute bounces",
+  1
+ ],
+ [
+  "Environment exposure (EV)",
+  1
+ ],
+ [
+  "Emissive color space",
+  1
+ ],
+ [
+  "IBL shadows in raw irradiance alpha",
+  1
+ ],
+ [
+  "Emissive LOD bias",
+  1
+ ],
+ [
+  "Debug hit UV",
+  1
+ ],
+ [
+  "Light size",
+  1
+ ],
+ [
+  "Light scale (Soft shadows)",
+  1
+ ],
+ [
+  "Keep light above horizon",
+  1
+ ],
+ [
+  "Rust weathering",
+  1
+ ],
+ [
+  "Varnish damage scale",
+  1
+ ],
+ [
+  "Sets the AO map blend intensity.",
+  1
+ ],
+ [
+  "Safe transform color",
+  1
+ ],
+ [
+  "Safe transform grayscale",
+  1
+ ],
+ [
+  "Scratches 1 (Legacy)",
+  1
+ ],
+ [
+  "Scratches 1",
+  1
+ ],
+ [
+  "Scratches 2 (Legacy)",
+  1
+ ],
+ [
+  "Scratches 3 (Legacy)",
+  1
+ ],
+ [
+  "Scratches 3",
+  1
+ ],
+ [
+  "Scratches 4 (Legacy)",
+  1
+ ],
+ [
+  "Scratches 4",
+  1
+ ],
+ [
+  "Scratches generator (Legacy)",
+  1
+ ],
+ [
+  "Scratches scale",
+  1
+ ],
+ [
+  "Season filter (Deprecated)",
+  1
+ ],
+ [
+  "Here, input a base Color map.",
+  1
+ ],
+ [
+  "Season filter",
+  1
+ ],
+ [
+  "Shadows (Deprecated)",
+  1
+ ],
+ [
+  "Simple shape",
+  1
+ ],
+ [
+  "Extrude a 2D mask into a 2.5D shape.\n\nv1.0 (deprecated)",
+  1
+ ],
+ [
+  "Extrude a 2D mask into a 2.5D shape.\n\nv1.1",
+  1
+ ],
+ [
+  "Shape glow grayscale",
+  1
+ ],
+ [
+  "Shape glow color",
+  1
+ ],
+ [
+  "Shape mapper",
+  1
+ ],
+ [
+  "The amount of patterns placed along the selected shape.",
+  1
+ ],
+ [
+  "Link segments with pattern amount",
+  1
+ ],
+ [
+  "Segments",
+  1
+ ],
+ [
+  "The pattern which should be placed along the shape.",
+  1
+ ],
+ [
+  "Flip one on two",
+  1
+ ],
+ [
+  "Flip one every other shape vertically.",
+  1
+ ],
+ [
+  "Shape drop shadow grayscale",
+  1
+ ],
+ [
+  "Shape drop shadow color",
+  1
+ ],
+ [
+  "Shape splatter",
+  1
+ ],
+ [
+  "Avoid previous splatter overlap",
+  1
+ ],
+ [
+  "Shape splatter blend color",
+  1
+ ],
+ [
+  "Random pattern assignment",
+  1
+ ],
+ [
+  "Shape splatter blend grayscale",
+  1
+ ],
+ [
+  "Takes the Splatter Data as input to assign specific maps to each pattern.",
+  1
+ ],
+ [
+  "Use this image input along with the \"Color Input Opacity\" to colorize patterns.",
+  1
+ ],
+ [
+  "Shape splatter data extract",
+  1
+ ],
+ [
+  "UVs (Shape space)",
+  1
+ ],
+ [
+  "Returns the shape UVs aligned to the image coordinate system.",
+  1
+ ],
+ [
+  "UVs (Texture space)",
+  1
+ ],
+ [
+  "Returns the shape UVs aligned to the shape coordinate system.",
+  1
+ ],
+ [
+  "Bounding box size (Texture space)",
+  1
+ ],
+ [
+  "Returns the Shape bounding box size.",
+  1
+ ],
+ [
+  "Shape index XY",
+  1
+ ],
+ [
+  "Pattern ID",
+  1
+ ],
+ [
+  "Returns the pattern ID as integer.",
+  1
+ ],
+ [
+  "Shape angle",
+  1
+ ],
+ [
+  "Angle of the shape in turns.",
+  1
+ ],
+ [
+  "Shape splatter to mask",
+  1
+ ],
+ [
+  "Pattern ID start range",
+  1
+ ],
+ [
+  "Pattern ID end range",
+  1
+ ],
+ [
+  "Position function",
+  1
+ ],
+ [
+  "The amount of generated shapes.",
+  1
+ ],
+ [
+  "Shape type",
+  1
+ ],
+ [
+  "Recompute grid atlas normal",
+  1
+ ],
+ [
+  "Enable shape extrude",
+  1
+ ],
+ [
+  "Shape extrude samples",
+  1
+ ],
+ [
+  "Pattern function",
+  1
+ ],
+ [
+  "Pattern SDF function",
+  1
+ ],
+ [
+  "SDF bounding frame size",
+  1
+ ],
+ [
+  "Enable cutout",
+  1
+ ],
+ [
+  "Cutout threshold",
+  1
+ ],
+ [
+  "Normalized workflow",
+  1
+ ],
+ [
+  "Shape scale affects height scale",
+  1
+ ],
+ [
+  "Height offset from background",
+  1
+ ],
+ [
+  "Smooth background slope",
+  1
+ ],
+ [
+  "Height offset from ID",
+  1
+ ],
+ [
+  "Keep size ratio",
+  1
+ ],
+ [
+  "Shape scale random",
+  1
+ ],
+ [
+  "Shape scale post Poisson",
+  1
+ ],
+ [
+  "A scale factor applied after the Poisson disc simulation.",
+  1
+ ],
+ [
+  "Position random multiplier",
+  1
+ ],
+ [
+  "Position distribution sequence",
+  1
+ ],
+ [
+  "Density map multiplier",
+  1
+ ],
+ [
+  "Offset along normal",
+  1
+ ],
+ [
+  "Displaces the shapes along their normal – I.e. their local Z-axis.",
+  1
+ ],
+ [
+  "Offset along normal random",
+  1
+ ],
+ [
+  "Vector displacement multiplier",
+  1
+ ],
+ [
+  "Line position offset",
+  1
+ ],
+ [
+  "Line position offset mode",
+  1
+ ],
+ [
+  "3D rotation",
+  1
+ ],
+ [
+  "Applies a per-axis rotation uniformly to all shapes, in number of turns.",
+  1
+ ],
+ [
+  "3D rotation random",
+  1
+ ],
+ [
+  "3D rotation random multiplier",
+  1
+ ],
+ [
+  "3D rotation map multiplier",
+  1
+ ],
+ [
+  "Rotation around normal random",
+  1
+ ],
+ [
+  "Slope rotation",
+  1
+ ],
+ [
+  "Slope rotation input",
+  1
+ ],
+ [
+  "Vector map rotation axis",
+  1
+ ],
+ [
+  "Cap UV scale",
+  1
+ ],
+ [
+  "Cap UV mode",
+  1
+ ],
+ [
+  "Show shape 2D bbox",
+  1
+ ],
+ [
+  "Density map",
+  1
+ ],
+ [
+  "Height offset map",
+  1
+ ],
+ [
+  "Height scale map",
+  1
+ ],
+ [
+  "Shape scale map",
+  1
+ ],
+ [
+  "Show shape 3D bbox",
+  1
+ ],
+ [
+  "Show shape pivot",
+  1
+ ],
+ [
+  "Grid atlas height",
+  1
+ ],
+ [
+  "Grid atlas normal",
+  1
+ ],
+ [
+  "SDF color",
+  1
+ ],
+ [
+  "SDF metalness",
+  1
+ ],
+ [
+  "SDF roughness",
+  1
+ ],
+ [
+  "BVHT",
+  1
+ ],
+ [
+  "BBox (level 0)",
+  1
+ ],
+ [
+  "Pixel Hit Box",
+  1
+ ],
+ [
+  "Init (Functor)",
+  1
+ ],
+ [
+  "On BBox hit (Functor)",
+  1
+ ],
+ [
+  "Finally (Functor)",
+  1
+ ],
+ [
+  "Executed last once per pixel.\nReturn value is final pixel color output.",
+  1
+ ],
+ [
+  "input 5 (bg height)",
+  1
+ ],
+ [
+  "BBoxMipmap",
+  1
+ ],
+ [
+  "BBoxMipmapStep",
+  1
+ ],
+ [
+  "Mipmap N from O (Color)",
+  1
+ ],
+ [
+  "init (Functor, return discarded)",
+  1
+ ],
+ [
+  "blend (Functor, return discarded)",
+  1
+ ],
+ [
+  "finally (Functor)",
+  1
+ ],
+ [
+  "Level Infos",
+  1
+ ],
+ [
+  "An integer between 1 and 65535",
+  1
+ ],
+ [
+  "Position Input",
+  1
+ ],
+ [
+  "Position of the rectangle top left corner (pixel).",
+  1
+ ],
+ [
+  "Position of the rectangle bottom right corner (pixel).",
+  1
+ ],
+ [
+  "0: x\n1: y\n2: z",
+  1
+ ],
+ [
+  "0: x\n1: y",
+  1
+ ],
+ [
+  "Bitonic Sort 256x256",
+  1
+ ],
+ [
+  "Sort Progress",
+  1
+ ],
+ [
+  "Remap Sorting",
+  1
+ ],
+ [
+  "Sorted Table",
+  1
+ ],
+ [
+  "Bitonic Sort Iteration",
+  1
+ ],
+ [
+  "Dual Sort",
+  1
+ ],
+ [
+  "Initial Iteration",
+  1
+ ],
+ [
+  "poisson disc",
+  1
+ ],
+ [
+  "scanline to z order",
+  1
+ ],
+ [
+  "grid to scanline",
+  1
+ ],
+ [
+  "Position Distribution Mode",
+  1
+ ],
+ [
+  "Non Square Expansion",
+  1
+ ],
+ [
+  "shape splatter compute normal",
+  1
+ ],
+ [
+  "Non square expansion",
+  1
+ ],
+ [
+  "Enable displacement",
+  1
+ ],
+ [
+  "Normal format of the in atlas.",
+  1
+ ],
+ [
+  "Shape splatter v2 mapper color",
+  1
+ ],
+ [
+  "The color image used as background for the mapped shapes.",
+  1
+ ],
+ [
+  "Shape splatter v2 mapper grayscale",
+  1
+ ],
+ [
+  "The grayscale image used as background for the mapped shapes.",
+  1
+ ],
+ [
+  "An offset uniformly applied to the luminance of all shapes.",
+  1
+ ],
+ [
+  "Shape splatter v2 to mask",
+  1
+ ],
+ [
+  "Shape ID start range",
+  1
+ ],
+ [
+  "Shape ID end range",
+  1
+ ],
+ [
+  "Shape ID offset",
+  1
+ ],
+ [
+  "Shape random mask",
+  1
+ ],
+ [
+  "A factor for the random masking of shapes, where 1 means all shapes are masked.",
+  1
+ ],
+ [
+  "The computed mask of the selected shapes.",
+  1
+ ],
+ [
+  "Shape stroke color",
+  1
+ ],
+ [
+  "Shape stroke grayscale",
+  1
+ ],
+ [
+  "Outline color",
+  1
+ ],
+ [
+  "Skew color",
+  1
+ ],
+ [
+  "Skew transforms.",
+  1
+ ],
+ [
+  "Skew grayscale",
+  1
+ ],
+ [
+  "Skew transforms. Grayscale version.",
+  1
+ ],
+ [
+  "Slope blur color",
+  1
+ ],
+ [
+  "Directional blur with direction driven by effect map slope",
+  1
+ ],
+ [
+  "Smart auto tile",
+  1
+ ],
+ [
+  "Detect edges",
+  1
+ ],
+ [
+  "Cut offset",
+  1
+ ],
+ [
+  "Use base color",
+  1
+ ],
+ [
+  "Use normal",
+  1
+ ],
+ [
+  "Use height",
+  1
+ ],
+ [
+  "Normal to cos-sin",
+  1
+ ],
+ [
+  "Pattern find edges",
+  1
+ ],
+ [
+  "Pattern tiling",
+  1
+ ],
+ [
+  "Compute edges",
+  1
+ ],
+ [
+  "Mask min",
+  1
+ ],
+ [
+  "Mask max",
+  1
+ ],
+ [
+  "Pattern find edges step",
+  1
+ ],
+ [
+  "Splatter",
+  1
+ ],
+ [
+  "Splatter grayscale",
+  1
+ ],
+ [
+  "Splatter circular (Legacy)",
+  1
+ ],
+ [
+  "Splatter circular color (Legacy)",
+  1
+ ],
+ [
+  "Number",
+  1
+ ],
+ [
+  "Pattern image entry",
+  1
+ ],
+ [
+  "Pattern color",
+  1
+ ],
+ [
+  "Splatter color",
+  1
+ ],
+ [
+  "Source alpha",
+  1
+ ],
+ [
+  "Spline circle",
+  1
+ ],
+ [
+  "Generates a single spline in the shape of a circle.",
+  1
+ ],
+ [
+  "Circle radius",
+  1
+ ],
+ [
+  "Circle pre-rotation",
+  1
+ ],
+ [
+  "Circle size",
+  1
+ ],
+ [
+  "Circle post-rotation",
+  1
+ ],
+ [
+  "Circle position",
+  1
+ ],
+ [
+  "Trim",
+  1
+ ],
+ [
+  "Spiral",
+  1
+ ],
+ [
+  "Spiral turns",
+  1
+ ],
+ [
+  "Spiral power",
+  1
+ ],
+ [
+  "Spline (Cubic)",
+  1
+ ],
+ [
+  "Start tangent height",
+  1
+ ],
+ [
+  "End tangent height",
+  1
+ ],
+ [
+  "Start tangent thickness",
+  1
+ ],
+ [
+  "End tangent thickness",
+  1
+ ],
+ [
+  "P1 tangent",
+  1
+ ],
+ [
+  "P2 tangent",
+  1
+ ],
+ [
+  "Spline (Quadratic)",
+  1
+ ],
+ [
+  "Tangent height",
+  1
+ ],
+ [
+  "Tangent thickness",
+  1
+ ],
+ [
+  "Spline (Poly quadratic)",
+  1
+ ],
+ [
+  "Points amount",
+  1
+ ],
+ [
+  "Input spline connection mode",
+  1
+ ],
+ [
+  "Close spline",
+  1
+ ],
+ [
+  "Use input point list",
+  1
+ ],
+ [
+  "Connect start to input spline",
+  1
+ ],
+ [
+  "Start connection spline index",
+  1
+ ],
+ [
+  "Start connection position",
+  1
+ ],
+ [
+  "Connect end to input spline",
+  1
+ ],
+ [
+  "End connection spline index",
+  1
+ ],
+ [
+  "End connection position",
+  1
+ ],
+ [
+  "Input point list",
+  1
+ ],
+ [
+  "Show points label",
+  1
+ ],
+ [
+  "Points label size",
+  1
+ ],
+ [
+  "Envelope spline amount",
+  1
+ ],
+ [
+  "Thickness size mode",
+  1
+ ],
+ [
+  "Thickness (Image)",
+  1
+ ],
+ [
+  "Enable joints",
+  1
+ ],
+ [
+  "Spline style",
+  1
+ ],
+ [
+  "Spline color",
+  1
+ ],
+ [
+  "Random segments start",
+  1
+ ],
+ [
+  "Random segments end",
+  1
+ ],
+ [
+  "Random offset center",
+  1
+ ],
+ [
+  "Spline fill",
+  1
+ ],
+ [
+  "Spline bridge (2 splines)",
+  1
+ ],
+ [
+  "Bridge splines amount",
+  1
+ ],
+ [
+  "Start spline#1",
+  1
+ ],
+ [
+  "Start spline#2",
+  1
+ ],
+ [
+  "End spline#1",
+  1
+ ],
+ [
+  "End spline#2",
+  1
+ ],
+ [
+  "Offset spline#1",
+  1
+ ],
+ [
+  "Offset spline#2",
+  1
+ ],
+ [
+  "Offset random start",
+  1
+ ],
+ [
+  "Offset random end",
+  1
+ ],
+ [
+  "Tangent length start",
+  1
+ ],
+ [
+  "Tangent length end",
+  1
+ ],
+ [
+  "Tangent rotation start",
+  1
+ ],
+ [
+  "Start tangent length curve",
+  1
+ ],
+ [
+  "Start tangent rotation curve",
+  1
+ ],
+ [
+  "End tangent length curve",
+  1
+ ],
+ [
+  "End tangent rotation curve",
+  1
+ ],
+ [
+  "Tangent rotation end",
+  1
+ ],
+ [
+  "Spline bridge (list) (Deprecated)",
+  1
+ ],
+ [
+  "Spline bridge (List)",
+  1
+ ],
+ [
+  "First bridge spline offset",
+  1
+ ],
+ [
+  "Last bridge spline offset",
+  1
+ ],
+ [
+  "Start random offset",
+  1
+ ],
+ [
+  "End random offset",
+  1
+ ],
+ [
+  "Global random offset",
+  1
+ ],
+ [
+  "Thickness random",
+  1
+ ],
+ [
+  "Height mode",
+  1
+ ],
+ [
+  "Spline append",
+  1
+ ],
+ [
+  "Flip spline #1 direction",
+  1
+ ],
+ [
+  "Flip spline #2 direction",
+  1
+ ],
+ [
+  "Spline merge list",
+  1
+ ],
+ [
+  "Closed spline distance threshold",
+  1
+ ],
+ [
+  "Spline select",
+  1
+ ],
+ [
+  "Spline sample height",
+  1
+ ],
+ [
+  "Spline sample thickness",
+  1
+ ],
+ [
+  "Thickness map",
+  1
+ ],
+ [
+  "Spline 2D transform",
+  1
+ ],
+ [
+  "Spline warp",
+  1
+ ],
+ [
+  "Recompute tangents",
+  1
+ ],
+ [
+  "Attenuation curve",
+  1
+ ],
+ [
+  "Point list input",
+  1
+ ],
+ [
+  "Scatter on spline grayscale",
+  1
+ ],
+ [
+  "Shape base color multiplier",
+  1
+ ],
+ [
+  "Hemisphere height mode",
+  1
+ ],
+ [
+  "Height map input sampling mode",
+  1
+ ],
+ [
+  "Scatter on spline color",
+  1
+ ],
+ [
+  "Pattern input alpha mode",
+  1
+ ],
+ [
+  "Color mode",
+  1
+ ],
+ [
+  "Color input multiplier",
+  1
+ ],
+ [
+  "Color map input sampling mode",
+  1
+ ],
+ [
+  "Random color center",
+  1
+ ],
+ [
+  "Spline mapper grayscale",
+  1
+ ],
+ [
+  "Spline mapper color",
+  1
+ ],
+ [
+  "Spline bridge mapper grayscale",
+  1
+ ],
+ [
+  "Spline bridge mapper color",
+  1
+ ],
+ [
+  "Spline flow mapper",
+  1
+ ],
+ [
+  "Attenuation profile",
+  1
+ ],
+ [
+  "Spline height attenuation",
+  1
+ ],
+ [
+  "Attenuation profile curve",
+  1
+ ],
+ [
+  "Scale map input sampling mode",
+  1
+ ],
+ [
+  "Custom spline start height mult.",
+  1
+ ],
+ [
+  "Custom spline end height mult.",
+  1
+ ],
+ [
+  "Custom spline coords",
+  1
+ ],
+ [
+  "Custom spline data",
+  1
+ ],
+ [
+  "Custom spline amount",
+  1
+ ],
+ [
+  "Compute spline tangents",
+  1
+ ],
+ [
+  "Enabled",
+  1
+ ],
+ [
+  "Get spline point coords",
+  1
+ ],
+ [
+  "Normalize spline distance",
+  1
+ ],
+ [
+  "xy: position\nzw: unormalized normal",
+  1
+ ],
+ [
+  "Compute spline bridge data",
+  1
+ ],
+ [
+  "Compute spline length init",
+  1
+ ],
+ [
+  "Compute uniform distribution",
+  1
+ ],
+ [
+  "Spline distance",
+  1
+ ],
+ [
+  "Resample spline position",
+  1
+ ],
+ [
+  "Spline warp sub",
+  1
+ ],
+ [
+  "Select spline sub",
+  1
+ ],
+ [
+  "Spine index",
+  1
+ ],
+ [
+  "Map",
+  1
+ ],
+ [
+  "Property",
+  1
+ ],
+ [
+  "Flip spline 1 direction",
+  1
+ ],
+ [
+  "Flip spline 2 direction",
+  1
+ ],
+ [
+  "2D transform spline",
+  1
+ ],
+ [
+  "Parent size (Log2)",
+  1
+ ],
+ [
+  "Spline mapper base",
+  1
+ ],
+ [
+  "Scale UVs depending on the spline length and the thickness along the spline.",
+  1
+ ],
+ [
+  "Spline bridge mapper base",
+  1
+ ],
+ [
+  "Point offset",
+  1
+ ],
+ [
+  "WIP",
+  1
+ ],
+ [
+  "Start height multiplier",
+  1
+ ],
+ [
+  "End height multiplier",
+  1
+ ],
+ [
+  "Generate splines on splines preprocess",
+  1
+ ],
+ [
+  "Bridge line amount",
+  1
+ ],
+ [
+  "Spline_data",
+  1
+ ],
+ [
+  "Input curve tiling",
+  1
+ ],
+ [
+  "Spline morph",
+  1
+ ],
+ [
+  "Spot emboss",
+  1
+ ],
+ [
+  "Light position X",
+  1
+ ],
+ [
+  "Light position Y",
+  1
+ ],
+ [
+  "Starburst",
+  1
+ ],
+ [
+  "Blur amount",
+  1
+ ],
+ [
+  "Size min",
+  1
+ ],
+ [
+  "Size max",
+  1
+ ],
+ [
+  "Stripes (Legacy)",
+  1
+ ],
+ [
+  "Summed area table",
+  1
+ ],
+ [
+  "Swirl color",
+  1
+ ],
+ [
+  "Swirl grayscale",
+  1
+ ],
+ [
+  "Matrix invert 2x2",
+  1
+ ],
+ [
+  "The axis of symmetry that should be applied.",
+  1
+ ],
+ [
+  "The method of blending the result of the symmetry with the input.",
+  1
+ ],
+ [
+  "Symmetry slice",
+  1
+ ],
+ [
+  "Creates a symmetry from a entry image slice",
+  1
+ ],
+ [
+  "Transfer mode",
+  1
+ ],
+ [
+  "Flip side",
+  1
+ ],
+ [
+  "Flip side2",
+  1
+ ],
+ [
+  "Material graph template with base outputs",
+  1
+ ],
+ [
+  "Material graph template with extended outputs",
+  1
+ ],
+ [
+  "Material graph template with advanced outputs and dynamic parameters",
+  1
+ ],
+ [
+  "Hue shift",
+  1
+ ],
+ [
+  "Material graph template based  on Bitmap To Material filter",
+  1
+ ],
+ [
+  "Composting of two materials with shadows template",
+  1
+ ],
+ [
+  "Tileable material to mesh material",
+  1
+ ],
+ [
+  "Prelighting intensity",
+  1
+ ],
+ [
+  "Set the prelighting intensity in diffuse map and specular maps.",
+  1
+ ],
+ [
+  "Set the AO multiplication intensity in diffuse map and specular maps.",
+  1
+ ],
+ [
+  "Edges sharpness intensity",
+  1
+ ],
+ [
+  "Darken inner edges and brighter sharp edges in diffuse map.",
+  1
+ ],
+ [
+  "Tile generator (Legacy)",
+  1
+ ],
+ [
+  "Tile generator",
+  1
+ ],
+ [
+  "Tile generator color (Legacy)",
+  1
+ ],
+ [
+  "Tile random (Legacy)",
+  1
+ ],
+ [
+  "Tile random color (Legacy)",
+  1
+ ],
+ [
+  "Tile sampler (Legacy)",
+  1
+ ],
+ [
+  "Scale parameterization affect",
+  1
+ ],
+ [
+  "Tile sampler color (Legacy)",
+  1
+ ],
+ [
+  "Scale parametrisation affect",
+  1
+ ],
+ [
+  "Trapezoid transform color",
+  1
+ ],
+ [
+  "Trapezoid transform grayscale",
+  1
+ ],
+ [
+  "Triplanar color",
+  1
+ ],
+ [
+  "Uber emboss",
+  1
+ ],
+ [
+  "Specular color",
+  1
+ ],
+ [
+  "Specular Glossiness",
+  1
+ ],
+ [
+  "Diffuse roughness",
+  1
+ ],
+ [
+  "Get size color",
+  1
+ ],
+ [
+  "Get size grayscale",
+  1
+ ],
+ [
+  "Vector morph color",
+  1
+ ],
+ [
+  "Vector morph grayscale",
+  1
+ ],
+ [
+  "Vector warp color",
+  1
+ ],
+ [
+  "Vector warp grayscale",
+  1
+ ],
+ [
+  "Vertical noise (Legacy)",
+  1
+ ],
+ [
+  "Vertical noise",
+  1
+ ],
+ [
+  "The horizontal span of the waveform visible in the image.",
+  1
+ ],
+ [
+  "Amplitude min.",
+  1
+ ],
+ [
+  "The minimum value (or thickness) of the waveform.",
+  1
+ ],
+ [
+  "Amplitude max.",
+  1
+ ],
+ [
+  "The maximum value (or thickness) of the waveform.",
+  1
+ ],
+ [
+  "Applies noise to the waveform which randomly subtracts from its vertical span.",
+  1
+ ],
+ [
+  "The pattern placed at each sample of the waveform.",
+  1
+ ],
+ [
+  "An additional adjustment available for some patterns.",
+  1
+ ],
+ [
+  "Weave 1 (Legacy)",
+  1
+ ],
+ [
+  "Weave 2 (Legacy)",
+  1
+ ],
+ [
+  "Weave 3 (Legacy)",
+  1
+ ],
+ [
+  "Weave 3",
+  1
+ ],
+ [
+  "Weave 4 (Legacy)",
+  1
+ ],
+ [
+  "Weave 4",
+  1
+ ],
+ [
+  "Weave generator (Legacy)",
+  1
+ ],
+ [
+  "Legacy white noise, to use for old engine v4 integrations.",
+  1
+ ],
+ [
+  "White noise fast",
+  1
+ ],
+ [
+  "Fast white noise for engine v5 compatible integrations.",
+  1
+ ],
+ [
+  "Noise distribution",
+  1
+ ],
+ [
+  "Wood fibers 1 (Legacy)",
+  1
+ ],
+ [
+  "Wood fibers",
+  1
+ ],
+ [
+  "Wood fibers 2 (Legacy)",
+  1
+ ],
+ [
+  "Wood noise",
+  1
+ ],
+ [
+  "Wood weathering (Deprecated)",
+  1
+ ],
+ [
+  "This filter add a weathering effect on a wood material.",
+  1
+ ],
+ [
+  "Normal High Poly",
+  1
+ ],
+ [
+  "Normal World Space",
+  1
+ ],
+ [
+  "Varnish peeling",
+  1
+ ],
+ [
+  "Used wood desaturation",
+  1
+ ],
+ [
+  "Used wood brightness",
+  1
+ ],
+ [
+  "Bricks 001",
+  1
+ ],
+ [
+  "Old brownish brickwall.",
+  1
+ ],
+ [
+  "Bricks Amount X",
+  1
+ ],
+ [
+  "Bricks Amount Y",
+  1
+ ],
+ [
+  "Bricks Offset Random",
+  1
+ ],
+ [
+  "Bricks Depth",
+  1
+ ],
+ [
+  "Bricks Balance",
+  1
+ ],
+ [
+  "Bricks Color 01",
+  1
+ ],
+ [
+  "Bricks Color 02",
+  1
+ ],
+ [
+  "Bricks 005",
+  1
+ ],
+ [
+  "Patterned brick texture.",
+  1
+ ],
+ [
+  "Edges Bricks Amount",
+  1
+ ],
+ [
+  "Interstices Shape",
+  1
+ ],
+ [
+  "Damaged Edges",
+  1
+ ],
+ [
+  "Cement Color",
+  1
+ ],
+ [
+  "Tile Color",
+  1
+ ],
+ [
+  "Cardboard 001",
+  1
+ ],
+ [
+  "Regular cardboard.",
+  1
+ ],
+ [
+  "Tearing",
+  1
+ ],
+ [
+  "Film",
+  1
+ ],
+ [
+  "Cardboard Color",
+  1
+ ],
+ [
+  "Film Color",
+  1
+ ],
+ [
+  "Classic brown concrete",
+  1
+ ],
+ [
+  "Classic brown concrete.",
+  1
+ ],
+ [
+  "Concrete 002",
+  1
+ ],
+ [
+  "Concrete column.",
+  1
+ ],
+ [
+  "Columns Amount",
+  1
+ ],
+ [
+  "Shape Variation",
+  1
+ ],
+ [
+  "Concrete 005",
+  1
+ ],
+ [
+  "Heavily damaged concrete.",
+  1
+ ],
+ [
+  "Concrect Layer Balance",
+  1
+ ],
+ [
+  "Holes Amount",
+  1
+ ],
+ [
+  "Holes Scale",
+  1
+ ],
+ [
+  "White Stains",
+  1
+ ],
+ [
+  "Wet",
+  1
+ ],
+ [
+  "Concrete Layer1 Color",
+  1
+ ],
+ [
+  "Concrete Layer2 Color",
+  1
+ ],
+ [
+  "Concrete Layer3 Color",
+  1
+ ],
+ [
+  "Concrete 006",
+  1
+ ],
+ [
+  "Concrete with plaster.",
+  1
+ ],
+ [
+  "Set the angle of the diffuse prelighting. By default lighted from top left.",
+  1
+ ],
+ [
+  "Diffuse AO Intensity",
+  1
+ ],
+ [
+  "Moisture",
+  1
+ ],
+ [
+  "Paint",
+  1
+ ],
+ [
+  "Moisture Color",
+  1
+ ],
+ [
+  "Damages",
+  1
+ ],
+ [
+  "Concrete 010",
+  1
+ ],
+ [
+  "Pink concrete with peebles.",
+  1
+ ],
+ [
+  "Bumps",
+  1
+ ],
+ [
+  "Concrete 011",
+  1
+ ],
+ [
+  "Old white concrete.",
+  1
+ ],
+ [
+  "Pebbles",
+  1
+ ],
+ [
+  "Pebbles Color",
+  1
+ ],
+ [
+  "Concrete 044",
+  1
+ ],
+ [
+  "Slick dark concrete.",
+  1
+ ],
+ [
+  "Dirtiness Color 01",
+  1
+ ],
+ [
+  "Dirtiness Color 02",
+  1
+ ],
+ [
+  "Concrete 070",
+  1
+ ],
+ [
+  "Brown concrete.",
+  1
+ ],
+ [
+  "Variations",
+  1
+ ],
+ [
+  "Concrete pavement",
+  1
+ ],
+ [
+  "Street pavement.",
+  1
+ ],
+ [
+  "Adjusts the global color range. Editable.",
+  1
+ ],
+ [
+  "Edge Warp",
+  1
+ ],
+ [
+  "Water Level",
+  1
+ ],
+ [
+  "Ground Color",
+  1
+ ],
+ [
+  "Fabric 002",
+  1
+ ],
+ [
+  "Pattern Scale",
+  1
+ ],
+ [
+  "Fabric Pattern Scale",
+  1
+ ],
+ [
+  "Creases Intensity",
+  1
+ ],
+ [
+  "Stains Type",
+  1
+ ],
+ [
+  "Stains Amount",
+  1
+ ],
+ [
+  "Stains Size",
+  1
+ ],
+ [
+  "Stains Anisotropy",
+  1
+ ],
+ [
+  "Stains Anisotropy Angle",
+  1
+ ],
+ [
+  "Fabric Color 01",
+  1
+ ],
+ [
+  "Fabric Color 02",
+  1
+ ],
+ [
+  "Fabric Color 03",
+  1
+ ],
+ [
+  "Fabric Color 04",
+  1
+ ],
+ [
+  "Type",
+  1
+ ],
+ [
+  "Parallax",
+  1
+ ],
+ [
+  "Parallax Smoothness",
+  1
+ ],
+ [
+  "Edges Disorder",
+  1
+ ],
+ [
+  "Dispertion",
+  1
+ ],
+ [
+  "Directional Dispertion",
+  1
+ ],
+ [
+  "normal",
+  1
+ ],
+ [
+  "height",
+  1
+ ],
+ [
+  "Directional Dispertion Angle",
+  1
+ ],
+ [
+  "Normal Thickness",
+  1
+ ],
+ [
+  "Fabric 009",
+  1
+ ],
+ [
+  "Brown regular denim.",
+  1
+ ],
+ [
+  "Seams",
+  1
+ ],
+ [
+  "Seams Offset",
+  1
+ ],
+ [
+  "Seams Color",
+  1
+ ],
+ [
+  "Denim Color",
+  1
+ ],
+ [
+  "Fabric 025",
+  1
+ ],
+ [
+  "Wool mesh.",
+  1
+ ],
+ [
+  "Dirt Amount",
+  1
+ ],
+ [
+  "Set the shape of creases.",
+  1
+ ],
+ [
+  "Fabric Color",
+  1
+ ],
+ [
+  "Gravel",
+  1
+ ],
+ [
+  "Standard gravel.",
+  1
+ ],
+ [
+  "Layers",
+  1
+ ],
+ [
+  "Gravel Scale",
+  1
+ ],
+ [
+  "Metal 002",
+  1
+ ],
+ [
+  "Aged metal texture.",
+  1
+ ],
+ [
+  "Deep Rust",
+  1
+ ],
+ [
+  "Rust Drips",
+  1
+ ],
+ [
+  "Bullets Impacts Amount",
+  1
+ ],
+ [
+  "Bullets Impacts Cracks",
+  1
+ ],
+ [
+  "Deep Rust Color",
+  1
+ ],
+ [
+  "Metal 003",
+  1
+ ],
+ [
+  "Metal detail.",
+  1
+ ],
+ [
+  "Metal 006",
+  1
+ ],
+ [
+  "Standard metal floor.",
+  1
+ ],
+ [
+  "Scratches Angle",
+  1
+ ],
+ [
+  "Metal plate 001",
+  1
+ ],
+ [
+  "Used metalic texture.",
+  1
+ ],
+ [
+  "Rivets Amount",
+  1
+ ],
+ [
+  "Rivets Offset",
+  1
+ ],
+ [
+  "Sub Laye Color",
+  1
+ ],
+ [
+  "Metal plate 004",
+  1
+ ],
+ [
+  "Metal roll up plate.",
+  1
+ ],
+ [
+  "Pattern Amount",
+  1
+ ],
+ [
+  "Rust drips",
+  1
+ ],
+ [
+  "Bullets Impacts_Amount",
+  1
+ ],
+ [
+  "bullets impacts cracks",
+  1
+ ],
+ [
+  "Old painted planks",
+  1
+ ],
+ [
+  "Old painted planks.",
+  1
+ ],
+ [
+  "Planks Amount",
+  1
+ ],
+ [
+  "Screws",
+  1
+ ],
+ [
+  "Paint Age",
+  1
+ ],
+ [
+  "Planks Color Variation",
+  1
+ ],
+ [
+  "Planks Color",
+  1
+ ],
+ [
+  "Paint Roughness",
+  1
+ ],
+ [
+  "Paper 005",
+  1
+ ],
+ [
+  "Table paper.",
+  1
+ ],
+ [
+  "Pleat",
+  1
+ ],
+ [
+  "Paper Color",
+  1
+ ],
+ [
+  "Paper Roughness",
+  1
+ ],
+ [
+  "Rough concrete with lines",
+  1
+ ],
+ [
+  "Rough concrete with lines.",
+  1
+ ],
+ [
+  "Joints",
+  1
+ ],
+ [
+  "Tiles 002",
+  1
+ ],
+ [
+  "Persian ceramic tiles.",
+  1
+ ],
+ [
+  "Tiles 003",
+  1
+ ],
+ [
+  "Funky tiles.",
+  1
+ ],
+ [
+  "Tiles Removing",
+  1
+ ],
+ [
+  "Tiles Pattern Variation",
+  1
+ ],
+ [
+  "Tiles Disorder",
+  1
+ ],
+ [
+  "Tiles 008",
+  1
+ ],
+ [
+  "Pastel mosaic tiles.",
+  1
+ ],
+ [
+  "Tiles Amount X",
+  1
+ ],
+ [
+  "Tiles Amount Y",
+  1
+ ],
+ [
+  "Tiles 3 Color",
+  1
+ ],
+ [
+  "Tiles 4 Color",
+  1
+ ],
+ [
+  "Tiles 011",
+  1
+ ],
+ [
+  "Large ceramic tiles.",
+  1
+ ],
+ [
+  "Mortar Color",
+  1
+ ],
+ [
+  "Tiles 025",
+  1
+ ],
+ [
+  "Concrete hexagon tiles.",
+  1
+ ],
+ [
+  "Bevel_Size",
+  1
+ ],
+ [
+  "Color Variation",
+  1
+ ],
+ [
+  "Wood american cherry",
+  1
+ ],
+ [
+  "American cherry wood.",
+  1
+ ],
+ [
+  "Hue_Shift",
+  1
+ ],
+ [
+  "Knots",
+  1
+ ],
+ [
+  "Fibers",
+  1
+ ],
+ [
+  "Wood Color",
+  1
+ ],
+ [
+  "Wood Roughness",
+  1
+ ]
+]
